@@ -8,6 +8,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
     - [Video Diffusion for Generation](#video-diffusion-for-generation)
     - [Video Editing](#video-editing)
     - [Long-form Video Generation and Completion](#long-form-video-generation-and-completion)
+    - [Human or Subject Motion](#human-or-subject-motion)
     - [Video Enhancement and Restoration](#video-enhancement-and-restoration)
     - [3D Video](#3d-video)
     - [Video Understanding](#video-understanding)
