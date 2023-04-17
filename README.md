@@ -3,11 +3,12 @@ A list of recent video diffusion methods for generation, editing, enhancement an
 
 
 ### Opensource toolboxes and foudation models 
-+[Videocrafter](https://github.com/VideoCrafter/VideoCrafter) 
-+[ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
++ [Videocrafter](https://github.com/VideoCrafter/VideoCrafter) 
++ [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
 
 ### Video Diffusion for Generation 
-+ [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897)(CVPR 2023) [github](https://github.com/sukun1045/video-physics-sound-diffusion) [arxiv](https://arxiv.org/abs/2303.16897) [project page](https://sukun1045.github.io/video-physics-sound-diffusion/) 
++ [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897)(CVPR 2023) 
+\[github\](https://github.com/sukun1045/video-physics-sound-diffusion) [arxiv](https://arxiv.org/abs/2303.16897) [project page](https://sukun1045.github.io/video-physics-sound-diffusion/) 
 + [Seer: Language Instructed Video Prediction with Latent Diffusion Models](https://arxiv.org/abs/2303.14897) [github](https://seervideodiffusion.github.io/) [arxiv](https://arxiv.org/abs/2303.14897) [project page](https://seervideodiffusion.github.io/) 
 + [Text2video-Zero: Text-to-Image Diffusion Models Are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439)(Mar., 2023) [github](https://github.com/Picsart-AI-Research/Text2Video-Zero) [arxiv](https://arxiv.org/abs/2303.13439) [project page](https://text2video-zero.github.io/) 
 + [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/abs/2303.13744)(CVPR 2023) [github](https://github.com/nihaomiao/CVPR23_LFDM) [arxiv](https://arxiv.org/abs/2303.13744) [project page]
