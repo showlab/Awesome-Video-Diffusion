@@ -25,10 +25,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
     - [Healthcare and Biology](#healthcare-and-biology)
 
 
-<<<<<<< HEAD
-### Opensource Toolboxes and Foudation Models {#opensource} 
-+ [Videocrafter](https://github.com/VideoCrafter/VideoCrafter)[![Star](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg?style=social&label=Star)](https://github.com/VideoCrafter/VideoCrafter)
-=======
+
 
 ### Open-source Toolboxes and Foundation Models 
 + [Videocrafter](https://github.com/VideoCrafter/VideoCrafter) 
