@@ -1,5 +1,5 @@
-# Awsome Video Diffusion
-A list of recent video diffusion methods for generation, editing, enhancement and understanding.
+# Awsome Video Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A list of recent video diffusion papers for generation, editing, enhancement and understanding. 
 
 
 ### Opensource Toolboxes and Foudation Models 
@@ -7,8 +7,9 @@ A list of recent video diffusion methods for generation, editing, enhancement an
 + [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
 
 ### Video Diffusion for Generation 
-+ [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897)(CVPR 2023)  
-  [[github]](https://github.com/sukun1045/video-physics-sound-diffusion) [[arxiv]](https://arxiv.org/abs/2303.16897) [[project page]](https://sukun1045.github.io/video-physics-sound-diffusion/) 
++ [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897)(CVPR 2023) 
+ 
+  [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star)](https://github.com/sukun1045/video-physics-sound-diffusion) [[arxiv]](https://arxiv.org/abs/2303.16897) [[project page]](https://sukun1045.github.io/video-physics-sound-diffusion/) 
 
 + [Seer: Language Instructed Video Prediction with Latent Diffusion Models](https://arxiv.org/abs/2303.14897)(Mar., 2023)  
   [[github]](https://seervideodiffusion.github.io/) [[arxiv]](https://arxiv.org/abs/2303.14897) [[project page]](https://seervideodiffusion.github.io/) 
@@ -37,7 +38,7 @@ A list of recent video diffusion methods for generation, editing, enhancement an
 + [Magvit: Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199)(Dec., 2022)    
   [[github]](https://github.com/MAGVIT/magvit) [[arxiv]](https://arxiv.org/abs/2212.05199) [[project page]](https://magvit.cs.cmu.edu/) 
 
-+ [VIDM: Video Implicit Diffusion Models](https://arxiv.org/abs/2212.00235)(Dec., 2022)   
++ [VIDM: Video Implicit Diffusion Models](https://arxiv.org/abs/2212.00235)(AAAI 2023)   
   [[github]](https://github.com/MKFMIKU/VIDM) [[arxiv]](https://arxiv.org/abs/2212.00235) [[project page]](https://kfmei.page/vidm/) 
 
 + [Latent Video Diffusion Models for High-Fidelity Video Generation With Arbitrary Lengths](https://arxiv.org/abs/2211.13221)(Nov., 2022)   
