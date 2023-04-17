@@ -1,8 +1,21 @@
 # Awsome Video Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of recent diffusion papers for video generation, editing, enhancement and understanding. 
 
+## Table of Contents
+- [Awsome Video Diffusion ](#awsome-video-diffusion-)
+  - [Table of Contents](#table-of-contents)
+    - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
+    - [Video Diffusion for Generation](#video-diffusion-for-generation)
+    - [Video Editing](#video-editing)
+    - [Long-form Video Generation and Completion](#long-form-video-generation-and-completion)
+    - [Video Enhancement and Restoration](#video-enhancement-and-restoration)
+    - [3D Video](#3d-video)
+    - [Video Understanding](#video-understanding)
+    - [Healthcare and Biology](#healthcare-and-biology)
 
-### Opensource Toolboxes and Foudation Models 
+
+
+### Open-source Toolboxes and Foundation Models 
 + [Videocrafter](https://github.com/VideoCrafter/VideoCrafter) 
 + [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
 
@@ -29,7 +42,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 + [Structure and Content-Guided Video Synthesis With Diffusion Models](https://arxiv.org/abs/2302.03011)(Feb., 2023)   
   [github] [[arxiv]](https://arxiv.org/abs/2302.03011) [[project page]](https://research.runwayml.com/gen2) 
 
-+ [Tune-a-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565)(Dec., 2022)   
++ [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565)(Dec., 2022)   
   [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star)](https://github.com/showlab/Tune-A-Video) [[arxiv]](https://arxiv.org/abs/2212.11565) [[project page]](https://tuneavideo.github.io/) 
 
 + [Mm-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation](https://arxiv.org/abs/2212.09478)(CVPR 2023)   
@@ -51,7 +64,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [github] [[arxiv]](https://arxiv.org/abs/2211.11018) [[project page]](https://magicvideo.github.io/#)
 
 + [Imagen Video: High Definition Video Generation With Diffusion Models](https://arxiv.org/abs/2210.02303)(Oct., 2022)   
-  [github] [[arxiv]]((https://arxiv.org/abs/2210.02303)[[project page]](https://imagen.research.google/video/)
+  [github] [[arxiv]](https://arxiv.org/abs/2210.02303) [[project page]](https://imagen.research.google/video/)
 
 + [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://openreview.net/forum?id=nJfylDvgzlq)(ICLR 2023)   
   [github] [arixv](https://openreview.net/forum?id=nJfylDvgzlq) [[project page]](https://makeavideo.studio)
@@ -93,7 +106,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star)](https://github.com/man805/Diffusion-Video-Autoencoders) [[arxiv]](https://arxiv.org/abs/2212.02802) [[project page]](https://diff-video-ae.github.io/) 
 
 
-### Long Form Video Generation and Completetion
+### Long-form Video Generation and Completion
 + [McVd: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853)(NeurIPS 2022)   
   [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star)](https://github.com/voletiv/mcvd-pytorch) [[arixv]](https://arxiv.org/abs/2205.09853) [[project page]](https://mask-cond-video-diffusion.github.io)
 
@@ -104,7 +117,6 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star)](https://github.com/plai-group/flexible-video-diffusion-modeling) [[arxiv]](https://arxiv.org/abs/2205.11495) [[project page]](https://fdmolv.github.io/)
 
 ### Video Enhancement and Restoration
-
 
 + [Ldmvfi: Video Frame Interpolation With Latent Diffusion Models](https://arxiv.org/abs/2303.09508)(Mar., 2023)   
   [github] [[arxiv]](https://arxiv.org/abs/2303.09508) [project page]
