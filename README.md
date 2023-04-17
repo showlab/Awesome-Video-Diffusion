@@ -16,23 +16,14 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 
 ### Open-source Toolboxes and Foundation Models 
 
-<<<<<<< HEAD
-+ [Videocrafter](https://github.com/VideoCrafter/VideoCrafter) 
-+ [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
 
-### Video Diffusion for Generation 
-
-+ [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897)(CVPR 2023) 
- 
-  [![Star](https://img.shields.io/github/stars/sukun1045/video-physics-sound-diffusion.svg?style=social&label=Star)](https://github.com/sukun1045/video-physics-sound-diffusion) [[arxiv]](https://arxiv.org/abs/2303.16897) [[project page]](https://sukun1045.github.io/video-physics-sound-diffusion/) 
-=======
 + [VideoCrafter: A Toolkit for Text-to-Video Generation and Editing](https://github.com/VideoCrafter/VideoCrafter)  
   [![Star](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg?style=social&label=Star)](https://github.com/VideoCrafter/VideoCrafter)
 + [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)  
   [![Star](https://img.shields.io/github/stars/modelscope/modelscope.svg?style=social&label=Star)](https://github.com/modelscope/modelscope)
 
 ### Video Diffusion for Generation 
->>>>>>> dfd52410fa88e5a1d2a2c3c9aa7e58097c78b425
+
 
 + [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/sukun1045/video-physics-sound-diffusion.svg?style=social&label=Star)](https://github.com/sukun1045/video-physics-sound-diffusion) 
@@ -124,14 +115,12 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![Star](https://img.shields.io/github/stars/buggyyang/RVD.svg?style=social&label=Star)](https://github.com/buggyyang/RVD) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09481)
 
-<<<<<<< HEAD
+
 ### Video Editing 
 
 + [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://arxiv.org/abs/2304.06818)(April, 2023)   
   [![Star](https://img.shields.io/github/stars/kuai-lab/soundini-official.svg?style=social&label=Star)](https://github.com/kuai-lab/soundini-official) [[arxiv]](https://arxiv.org/abs/2304.06818) [[project page]](https://kuai-lab.github.io/soundini-gallery/) 
-=======
-### Video Editing
->>>>>>> dfd52410fa88e5a1d2a2c3c9aa7e58097c78b425
+
 
 + [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://arxiv.org/abs/2304.06818) (April, 2023)   
   [![Star](https://img.shields.io/github/stars/kuai-lab/soundini-official.svg?style=social&label=Star)](https://github.com/kuai-lab/soundini-official) 
@@ -180,15 +169,13 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12346) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://msra-nuwa.azurewebsites.net/#/)
 
-<<<<<<< HEAD
-+ [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/abs/2205.11495)(May, 2022)   
-  [![Star](https://img.shields.io/github/stars/plai-group/flexible-video-diffusion-modeling.svg?style=social&label=Star)](https://github.com/plai-group/flexible-video-diffusion-modeling) [[arxiv]](https://arxiv.org/abs/2205.11495) [[project page]](https://fdmolv.github.io/)
-=======
+
+
 + [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/abs/2205.11495) (May, 2022)   
   [![Star](https://img.shields.io/github/stars/plai-group/flexible-video-diffusion-modeling.svg?style=social&label=Star)](https://github.com/plai-group/flexible-video-diffusion-modeling) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11495) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://fdmolv.github.io/)
->>>>>>> dfd52410fa88e5a1d2a2c3c9aa7e58097c78b425
+
 
 ### Human or Subject Motion 
 
@@ -264,15 +251,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.08428)
 
 
-<<<<<<< HEAD
-### 3D Video 
 
-+ [Learning 3D Photography Videos via Self-supervised Diffusion on Single Images](https://arxiv.org/abs/2302.10781)(Feb., 2023)   
-  [github] [[arxiv]](https://arxiv.org/abs/2302.10781) [project page] 
-
-
-### Video Understanding 
-=======
 ### 3D Video
 
 + [Learning 3D Photography Videos via Self-supervised Diffusion on Single Images](https://arxiv.org/abs/2302.10781) (Feb., 2023)   
@@ -306,17 +285,13 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 
 ### Healthcare and Biology
 
-<<<<<<< HEAD
-+ [Neural Cell Video Synthesis via Optical-Flow Diffusion](https://arxiv.org/abs/2212.03250)(Dec., 2022)   
-  [github] [[arxiv]](https://arxiv.org/abs/2212.03250) [project page]
-
 
 + [Annealed Score-Based Diffusion Model for Mr Motion Artifact Reduction](https://arxiv.org/abs/2301.03027)  
   [github] [[arxiv]](https://arxiv.org/abs/2301.03027) [project page]
-=======
+
 + [Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis](https://arxiv.org/abs/2303.12644) (Mar., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12644)
 
 + [Neural Cell Video Synthesis via Optical-Flow Diffusion](https://arxiv.org/abs/2212.03250) (Dec., 2022)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.03250)
->>>>>>> dfd52410fa88e5a1d2a2c3c9aa7e58097c78b425
+
