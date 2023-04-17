@@ -1,7 +1,7 @@
 # Awsome Video Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of recent diffusion papers for video generation, editing, enhancement and understanding.
 
-## Table of Contents
+<!-- ## Table of Contents
 - [Opensource Foundation Models](#opensource-toolboxes-and-foudation-models-opensource)
 -  Papers
   - [Video Diffusion for Generation](#video-diffusion-for-generation-generation)
@@ -10,7 +10,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   - [Video Enhancement and Restoration](#video-enhancement-and-restoration-enhance)
   - [3D Video](#3d-video-3d)
   - [Video Understanding](#video-understanding-understanding)
-  - [Healthcare and Biology](#healthcare-and-biology-health)
+  - [Healthcare and Biology](#healthcare-and-biology-health) -->
 
 ## Table of Contents
 - [Awsome Video Diffusion ](#awsome-video-diffusion-)
@@ -32,7 +32,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 >>>>>>> 7aed4555e17c36d7165f96de7f9e77578f9b818d
 + [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
 
-### Video Diffusion for Generation {#generation} 
+### Video Diffusion for Generation 
 + [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897)(CVPR 2023) 
  
   [![Star](https://img.shields.io/github/stars/sukun1045/video-physics-sound-diffusion.svg?style=social&label=Star)](https://github.com/sukun1045/video-physics-sound-diffusion) [[arxiv]](https://arxiv.org/abs/2303.16897) [[project page]](https://sukun1045.github.io/video-physics-sound-diffusion/) 
@@ -94,7 +94,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 + [Diffusion Probabilistic Modeling for Video Generation](https://arxiv.org/abs/2203.09481)(March, 2022)   
   [![Star](https://img.shields.io/github/stars/buggyyang/RVD.svg?style=social&label=Star)](https://github.com/buggyyang/RVD) [[arxiv]](https://arxiv.org/abs/2203.09481) [project page]
 
-### Video Editing {#editing} 
+### Video Editing 
 + [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://arxiv.org/abs/2304.06818)(April, 2023)   
   [![Star](https://img.shields.io/github/stars/kuai-lab/soundini-official.svg?style=social&label=Star)](https://github.com/kuai-lab/soundini-official) [[arxiv]](https://arxiv.org/abs/2304.06818) [[project page]](https://kuai-lab.github.io/soundini-gallery/) 
 
@@ -120,10 +120,8 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 
 
 <<<<<<< HEAD
-### Long Form Video Generation and Completetion {#long} 
-=======
-### Long-form Video Generation and Completion
->>>>>>> 7aed4555e17c36d7165f96de7f9e77578f9b818d
+### Long Form Video Generation and Completetion
+
 + [McVd: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853)(NeurIPS 2022)   
   [![Star](https://img.shields.io/github/stars/voletiv/mcvd-pytorch.svg?style=social&label=Star)](https://github.com/voletiv/mcvd-pytorch) [[arixv]](https://arxiv.org/abs/2205.09853) [[project page]](https://mask-cond-video-diffusion.github.io)
 
@@ -133,7 +131,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 + [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/abs/2205.11495) (May, 2022)   
   [![Star](https://img.shields.io/github/stars/plai-group/flexible-video-diffusion-modeling.svg?style=social&label=Star)](https://github.com/plai-group/flexible-video-diffusion-modeling) [[arxiv]](https://arxiv.org/abs/2205.11495) [[project page]](https://fdmolv.github.io/)
 
-### Video Enhancement and Restoration {#enhance} 
+### Video Enhancement and Restoration
 
 + [Ldmvfi: Video Frame Interpolation With Latent Diffusion Models](https://arxiv.org/abs/2303.09508)(Mar., 2023)   
   [github] [[arxiv]](https://arxiv.org/abs/2303.09508) [project page]
@@ -142,11 +140,11 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [github] [[arxiv]](https://arxiv.org/abs/2211.08428)
 
 
-### 3D Video {#3d} 
+### 3D Video 
 + [Learning 3D Photography Videos via Self-supervised Diffusion on Single Images](https://arxiv.org/abs/2302.10781)(Feb., 2023)   
   [github] [[arxiv]](https://arxiv.org/abs/2302.10781) [project page] 
 
-### Video Understanding {#understanding} 
+### Video Understanding 
 
 + [Exploring Diffusion Models for Unsupervised Video Anomaly Detection](https://arxiv.org/abs/2304.05841)(Apr., 2023)   
   [github] [[arxiv]](https://arxiv.org/abs/2304.05841) [project page]
@@ -167,7 +165,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![Star](https://img.shields.io/github/stars/google-research/pix2seq.svg?style=social&label=Star)](https://github.com/google-research/pix2seq) [[arxiv]](https://arxiv.org/abs/2210.06366) [project page]
 
 
-### Healthcare and Biology {#health} 
+### Healthcare and Biology 
 + [Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis](https://arxiv.org/abs/2303.12644)(Mar., 2023)   
   [github] [[arxiv]](https://arxiv.org/abs/2303.12644) [project page]
 
