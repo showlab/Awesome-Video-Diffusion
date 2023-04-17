@@ -7,7 +7,7 @@ A list of recent video diffusion methods for generation, editing, enhancement an
 + [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
 
 ### Video Diffusion for Generation 
-+ [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897)(CVPR 2023) 
++ [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897)(CVPR 2023)  
   [[github]](https://github.com/sukun1045/video-physics-sound-diffusion) [[arxiv]](https://arxiv.org/abs/2303.16897) [[project page]](https://sukun1045.github.io/video-physics-sound-diffusion/) 
 
 + [Seer: Language Instructed Video Prediction with Latent Diffusion Models](https://arxiv.org/abs/2303.14897) [[github]](https://seervideodiffusion.github.io/) [[arxiv]](https://arxiv.org/abs/2303.14897) [[project page]](https://seervideodiffusion.github.io/) 
