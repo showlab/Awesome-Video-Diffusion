@@ -42,7 +42,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![Star](https://img.shields.io/github/stars/MKFMIKU/VIDM.svg?style=social&label=Star)](https://github.com/MKFMIKU/VIDM) [[arxiv]](https://arxiv.org/abs/2212.00235) [[project page]](https://kfmei.page/vidm/) 
 
 + [Latent Video Diffusion Models for High-Fidelity Video Generation With Arbitrary Lengths](https://arxiv.org/abs/2211.13221)(Nov., 2022)   
-  [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star)](https://github.com/YingqingHe/LVDM) [[arixv]](https://arxiv.org/abs/2211.13221) [[project page]](https://yingqinghe.github.io/LVDM/)
+  [![Star](https://img.shields.io/github/stars/YingqingHe/LVDM.svg?style=social&label=Star)](https://github.com/YingqingHe/LVDM) [[arixv]](https://arxiv.org/abs/2211.13221) [[project page]](https://yingqinghe.github.io/LVDM/)
 
 + [SinFusion: Training Diffusion Models on a Single Image or Video](https://arxiv.org/abs/2211.11743)(Nov., 2022)   
   [![Star](https://img.shields.io/github/stars/YingqingHe/LVDM.svg?style=social&label=Star)](https://github.com/yanivnik/sinfusion-code) [arixv](https://arxiv.org/abs/2211.11743) [[project page]](https://yanivnik.github.io/sinfusion/)
@@ -57,7 +57,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [github] [arixv](https://openreview.net/forum?id=nJfylDvgzlq) [[project page]](https://makeavideo.studio)
 
 + [Diffusion Models for Video Prediction and Infilling](https://arxiv.org/abs/2206.07696)(TMLR 2022)   
-  [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star)](https://github.com/Tobi-r9/RaMViD) [[arxiv]](https://arxiv.org/abs/2206.07696) [[project page]](https://sites.google.com/view/video-diffusion-prediction)
+  [![Star](https://img.shields.io/github/stars/Tobi-r9/RaMViD.svg?style=social&label=Star)](https://github.com/Tobi-r9/RaMViD) [[arxiv]](https://arxiv.org/abs/2206.07696) [[project page]](https://sites.google.com/view/video-diffusion-prediction)
 
 + [McVd: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853)(NeurIPS 2022)   
   [![Star](https://img.shields.io/github/stars/Tobi-r9/RaMViD.svg?style=social&label=Star)](https://github.com/voletiv/mcvd-pytorch) [[project page]](https://mask-cond-video-diffusion.github.io)
@@ -123,7 +123,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [github] [[arxiv]](https://arxiv.org/abs/2304.05841) [project page]
 
 + [Pdpp:projected Diffusion for Procedure Planning in Instructional Videos](https://arxiv.org/abs/2303.14676)(CVPR 2023)   
-  [[github]](https://github.com/MCG-NJU/PDPP) [[arxiv]](https://arxiv.org/abs/2303.14676) [project page]
+  [![Star](https://img.shields.io/github/stars/MCG-NJU/PDPP.svg?style=social&label=Star)](https://github.com/MCG-NJU/PDPP) [[arxiv]](https://arxiv.org/abs/2303.14676) [project page]
 
 + [Difftad: Temporal Action Detection With Proposal Denoising Diffusion](https://arxiv.org/abs/2303.14863)(Mar., 2023)     
   [![Star](https://img.shields.io/github/stars/sauradip/DiffusionTAD.svg?style=social&label=Star)](https://github.com/sauradip/DiffusionTAD) [[arxiv]](https://arxiv.org/abs/2303.14863)
