@@ -1,5 +1,5 @@
 # Awsome Video Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of recent video diffusion papers for generation, editing, enhancement and understanding. 
+A curated list of recent diffusion papers for video generation, editing, enhancement and understanding. 
 
 
 ### Opensource Toolboxes and Foudation Models 
@@ -123,7 +123,7 @@ A list of recent video diffusion papers for generation, editing, enhancement and
   [github] [[arxiv]](https://arxiv.org/abs/2304.05841) [project page]
 
 + [Pdpp:projected Diffusion for Procedure Planning in Instructional Videos](https://arxiv.org/abs/2303.14676)(CVPR 2023)   
-  [github]](https://github.com/MCG-NJU/PDPP) [[arxiv]](https://arxiv.org/abs/2303.14676) [project page]
+  [[github]](https://github.com/MCG-NJU/PDPP) [[arxiv]](https://arxiv.org/abs/2303.14676) [project page]
 
 + [Difftad: Temporal Action Detection With Proposal Denoising Diffusion](https://arxiv.org/abs/2303.14863)(Mar., 2023)     
   [![Star](https://img.shields.io/github/stars/sauradip/DiffusionTAD.svg?style=social&label=Star)](https://github.com/sauradip/DiffusionTAD) [[arxiv]](https://arxiv.org/abs/2303.14863)
