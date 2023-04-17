@@ -1,5 +1,16 @@
 # Awsome Video Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of recent diffusion papers for video generation, editing, enhancement and understanding. 
+A curated list of recent diffusion papers for video generation, editing, enhancement and understanding.
+
+<!-- ## Table of Contents
+- [Opensource Foundation Models](#opensource-toolboxes-and-foudation-models-opensource)
+-  Papers
+  - [Video Diffusion for Generation](#video-diffusion-for-generation-generation)
+  - [Video Editing](#video-editing-editing)
+  - [Long Form Video Generation and Completetion](#long-form-video-generation-and-completetion-long)
+  - [Video Enhancement and Restoration](#video-enhancement-and-restoration-enhance)
+  - [3D Video](#3d-video-3d)
+  - [Video Understanding](#video-understanding-understanding)
+  - [Healthcare and Biology](#healthcare-and-biology-health) -->
 
 ## Table of Contents
 - [Awsome Video Diffusion ](#awsome-video-diffusion-)
@@ -12,6 +23,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
     - [3D Video](#3d-video)
     - [Video Understanding](#video-understanding)
     - [Healthcare and Biology](#healthcare-and-biology)
+
 
 
 
@@ -119,10 +131,16 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06818) 
   [![Website](https://img.shields.io/badge/Website-orange)](https://kuai-lab.github.io/soundini-gallery/) 
 
+<<<<<<< HEAD
 + [Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models](https://arxiv.org/abs/2303.17599) (Mar., 2023)   
   [![Star](https://img.shields.io/github/stars/baaivision/vid2vid-zero.svg?style=social&label=Star)](https://github.com/baaivision/vid2vid-zero) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17599) 
   [![Website](https://img.shields.io/badge/Website-orange)](https://huggingface.co/spaces/BAAI/vid2vid-zero) 
+=======
+### Video Editing 
++ [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://arxiv.org/abs/2304.06818)(April, 2023)   
+  [![Star](https://img.shields.io/github/stars/kuai-lab/soundini-official.svg?style=social&label=Star)](https://github.com/kuai-lab/soundini-official) [[arxiv]](https://arxiv.org/abs/2304.06818) [[project page]](https://kuai-lab.github.io/soundini-gallery/) 
+>>>>>>> 4e74369224e61fb0d13129601c58a303232e1ec9
 
 + [Pix2video: Video Editing Using Image Diffusion](https://arxiv.org/abs/2303.12688) (Mar., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12688) 
@@ -150,11 +168,18 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![Website](https://img.shields.io/badge/Website-orange)](https://diff-video-ae.github.io/) 
 
 
+<<<<<<< HEAD
 ### Long-form Video Generation and Completion
 + [MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) (NeurIPS 2022)   
   [![Star](https://img.shields.io/github/stars/voletiv/mcvd-pytorch.svg?style=social&label=Star)](https://github.com/voletiv/mcvd-pytorch) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.09853) 
   [![Website](https://img.shields.io/badge/Website-orange)](https://mask-cond-video-diffusion.github.io)
+=======
+### Long Form Video Generation and Completetion
+
++ [McVd: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853)(NeurIPS 2022)   
+  [![Star](https://img.shields.io/github/stars/voletiv/mcvd-pytorch.svg?style=social&label=Star)](https://github.com/voletiv/mcvd-pytorch) [[arixv]](https://arxiv.org/abs/2205.09853) [[project page]](https://mask-cond-video-diffusion.github.io)
+>>>>>>> 4e74369224e61fb0d13129601c58a303232e1ec9
 
 + [NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation](https://arxiv.org/abs/2303.12346) (Mar., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12346) 
@@ -174,11 +199,17 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.08428)
 
 
+<<<<<<< HEAD
 ### 3D Video
 + [Learning 3D Photography Videos via Self-supervised Diffusion on Single Images](https://arxiv.org/abs/2302.10781) (Feb., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.10781)
+=======
+### 3D Video 
++ [Learning 3D Photography Videos via Self-supervised Diffusion on Single Images](https://arxiv.org/abs/2302.10781)(Feb., 2023)   
+  [github] [[arxiv]](https://arxiv.org/abs/2302.10781) [project page] 
+>>>>>>> 4e74369224e61fb0d13129601c58a303232e1ec9
 
-### Video Understanding
+### Video Understanding 
 
 + [Exploring Diffusion Models for Unsupervised Video Anomaly Detection](https://arxiv.org/abs/2304.05841) (Apr., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05841)
@@ -203,9 +234,15 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.06366)
 
 
+<<<<<<< HEAD
 ### Healthcare and Biology
 + [Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis](https://arxiv.org/abs/2303.12644) (Mar., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12644)
+=======
+### Healthcare and Biology 
++ [Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis](https://arxiv.org/abs/2303.12644)(Mar., 2023)   
+  [github] [[arxiv]](https://arxiv.org/abs/2303.12644) [project page]
+>>>>>>> 4e74369224e61fb0d13129601c58a303232e1ec9
 
 + [Neural Cell Video Synthesis via Optical-Flow Diffusion](https://arxiv.org/abs/2212.03250) (Dec., 2022)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.03250)
