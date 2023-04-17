@@ -29,7 +29,6 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 
 ### Open-source Toolboxes and Foundation Models 
 + [Videocrafter](https://github.com/VideoCrafter/VideoCrafter) 
->>>>>>> 7aed4555e17c36d7165f96de7f9e77578f9b818d
 + [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
 
 ### Video Diffusion for Generation 
@@ -119,7 +118,6 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![Star](https://img.shields.io/github/stars/man805/Diffusion-Video-Autoencoders.svg?style=social&label=Star)](https://github.com/man805/Diffusion-Video-Autoencoders) [[arxiv]](https://arxiv.org/abs/2212.02802) [[project page]](https://diff-video-ae.github.io/) 
 
 
-<<<<<<< HEAD
 ### Long Form Video Generation and Completetion
 
 + [McVd: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853)(NeurIPS 2022)   
