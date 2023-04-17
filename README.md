@@ -28,10 +28,12 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 
 
 ### Open-source Toolboxes and Foundation Models 
+
 + [Videocrafter](https://github.com/VideoCrafter/VideoCrafter) 
 + [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
 
 ### Video Diffusion for Generation 
+
 + [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897)(CVPR 2023) 
  
   [![Star](https://img.shields.io/github/stars/sukun1045/video-physics-sound-diffusion.svg?style=social&label=Star)](https://github.com/sukun1045/video-physics-sound-diffusion) [[arxiv]](https://arxiv.org/abs/2303.16897) [[project page]](https://sukun1045.github.io/video-physics-sound-diffusion/) 
@@ -94,6 +96,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
   [![Star](https://img.shields.io/github/stars/buggyyang/RVD.svg?style=social&label=Star)](https://github.com/buggyyang/RVD) [[arxiv]](https://arxiv.org/abs/2203.09481) [project page]
 
 ### Video Editing 
+
 + [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://arxiv.org/abs/2304.06818)(April, 2023)   
   [![Star](https://img.shields.io/github/stars/kuai-lab/soundini-official.svg?style=social&label=Star)](https://github.com/kuai-lab/soundini-official) [[arxiv]](https://arxiv.org/abs/2304.06818) [[project page]](https://kuai-lab.github.io/soundini-gallery/) 
 
@@ -126,8 +129,73 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 + [Nuwa-Xl: Diffusion Over Diffusion for Extremely Long Video Generation](https://arxiv.org/abs/2303.12346)(Mar., 2023)   
   [github] [arixv](https://arxiv.org/abs/2303.12346) [[project page]](https://msra-nuwa.azurewebsites.net/#/)
 
-+ [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/abs/2205.11495) (May, 2022)   
++ [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/abs/2205.11495)(May, 2022)   
   [![Star](https://img.shields.io/github/stars/plai-group/flexible-video-diffusion-modeling.svg?style=social&label=Star)](https://github.com/plai-group/flexible-video-diffusion-modeling) [[arxiv]](https://arxiv.org/abs/2205.11495) [[project page]](https://fdmolv.github.io/)
+
+### Human or Subject Motion 
+
++ [Intergen: Diffusion-Based Multi-Human Motion Generation Under Complex Interactions](https://arxiv.org/abs/2304.05684)() 
+  [![Star](https://img.shields.io/github/stars/tr3e/InterGen.svg?style=social&label=Star)](https://github.com/tr3e/InterGen) [[arxiv]](https://arxiv.org/abs/2304.05684) [project page]
+
++ [Remodiffuse: Retrieval-Augmented Motion Diffusion Model](https://arxiv.org/abs/2304.01116)(Apr., 2023) 
+  [![Star](https://img.shields.io/github/stars/mingyuan-zhang/ReMoDiffuse.svg?style=social&label=Star)](https://github.com/mingyuan-zhang/ReMoDiffuse) [[arxiv]](https://arxiv.org/abs/2304.01116) [[project page]](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)
+
++ [Human Motion Diffusion as a Generative Prior](https://arxiv.org/abs/2303.01418)(Mar., 2023) 
+  [![Star](https://img.shields.io/github/stars/priorMDM/priorMDM.svg?style=social&label=Star)](https://github.com/priorMDM/priorMDM) [[arxiv]](https://arxiv.org/abs/2303.01418) [[project page]](https://priormdm.github.io/priorMDM-page/)
+
++ [Can We Use Diffusion Probabilistic Models for 3d Motion Prediction?](https://arxiv.org/abs/2302.14503)(Feb., 2023) 
+  [![Star](https://img.shields.io/github/stars/cotton-ahn/diffusion-motion-prediction.svg?style=social&label=Star)](https://github.com/cotton-ahn/diffusion-motion-prediction) [[arxiv]](https://arxiv.org/abs/2302.14503) [[project page]](https://sites.google.com/view/diffusion-motion-prediction)
+
++ [Single Motion Diffusion](https://arxiv.org/abs/2302.05905)(Feb., 2023) 
+  [![Star](https://img.shields.io/github/stars/SinMDM/SinMDM.svg?style=social&label=Star)](https://github.com/SinMDM/SinMDM) [[arxiv]](https://arxiv.org/abs/2302.05905) [[project page]](https://sinmdm.github.io/SinMDM-page/)
+
++ [HumanMAC: Masked Motion Completion for Human Motion Prediction](https://arxiv.org/abs/2302.03665)(FEb., 2023) 
+  [![Star](https://img.shields.io/github/stars/LinghaoChan/HumanMAC.svg?style=social&label=Star)](https://github.com/LinghaoChan/HumanMAC) [[arxiv]](https://arxiv.org/abs/2302.03665) [[project page]](https://lhchen.top/Human-MAC/)
+
++ [Diffmotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model](https://arxiv.org/abs/2301.10047)(Jan., 2023) 
+  [github] [[arxiv]](https://arxiv.org/abs/2301.10047) [project page]
+
++ [Modiff: Action-Conditioned 3d Motion Generation With Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2301.03949)(Jan., 2023)   
+  [github] [[arxiv]](https://arxiv.org/abs/2301.03949) [project page]
+
+
++ [Unifying Human Motion Synthesis and Style Transfer With Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2212.08526)(GRAPP 2023 )   
+  [![Star](https://img.shields.io/github/stars/mrzzy2021/styledmotionsynthesis.svg?style=social&label=Star)](https://github.com/mrzzy2021/styledmotionsynthesis) [[arxiv]](https://arxiv.org/abs/2212.08526) [project page]
+
++ [Executing Your Commands via Motion Diffusion in Latent Space](https://arxiv.org/abs/2212.04048)(CVPR 2023) 
+  [![Star](https://img.shields.io/github/stars/ChenFengYe/motion-latent-diffusion.svg?style=social&label=Star)](https://github.com/ChenFengYe/motion-latent-diffusion) [[arxiv]](https://arxiv.org/abs/2212.04048) [[project page]](https://chenxin.tech/mld/)
+
++ [Pretrained Diffusion Models for Unified Human Motion Synthesis](https://arxiv.org/abs/2212.02837)(Dec., 2022)  
+  [github] [[arxiv]](https://arxiv.org/abs/2212.02837) [[project page]](https://ofa-sys.github.io/MoFusion/)
+  
++ [Physdiff: Physics-Guided Human Motion Diffusion Model](https://arxiv.org/abs/2212.02500)() 
+  [github] [[arxiv]](https://arxiv.org/abs/2212.02500) [[project page]](https://nvlabs.github.io/PhysDiff/)
+
++ [Belfusion: Latent Diffusion for Behavior-Driven Human Motion Prediction](https://arxiv.org/abs/2211.14304)(Dec., 2022)   
+  [![Star](https://img.shields.io/github/stars/BarqueroGerman/BeLFusion.svg?style=social&label=Star)](https://github.com/BarqueroGerman/BeLFusion) [[arxiv]](https://arxiv.org/abs/2211.14304) [[project page]](https://barquerogerman.github.io/BeLFusion/)
+  
++ [Listen, Denoise, Action! Audio-Driven Motion Synthesis With Diffusion Models](https://arxiv.org/abs/2211.09707)( Nov. 2022) 
+  [github] [[arxiv]](https://arxiv.org/abs/2211.09707) [[project page]](https://www.speech.kth.se/research/listen-denoise-action/)
+  
+
++ [Diffusion Motion: Generate Text-Guided 3d Human Motion by Diffusion Model](https://arxiv.org/abs/2210.12315)(ICASSP 2023) 
+  [github] [[arxiv]](https://arxiv.org/abs/2210.12315) [project page]
+  
++ [Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction](https://arxiv.org/abs/2210.05976)() 
+  [github] [[arxiv]](https://arxiv.org/abs/2210.05976) [project page] 
+
++ [Human Motion Diffusion Model](https://arxiv.org/abs/2209.14916)(ICLR 2023) 
+  [![Star](https://img.shields.io/github/stars/GuyTevet/motion-diffusion-model.svg?style=social&label=Star)](https://github.com/GuyTevet/motion-diffusion-model) [[arxiv]](https://arxiv.org/abs/2209.14916) [[project page]](https://guytevet.github.io/mdm-page/)
+
++ [Flame: Free-Form Language-Based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349)(AAAI 2023) 
+  [![Star](https://img.shields.io/github/stars/kakaobrain/flame.svg?style=social&label=Star)](https://github.com/kakaobrain/flame) [[arxiv]](https://arxiv.org/abs/2209.00349) [[project page]](https://kakaobrain.github.io/flame/)
+
++ [Motiondiffuse: Text-Driven Human Motion Generation With Diffusion Model](https://arxiv.org/abs/2208.15001)(Aug., 2022) 
+  [![Star](https://img.shields.io/github/stars/mingyuan-zhang/MotionDiffuse.svg?style=social&label=Star)](https://github.com/mingyuan-zhang/MotionDiffuse) [[arxiv]](https://arxiv.org/abs/2208.15001) [[project page]](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)
+
++ [Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion](https://arxiv.org/abs/2203.13777)(CVPR 2022) 
+  [![Star](https://img.shields.io/github/stars/gutianpei/MID.svg?style=social&label=Star)](https://github.com/gutianpei/MID) [[arxiv]](https://arxiv.org/abs/2203.13777) [project page]
+
 
 ### Video Enhancement and Restoration
 
@@ -139,8 +207,10 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 
 
 ### 3D Video 
+
 + [Learning 3D Photography Videos via Self-supervised Diffusion on Single Images](https://arxiv.org/abs/2302.10781)(Feb., 2023)   
   [github] [[arxiv]](https://arxiv.org/abs/2302.10781) [project page] 
+
 
 ### Video Understanding 
 
@@ -169,3 +239,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 
 + [Neural Cell Video Synthesis via Optical-Flow Diffusion](https://arxiv.org/abs/2212.03250)(Dec., 2022)   
   [github] [[arxiv]](https://arxiv.org/abs/2212.03250) [project page]
+
+
++ [Annealed Score-Based Diffusion Model for Mr Motion Artifact Reduction](https://arxiv.org/abs/2301.03027)  
+  [github] [[arxiv]](https://arxiv.org/abs/2301.03027) [project page]
