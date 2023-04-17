@@ -16,198 +16,200 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 
 ### Open-source Toolboxes and Foundation Models 
 
-+ [Videocrafter](https://github.com/VideoCrafter/VideoCrafter) 
-+ [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
++ [VideoCrafter: A Toolkit for Text-to-Video Generation and Editing](https://github.com/VideoCrafter/VideoCrafter)  
+  [![Star](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg?style=social&label=Star)](https://github.com/VideoCrafter/VideoCrafter)
++ [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)  
+  [![Star](https://img.shields.io/github/stars/modelscope/modelscope.svg?style=social&label=Star)](https://github.com/modelscope/modelscope)
 
 ### Video Diffusion for Generation 
 
 + [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/sukun1045/video-physics-sound-diffusion.svg?style=social&label=Star)](https://github.com/sukun1045/video-physics-sound-diffusion) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.16897) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://sukun1045.github.io/video-physics-sound-diffusion/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.16897) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sukun1045.github.io/video-physics-sound-diffusion/) 
 
 + [Seer: Language Instructed Video Prediction with Latent Diffusion Models](https://arxiv.org/abs/2303.14897) (Mar., 2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.14897) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://seervideodiffusion.github.io/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14897) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://seervideodiffusion.github.io/) 
 
 + [Text2video-Zero: Text-to-Image Diffusion Models Are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439) (Mar., 2023)   
   [![Star](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/Text2Video-Zero) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.13439) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://text2video-zero.github.io/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13439) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://text2video-zero.github.io/) 
   
 + [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/abs/2303.13744) (CVPR 2023)   
   [![Star](https://img.shields.io/github/stars/nihaomiao/CVPR23_LFDM.svg?style=social&label=Star)](https://github.com/nihaomiao/CVPR23_LFDM) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.13744)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13744)
 
 + [Decomposed Diffusion Models for High-Quality Video Generation](https://arxiv.org/abs/2303.08320) (CVPR 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.08320) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://modelscope.cn/models/damo/text-to-video-synthesis/summary) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08320) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/damo/text-to-video-synthesis/summary) 
 
 + [Video Probabilistic Diffusion Models in Projected Latent Space](https://arxiv.org/abs/2302.07685) (CVPR 2023)   
   [![Star](https://img.shields.io/github/stars/sihyun-yu/PVDM.svg?style=social&label=Star)](https://github.com/sihyun-yu/PVDM) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2302.07685) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://sihyun.me/PVDM/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.07685) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sihyun.me/PVDM/) 
 
 + [Structure and Content-Guided Video Synthesis With Diffusion Models](https://arxiv.org/abs/2302.03011) (Feb., 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2302.03011) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://research.runwayml.com/gen2) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.03011) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.runwayml.com/gen2) 
 
 + [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565) (Dec., 2022)   
   [![Star](https://img.shields.io/github/stars/showlab/Tune-A-Video?style=social)](https://github.com/showlab/Tune-A-Video) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2212.11565) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://tuneavideo.github.io/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.11565) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tuneavideo.github.io/) 
 
 + [Mm-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation](https://arxiv.org/abs/2212.09478) (CVPR 2023)   
   [![Star](https://img.shields.io/github/stars/researchmm/MM-Diffusion.svg?style=social&label=Star)](https://github.com/researchmm/MM-Diffusion) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2212.09478)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.09478)
 
 + [Magvit: Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) (Dec., 2022)    
   [![Star](https://img.shields.io/github/stars/MAGVIT/magvit.svg?style=social&label=Star)](https://github.com/MAGVIT/magvit) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2212.05199) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://magvit.cs.cmu.edu/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05199) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://magvit.cs.cmu.edu/) 
 
 + [VIDM: Video Implicit Diffusion Models](https://arxiv.org/abs/2212.00235) (AAAI 2023)   
   [![Star](https://img.shields.io/github/stars/MKFMIKU/VIDM.svg?style=social&label=Star)](https://github.com/MKFMIKU/VIDM) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2212.00235) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://kfmei.page/vidm/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.00235) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kfmei.page/vidm/) 
 
 + [Latent Video Diffusion Models for High-Fidelity Video Generation With Arbitrary Lengths](https://arxiv.org/abs/2211.13221) (Nov., 2022)   
   [![Star](https://img.shields.io/github/stars/YingqingHe/LVDM.svg?style=social&label=Star)](https://github.com/YingqingHe/LVDM) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2211.13221) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://yingqinghe.github.io/LVDM/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.13221) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yingqinghe.github.io/LVDM/)
 
 + [SinFusion: Training Diffusion Models on a Single Image or Video](https://arxiv.org/abs/2211.11743) (Nov., 2022)   
   [![Star](https://img.shields.io/github/stars/YingqingHe/LVDM.svg?style=social&label=Star)](https://github.com/yanivnik/sinfusion-code) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2211.11743) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://yanivnik.github.io/sinfusion/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.11743) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yanivnik.github.io/sinfusion/)
 
 + [MagicVideo: Efficient Video Generation With Latent Diffusion Models](https://arxiv.org/abs/2211.11018) (Nov., 2022)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2211.11018) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://magicvideo.github.io/#)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.11018) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideo.github.io/#)
 
 + [Imagen Video: High Definition Video Generation With Diffusion Models](https://arxiv.org/abs/2210.02303) (Oct., 2022)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2210.02303) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://imagen.research.google/video/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02303) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://imagen.research.google/video/)
 
 + [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://openreview.net/forum?id=nJfylDvgzlq) (ICLR 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://openreview.net/forum?id=nJfylDvgzlq) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://makeavideo.studio)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/forum?id=nJfylDvgzlq) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://makeavideo.studio)
 
 + [Diffusion Models for Video Prediction and Infilling](https://arxiv.org/abs/2206.07696) (TMLR 2022)   
   [![Star](https://img.shields.io/github/stars/Tobi-r9/RaMViD.svg?style=social&label=Star)](https://github.com/Tobi-r9/RaMViD) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2206.07696) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://sites.google.com/view/video-diffusion-prediction)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.07696) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/video-diffusion-prediction)
 
 + [McVd: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) (NeurIPS 2022)   
   [![Star](https://img.shields.io/github/stars/Tobi-r9/RaMViD.svg?style=social&label=Star)](https://github.com/voletiv/mcvd-pytorch)
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2205.09853) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://mask-cond-video-diffusion.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.09853) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mask-cond-video-diffusion.github.io)
 
 + [Video Diffusion Models](https://arxiv.org/abs/2204.03458) (April, 2022)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2204.03458) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://video-diffusion.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03458) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://video-diffusion.github.io/)
 
 + [Diffusion Probabilistic Modeling for Video Generation](https://arxiv.org/abs/2203.09481) (March, 2022)   
   [![Star](https://img.shields.io/github/stars/buggyyang/RVD.svg?style=social&label=Star)](https://github.com/buggyyang/RVD) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2203.09481)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09481)
 
 ### Video Editing
 
 + [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://arxiv.org/abs/2304.06818) (April, 2023)   
   [![Star](https://img.shields.io/github/stars/kuai-lab/soundini-official.svg?style=social&label=Star)](https://github.com/kuai-lab/soundini-official) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2304.06818) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://kuai-lab.github.io/soundini-gallery/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06818) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kuai-lab.github.io/soundini-gallery/) 
 
 + [Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models](https://arxiv.org/abs/2303.17599) (Mar., 2023)   
   [![Star](https://img.shields.io/github/stars/baaivision/vid2vid-zero.svg?style=social&label=Star)](https://github.com/baaivision/vid2vid-zero) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.17599) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://huggingface.co/spaces/BAAI/vid2vid-zero) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17599) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/spaces/BAAI/vid2vid-zero) 
 
 + [Pix2video: Video Editing Using Image Diffusion](https://arxiv.org/abs/2303.12688) (Mar., 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.12688) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://duyguceylan.github.io/pix2video.github.io/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12688) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://duyguceylan.github.io/pix2video.github.io/) 
 
 + [Video-P2P: Video Editing with Cross-attention Control](https://arxiv.org/abs/2303.04761) (Mar., 2023)   
-  [![Star](https://img.shields.io/github/stars/ShaoTengLiu/Video-P2P.svg?style=social&label=Star)](https://github.com/ShaoTengLiu/Video-P2P) [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.04761) [![Website](https://img.shields.io/badge/Website-white)](https://video-p2p.github.io/)
+  [![Star](https://img.shields.io/github/stars/ShaoTengLiu/Video-P2P.svg?style=social&label=Star)](https://github.com/ShaoTengLiu/Video-P2P) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.04761) [![Website](https://img.shields.io/badge/Website-9cf)](https://video-p2p.github.io/)
 
 + [Dreamix: Video Diffusion Models Are General Video Editors](https://arxiv.org/abs/2302.01329) (Feb., 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2302.01329) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://dreamix-video-editing.github.io/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.01329) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamix-video-editing.github.io/) 
 
 + [Shape-Aware Text-Driven Layered Video Editing](https://arxiv.org/abs/2301.13173) (Jan., 2023)    
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2301.13173) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://text-video-edit.github.io/)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.13173) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://text-video-edit.github.io/)   
 
 + [Speech Driven Video Editing via an Audio-Conditioned Diffusion Model](https://arxiv.org/abs/2301.04474) (Jan., 2023)   
   [![Star](https://img.shields.io/github/stars/DanBigioi/DiffusionVideoEditing.svg?style=social&label=Star)](https://github.com/DanBigioi/DiffusionVideoEditing) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2301.04474) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://danbigioi.github.io/DiffusionVideoEditing/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.04474) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://danbigioi.github.io/DiffusionVideoEditing/) 
 
 + [Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding](https://arxiv.org/abs/2212.02802) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/man805/Diffusion-Video-Autoencoders.svg?style=social&label=Star)](https://github.com/man805/Diffusion-Video-Autoencoders) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2212.02802) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://diff-video-ae.github.io/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02802) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://diff-video-ae.github.io/) 
 
 
 ### Long-form Video Generation and Completion
 
 + [MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) (NeurIPS 2022)   
   [![Star](https://img.shields.io/github/stars/voletiv/mcvd-pytorch.svg?style=social&label=Star)](https://github.com/voletiv/mcvd-pytorch) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2205.09853) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://mask-cond-video-diffusion.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.09853) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mask-cond-video-diffusion.github.io)
 
 + [NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation](https://arxiv.org/abs/2303.12346) (Mar., 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.12346) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://msra-nuwa.azurewebsites.net/#/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12346) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://msra-nuwa.azurewebsites.net/#/)
 
 + [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/abs/2205.11495) (May, 2022)   
   [![Star](https://img.shields.io/github/stars/plai-group/flexible-video-diffusion-modeling.svg?style=social&label=Star)](https://github.com/plai-group/flexible-video-diffusion-modeling) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2205.11495) 
-  [![Website](https://img.shields.io/badge/Website-white)](https://fdmolv.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11495) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://fdmolv.github.io/)
 
 ### Video Enhancement and Restoration
 
 + [LDMVFI: Video Frame Interpolation with Latent Diffusion Models](https://arxiv.org/abs/2303.09508) (Mar., 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.09508)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09508)
 
 + [CaDM: Codec-aware Diffusion Modeling for Neural-enhanced Video Streaming](https://arxiv.org/abs/2211.08428) (Nov, 2022)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2211.08428)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.08428)
 
 
 ### 3D Video
 
 + [Learning 3D Photography Videos via Self-supervised Diffusion on Single Images](https://arxiv.org/abs/2302.10781) (Feb., 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2302.10781)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.10781)
 
 ### Video Understanding
 
 + [Exploring Diffusion Models for Unsupervised Video Anomaly Detection](https://arxiv.org/abs/2304.05841) (Apr., 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2304.05841)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05841)
 
 + [Pdpp:projected Diffusion for Procedure Planning in Instructional Videos](https://arxiv.org/abs/2303.14676) (CVPR 2023)   
   [![Star](https://img.shields.io/github/stars/MCG-NJU/PDPP.svg?style=social&label=Star)](https://github.com/MCG-NJU/PDPP) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.14676)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14676)
 
 + [Difftad: Temporal Action Detection With Proposal Denoising Diffusion](https://arxiv.org/abs/2303.14863) (Mar., 2023)     
   [![Star](https://img.shields.io/github/stars/sauradip/DiffusionTAD.svg?style=social&label=Star)](https://github.com/sauradip/DiffusionTAD) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.14863)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14863)
 
 + [Diffusionret: Generative Text-Video Retrieval With Diffusion Model](https://arxiv.org/abs/2303.09867) (Mar., 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.09867)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09867)
 
 + [Refined Semantic Enhancement Towards Frequency Diffusion for Video Captioning](https://arxiv.org/abs/2211.15076) (Nov., 2022)   
   [![Star](https://img.shields.io/github/stars/lzp870/RSFD.svg?style=social&label=Star)](https://github.com/lzp870/RSFD) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2211.15076)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15076)
 
 + [A Generalist Framework for Panoptic Segmentation of Images and Videos](https://arxiv.org/abs/2210.06366) (Ocr. 2023)   
   [![Star](https://img.shields.io/github/stars/google-research/pix2seq.svg?style=social&label=Star)](https://github.com/google-research/pix2seq) 
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2210.06366)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.06366)
 
 
 ### Healthcare and Biology
 
 + [Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis](https://arxiv.org/abs/2303.12644) (Mar., 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2303.12644)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12644)
 
 + [Neural Cell Video Synthesis via Optical-Flow Diffusion](https://arxiv.org/abs/2212.03250) (Dec., 2022)   
-  [![arXiv](https://img.shields.io/badge/arXiv-white.svg)](https://arxiv.org/abs/2212.03250)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.03250)
