@@ -179,65 +179,65 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 
 ### Human or Subject Motion 
 
-+ [Intergen: Diffusion-Based Multi-Human Motion Generation Under Complex Interactions](https://arxiv.org/abs/2304.05684)() 
++ [Intergen: Diffusion-Based Multi-Human Motion Generation Under Complex Interactions](https://arxiv.org/abs/2304.05684)(Apr., 2023)   
   [![Star](https://img.shields.io/github/stars/tr3e/InterGen.svg?style=social&label=Star)](https://github.com/tr3e/InterGen) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05684) 
 
-+ [Remodiffuse: Retrieval-Augmented Motion Diffusion Model](https://arxiv.org/abs/2304.01116)(Apr., 2023) 
++ [Remodiffuse: Retrieval-Augmented Motion Diffusion Model](https://arxiv.org/abs/2304.01116)(Apr., 2023)   
   [![Star](https://img.shields.io/github/stars/mingyuan-zhang/ReMoDiffuse.svg?style=social&label=Star)](https://github.com/mingyuan-zhang/ReMoDiffuse) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01116) [![Website](https://img.shields.io/badge/Website-9cf)](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)
 
-+ [Human Motion Diffusion as a Generative Prior](https://arxiv.org/abs/2303.01418)(Mar., 2023) 
++ [Human Motion Diffusion as a Generative Prior](https://arxiv.org/abs/2303.01418)(Mar., 2023)   
   [![Star](https://img.shields.io/github/stars/priorMDM/priorMDM.svg?style=social&label=Star)](https://github.com/priorMDM/priorMDM) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.01418) [![Website](https://img.shields.io/badge/Website-9cf)](https://priormdm.github.io/priorMDM-page/)
 
-+ [Can We Use Diffusion Probabilistic Models for 3d Motion Prediction?](https://arxiv.org/abs/2302.14503)(Feb., 2023) 
++ [Can We Use Diffusion Probabilistic Models for 3d Motion Prediction?](https://arxiv.org/abs/2302.14503)(Feb., 2023)    
   [![Star](https://img.shields.io/github/stars/cotton-ahn/diffusion-motion-prediction.svg?style=social&label=Star)](https://github.com/cotton-ahn/diffusion-motion-prediction) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.14503) [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/diffusion-motion-prediction)
 
-+ [Single Motion Diffusion](https://arxiv.org/abs/2302.05905)(Feb., 2023) 
++ [Single Motion Diffusion](https://arxiv.org/abs/2302.05905)(Feb., 2023)   
   [![Star](https://img.shields.io/github/stars/SinMDM/SinMDM.svg?style=social&label=Star)](https://github.com/SinMDM/SinMDM) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.05905) [![Website](https://img.shields.io/badge/Website-9cf)](https://sinmdm.github.io/SinMDM-page/)
 
-+ [HumanMAC: Masked Motion Completion for Human Motion Prediction](https://arxiv.org/abs/2302.03665)(FEb., 2023) 
++ [HumanMAC: Masked Motion Completion for Human Motion Prediction](https://arxiv.org/abs/2302.03665)(FEb., 2023)   
   [![Star](https://img.shields.io/github/stars/LinghaoChan/HumanMAC.svg?style=social&label=Star)](https://github.com/LinghaoChan/HumanMAC) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.03665) [![Website](https://img.shields.io/badge/Website-9cf)](https://lhchen.top/Human-MAC/)
 
-+ [Diffmotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model](https://arxiv.org/abs/2301.10047)(Jan., 2023) 
++ [Diffmotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model](https://arxiv.org/abs/2301.10047)(Jan., 2023)   
   [github] [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.10047) 
 
-+ [Modiff: Action-Conditioned 3d Motion Generation With Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2301.03949)(Jan., 2023)   
++ [Modiff: Action-Conditioned 3d Motion Generation With Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2301.03949)(Jan., 2023)     
   [github] [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.03949) 
 
-+ [Unifying Human Motion Synthesis and Style Transfer With Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2212.08526)(GRAPP 2023 )   
++ [Unifying Human Motion Synthesis and Style Transfer With Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2212.08526)(GRAPP 2023)     
   [![Star](https://img.shields.io/github/stars/mrzzy2021/styledmotionsynthesis.svg?style=social&label=Star)](https://github.com/mrzzy2021/styledmotionsynthesis) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.08526) 
 
-+ [Executing Your Commands via Motion Diffusion in Latent Space](https://arxiv.org/abs/2212.04048)(CVPR 2023) 
++ [Executing Your Commands via Motion Diffusion in Latent Space](https://arxiv.org/abs/2212.04048)(CVPR 2023)   
   [![Star](https://img.shields.io/github/stars/ChenFengYe/motion-latent-diffusion.svg?style=social&label=Star)](https://github.com/ChenFengYe/motion-latent-diffusion) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.04048) [![Website](https://img.shields.io/badge/Website-9cf)](https://chenxin.tech/mld/)
 
-+ [Pretrained Diffusion Models for Unified Human Motion Synthesis](https://arxiv.org/abs/2212.02837)(Dec., 2022)  
++ [Pretrained Diffusion Models for Unified Human Motion Synthesis](https://arxiv.org/abs/2212.02837)(Dec., 2022)    
   [github] [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02837) [![Website](https://img.shields.io/badge/Website-9cf)](https://ofa-sys.github.io/MoFusion/)
   
-+ [Physdiff: Physics-Guided Human Motion Diffusion Model](https://arxiv.org/abs/2212.02500)() 
++ [Physdiff: Physics-Guided Human Motion Diffusion Model](https://arxiv.org/abs/2212.02500)(Dec., 2022)   
   [github] [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02500) [![Website](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/PhysDiff/)
 
-+ [Belfusion: Latent Diffusion for Behavior-Driven Human Motion Prediction](https://arxiv.org/abs/2211.14304)(Dec., 2022)   
++ [Belfusion: Latent Diffusion for Behavior-Driven Human Motion Prediction](https://arxiv.org/abs/2211.14304)(Dec., 2022)     
   [![Star](https://img.shields.io/github/stars/BarqueroGerman/BeLFusion.svg?style=social&label=Star)](https://github.com/BarqueroGerman/BeLFusion) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.14304) [![Website](https://img.shields.io/badge/Website-9cf)](https://barquerogerman.github.io/BeLFusion/)
   
-+ [Listen, Denoise, Action! Audio-Driven Motion Synthesis With Diffusion Models](https://arxiv.org/abs/2211.09707)( Nov. 2022) 
++ [Listen, Denoise, Action! Audio-Driven Motion Synthesis With Diffusion Models](https://arxiv.org/abs/2211.09707)(Nov. 2022)   
   [github] [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.09707) [![Website](https://img.shields.io/badge/Website-9cf)](https://www.speech.kth.se/research/listen-denoise-action/)
   
 
-+ [Diffusion Motion: Generate Text-Guided 3d Human Motion by Diffusion Model](https://arxiv.org/abs/2210.12315)(ICASSP 2023) 
++ [Diffusion Motion: Generate Text-Guided 3d Human Motion by Diffusion Model](https://arxiv.org/abs/2210.12315)(ICASSP 2023)   
   [github] [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.12315) 
   
-+ [Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction](https://arxiv.org/abs/2210.05976)() 
++ [Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction](https://arxiv.org/abs/2210.05976)(Oct., 2022)   
   [github] [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.05976) 
 
-+ [Human Motion Diffusion Model](https://arxiv.org/abs/2209.14916)(ICLR 2023) 
++ [Human Motion Diffusion Model](https://arxiv.org/abs/2209.14916)(ICLR 2023)   
   [![Star](https://img.shields.io/github/stars/GuyTevet/motion-diffusion-model.svg?style=social&label=Star)](https://github.com/GuyTevet/motion-diffusion-model) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.14916) [![Website](https://img.shields.io/badge/Website-9cf)](https://guytevet.github.io/mdm-page/)
 
-+ [Flame: Free-Form Language-Based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349)(AAAI 2023) 
++ [Flame: Free-Form Language-Based Motion Synthesis & Editing](https://arxiv.org/abs/2209.00349)(AAAI 2023)   
   [![Star](https://img.shields.io/github/stars/kakaobrain/flame.svg?style=social&label=Star)](https://github.com/kakaobrain/flame) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.00349) [![Website](https://img.shields.io/badge/Website-9cf)](https://kakaobrain.github.io/flame/)
 
-+ [Motiondiffuse: Text-Driven Human Motion Generation With Diffusion Model](https://arxiv.org/abs/2208.15001)(Aug., 2022) 
++ [Motiondiffuse: Text-Driven Human Motion Generation With Diffusion Model](https://arxiv.org/abs/2208.15001)(Aug., 2022)   
   [![Star](https://img.shields.io/github/stars/mingyuan-zhang/MotionDiffuse.svg?style=social&label=Star)](https://github.com/mingyuan-zhang/MotionDiffuse) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.15001) [![Website](https://img.shields.io/badge/Website-9cf)](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)
 
-+ [Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion](https://arxiv.org/abs/2203.13777)(CVPR 2022) 
++ [Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion](https://arxiv.org/abs/2203.13777)(CVPR 2022)   
   [![Star](https://img.shields.io/github/stars/gutianpei/MID.svg?style=social&label=Star)](https://github.com/gutianpei/MID) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.13777) 
 
 
