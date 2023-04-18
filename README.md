@@ -7,10 +7,10 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 </p>
 
 <p align="center">
-<video width="240px" controls autoplay>
+<video width="240px" controls>
   <source src="https://imagen.research.google/video/hdvideos/46.mp4" type="video/mp4">
 </video> 
-<video width="240px" controls autoplay>
+<video width="240px" controls>
   <source src="https://imagen.research.google/video/hdvideos/10.mp4" type="video/mp4">
 </video> 
 </p>
@@ -20,10 +20,10 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 </p>
 
 <p align="center">
-<video width="240px" controls autoplay>
+<video width="240px" controls>
   <source src="https://fate-zero-edit.github.io/static/videos/3_sunflower_vangogh_conat_result.mp4" type="video/mp4">
 </video> 
-<video width="240px" controls autoplay>
+<video width="240px" controls>
   <source src="https://fate-zero-edit.github.io/static/videos/17_car_posche_01_concat_result.mp4" type="video/mp4">
 </video> 
 </p>
