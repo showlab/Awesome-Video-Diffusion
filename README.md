@@ -1,26 +1,25 @@
-# Awsome Video Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awsome Video Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 A curated list of recent diffusion papers for video generation, editing, enhancement and understanding. 
 
-## Table of Contents
-- [Awsome Video Diffusion ](#awsome-video-diffusion-)
-  - [Table of Contents](#table-of-contents)
-    - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
-    - [Video Diffusion for Generation](#video-diffusion-for-generation)
-    - [Video Editing](#video-editing)
-    - [Long-form Video Generation and Completion](#long-form-video-generation-and-completion)
-    - [Human or Subject Motion](#human-or-subject-motion)
-    - [Video Enhancement and Restoration](#video-enhancement-and-restoration)
-    - [3D Video](#3d-video)
-    - [Video Understanding](#video-understanding)
-    - [Healthcare and Biology](#healthcare-and-biology)
-
+## Table of Contents <!-- omit in toc -->
+- [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
+- [Video Diffusion for Generation](#video-diffusion-for-generation)
+- [Video Editing](#video-editing)
+- [Long-form Video Generation and Completion](#long-form-video-generation-and-completion)
+- [Human or Subject Motion](#human-or-subject-motion)
+- [Video Enhancement and Restoration](#video-enhancement-and-restoration)
+- [3D Video](#3d-video)
+- [Video Understanding](#video-understanding)
+- [Healthcare and Biology](#healthcare-and-biology)
 
 ### Open-source Toolboxes and Foundation Models 
 
 + [VideoCrafter: A Toolkit for Text-to-Video Generation and Editing](https://github.com/VideoCrafter/VideoCrafter)  
   [![Star](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg?style=social&label=Star)](https://github.com/VideoCrafter/VideoCrafter)
-+ [ModelScope](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)  
++ [ModelScope (Text-to-video synthesis)](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)  
   [![Star](https://img.shields.io/github/stars/modelscope/modelscope.svg?style=social&label=Star)](https://github.com/modelscope/modelscope)
++ [Diffusers (Text-to-video synthesis)](https://huggingface.co/docs/diffusers/main/en/api/pipelines/text_to_video#texttovideo-synthesis)  
+  [![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social&label=Star)](https://github.com/huggingface/diffusers)
 
 ### Video Diffusion for Generation 
 
