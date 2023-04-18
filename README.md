@@ -1,6 +1,38 @@
 # Awsome Video Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 A curated list of recent diffusion papers for video generation, editing, enhancement and understanding. 
 
+<p align="center">
+<img src="https://makeavideo.studio/assets/overview.webp" width="240px"/>
+<img src="https://makeavideo.studio/assets/A_teddy_bear_painting_a_portrait.webp" width="240px"/>    
+</p>
+
+<p align="center">
+<video width="240px" controls autoplay>
+  <source src="https://imagen.research.google/video/hdvideos/46.mp4" type="video/mp4">
+</video> 
+<video width="240px" controls autoplay>
+  <source src="https://imagen.research.google/video/hdvideos/10.mp4" type="video/mp4">
+</video> 
+</p>
+
+<p align="center">
+<img src="https://tuneavideo.github.io/assets/teaser.gif" width="480px"/>  
+</p>
+
+<p align="center">
+<video width="240px" controls autoplay>
+  <source src="https://fate-zero-edit.github.io/static/videos/3_sunflower_vangogh_conat_result.mp4" type="video/mp4">
+</video> 
+<video width="240px" controls autoplay>
+  <source src="https://fate-zero-edit.github.io/static/videos/17_car_posche_01_concat_result.mp4" type="video/mp4">
+</video> 
+</p>
+
+<p align="center">
+(Source: <a href="https://makeavideo.studio/">Make-A-Video</a>, <a href="https://imagen.research.google/video/">Imagen Video</a>, <a href="https://tuneavideo.github.io/">Tune-A-Video</a>, and <a href="https://fate-zero-edit.github.io/">Fate/Zero</a>.)
+</p>
+
+
 ## Table of Contents <!-- omit in toc -->
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 - [Video Diffusion for Generation](#video-diffusion-for-generation)
