@@ -16,7 +16,7 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 </p>
 
 <p align="center">
-(Source: <a href="https://makeavideo.studio/">Make-A-Video</a>, <a href="https://imagen.research.google/video/">Imagen Video</a>, <a href="https://tuneavideo.github.io/">Tune-A-Video</a>, and <a href="https://fate-zero-edit.github.io/">Fate/Zero</a>.)
+(Source: <a href="https://makeavideo.studio/">Make-A-Video</a>, <a href="https://tuneavideo.github.io/">Tune-A-Video</a>, and <a href="https://fate-zero-edit.github.io/">Fate/Zero</a>.)
 </p>
 
 
