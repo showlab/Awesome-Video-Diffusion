@@ -7,25 +7,12 @@ A curated list of recent diffusion papers for video generation, editing, enhance
 </p>
 
 <p align="center">
-<video width="240px" controls>
-  <source src="https://imagen.research.google/video/hdvideos/46.mp4" type="video/mp4">
-</video> 
-<video width="240px" controls>
-  <source src="https://imagen.research.google/video/hdvideos/10.mp4" type="video/mp4">
-</video> 
-</p>
-
-<p align="center">
 <img src="https://tuneavideo.github.io/assets/teaser.gif" width="480px"/>  
 </p>
 
 <p align="center">
-<video width="240px" controls>
-  <source src="https://fate-zero-edit.github.io/static/videos/3_sunflower_vangogh_conat_result.mp4" type="video/mp4">
-</video> 
-<video width="240px" controls>
-  <source src="https://fate-zero-edit.github.io/static/videos/17_car_posche_01_concat_result.mp4" type="video/mp4">
-</video> 
+<img src="https://github.com/ChenyangQiQi/FateZero/blob/main/docs/gif_results/17_car_posche_01_concat_result.gif?raw=true" width="240px"/>
+<img src="https://github.com/ChenyangQiQi/FateZero/blob/main/docs/gif_results/3_sunflower_vangogh_conat_result.gif?raw=true" width="240px"/>    
 </p>
 
 <p align="center">
