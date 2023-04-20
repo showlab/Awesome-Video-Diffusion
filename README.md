@@ -1,5 +1,5 @@
 # Awesome Video Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
-A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.
+A curated list of recent diffusion models for video generation, editing, restoration, understanding, nerf, etc.
 
 <p align="center">
 <img src="https://makeavideo.studio/assets/overview.webp" width="240px"/>
