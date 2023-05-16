@@ -172,7 +172,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Editing 
 
-+ [Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts](https://arxiv.org/abs/2305.08850) (Apr., 2023)   
++ [Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts](https://arxiv.org/abs/2305.08850) (May, 2023)   
   [![Star](https://img.shields.io/github/stars/Make-A-Protagonist/Make-A-Protagonist.svg?style=social&label=Star)](https://github.com/Make-A-Protagonist/Make-A-Protagonist) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08850) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://make-a-protagonist.github.io/) 
