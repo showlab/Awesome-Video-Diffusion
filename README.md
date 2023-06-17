@@ -221,10 +221,13 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Editing 
 
++ [VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing](https://arxiv.org/abs//2306.08707) (Jun., 2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs//2306.08707) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://videdit.github.io/) 
+
 + [Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation](https://arxiv.org/abs/2306.07954) (Jun., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07954) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://anonymous-31415926.github.io/) 
-
 
 + [ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing](https://arxiv.org/abs/2305.17098) (May, 2023)   
   [![Star](https://img.shields.io/github/stars/thu-ml/controlvideo.svg?style=social&label=Star)](https://github.com/thu-ml/controlvideo) 
