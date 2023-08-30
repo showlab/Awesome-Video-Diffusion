@@ -33,8 +33,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-source Toolboxes and Foundation Models 
 
-+ [I2VGen-XL (image-to-video / video super-resolution)](https://modelscope.cn/models/damo/Image-to-Video/summary)  
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/damo/Image-to-Video/summary) 
++ [I2VGen-XL (image-to-video / video-to-video)](https://modelscope.cn/models/damo/Image-to-Video/summary)  
+  [![Website](https://img.shields.io/badge/Website(I2V)-9cf)](https://modelscope.cn/models/damo/Image-to-Video/summary) 
+  [![Website](https://img.shields.io/badge/Website(V2V)-9cf)](https://modelscope.cn/models/damo/Video-to-Video/summary) 
 
 + [text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab)  
   [![Star](https://img.shields.io/github/stars/camenduru/text-to-video-synthesis-colab.svg?style=social&label=Star)](https://github.com/camenduru/text-to-video-synthesis-colab)
