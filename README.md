@@ -58,7 +58,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation 
 
-+ [VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning](https://arxiv.org/abs/2311.00990) (Oct., 2023)  
++ [VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning](https://arxiv.org/abs/2311.00990) (Nov., 2023)  
   [![Star](https://img.shields.io/github/stars/videodreamer23/videodreamer23.github.io.svg?style=social&label=Star)](https://github.com/Vchitect/SEINE)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00990)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://videodreamer23.github.io/)
