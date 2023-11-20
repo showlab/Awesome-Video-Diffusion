@@ -58,6 +58,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation 
 
++ [Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning](https://arxiv.org/abs/2311.10709) (Nov., 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.10709)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://emu-video.metademolab.com/)
+  
 + [Optimal Noise pursuit for Augmenting Text-to-Video Generation](https://arxiv.org/abs/2311.00949) (Nov., 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00949)
 
