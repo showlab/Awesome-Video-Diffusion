@@ -66,7 +66,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation 
 
-+ [AVID: Any-Length Video Inpainting with Diffusion Model](https://arxiv.org/abs/2312.03793) (Dec., 2023)
++ [AnimateZero: Video Diffusion Models are Zero-Shot Image Animators](https://arxiv.org/abs/2312.03793) (Dec., 2023)
   [![Star](https://img.shields.io/github/stars/vvictoryuki/AnimateZero.svg?style=social&label=Star)](https://github.com/vvictoryuki/AnimateZero)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03793)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vvictoryuki.github.io/animatezero.github.io/)
