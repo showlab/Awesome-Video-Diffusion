@@ -37,7 +37,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://stability.ai/news/stable-video-diffusion-open-ai-video-model) 
 
-+ [Show-1](https://github.com/Stability-AI/generative-models)  
++ [Show-1](https://github.com/showlab/Show-1)  
   [![Star](https://img.shields.io/github/stars/showlab/Show-1.svg?style=social&label=Star)](https://github.com/showlab/Show-1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/) 
 
