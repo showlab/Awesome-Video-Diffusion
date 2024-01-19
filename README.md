@@ -66,11 +66,16 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social&label=Star)](https://github.com/huggingface/diffusers)
 
 ### New Video Generation Benchmark and Metrics
++ [VBench](https://arxiv.org/abs/2311.17982)(Nov., 2023)      
+  [![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/Vchitect/VBench?tab=readme-ov-file)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17982)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://evalcrafter.github.io/) 
+
 
 + [Evalcrafter](https://arxiv.org/abs/2310.11440)(Oct., 2023)      
   [![Star](https://img.shields.io/github/stars/EvalCrafter/EvalCrafter.svg?style=social&label=Star)](https://github.com/EvalCrafter/EvalCrafter)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11440)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://evalcrafter.github.io/) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VBench-project/) 
 
 
 ### Video Generation 
