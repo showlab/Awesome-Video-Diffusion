@@ -22,6 +22,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ## Table of Contents <!-- omit in toc -->
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
+- [New Video Generation Benchmark and Metrics](#new-video-generation-benchmark-and-metrics)
 - [Video Generation](#video-generation)
 - [Video Editing](#video-editing)
 - [Long-form Video Generation and Completion](#long-form-video-generation-and-completion)
@@ -63,6 +64,14 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 + [Diffusers (Text-to-video synthesis)](https://huggingface.co/docs/diffusers/main/en/api/pipelines/text_to_video#texttovideo-synthesis)  
   [![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social&label=Star)](https://github.com/huggingface/diffusers)
+
+### New Video Generation Benchmark and Metrics
+
++ [Evalcrafter](https://arxiv.org/abs/2310.11440)(Oct., 2023)      
+  [![Star](https://img.shields.io/github/stars/EvalCrafter/EvalCrafter.svg?style=social&label=Star)](https://github.com/EvalCrafter/EvalCrafter)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11440)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://evalcrafter.github.io/) 
+
 
 ### Video Generation 
 
