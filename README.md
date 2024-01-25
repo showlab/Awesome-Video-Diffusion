@@ -88,6 +88,14 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation 
 
++ [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945) (Jan., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12945)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lumiere-video.github.io/)
+
++ [ActAnywhere: Subject-Aware Video Background Generation](https://arxiv.org/abs/2401.10822) (Jan., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10822)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://actanywhere.github.io/)
+
 + [Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation](https://arxiv.org/abs/2401.10150) (Jan., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10150)
 
