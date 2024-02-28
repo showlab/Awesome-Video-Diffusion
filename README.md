@@ -261,7 +261,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04483)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://higen-t2v.github.io/)
 
-+ [GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation](https://arxiv.org/abs/2312.04557) (Dec., 2023)  
++ [GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation](https://arxiv.org/abs/2312.04557) (CVPR 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04557)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.shoufachen.com/gentron_website/)
 
