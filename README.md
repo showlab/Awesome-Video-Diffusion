@@ -816,7 +816,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [GenVideo: One-shot target-image and shape aware video editing using T2I diffusion models](https://arxiv.org/abs/2404.12541) (Apr., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.12541)
 
-+ [EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing](https://arxiv.org/abs/2403.16111) (Mar., 2024)
++ [EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing](https://arxiv.org/abs/2403.16111) (Mar., 2024)  
   [![Star](https://img.shields.io/github/stars/knightyxp/EVA_Video_Edit.svg?style=social&label=Star)](https://github.com/knightyxp/EVA_Video_Edit)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.16111)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://knightyxp.github.io/EVA/)
