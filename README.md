@@ -30,6 +30,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Human or Subject Motion](#human-or-subject-motion)
 - [Video Enhancement and Restoration](#video-enhancement-and-restoration)
 - [3D / NeRF](#3d--nerf)
+- [World Model](#world--model)
 - [Video Understanding](#video-understanding)
 - [Healthcare and Biology](#healthcare-and-biology)
 
@@ -1291,6 +1292,15 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [DiffRF: Rendering-guided 3D Radiance Field Diffusion](https://arxiv.org/abs/2212.01206) (CVPR 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.01206)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sirwyver.github.io/DiffRF/)
+
+
+### World Model
+
++ [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2212.01206) (ICML 2024)  
+  [![Star](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-VLA.svg?style=social&label=Star)](https://github.com/UMass-Foundation-Model/3D-VLA) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.01206)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vis-www.cs.umass.edu/3dvla/)
+
 
 
 ### Video Understanding
