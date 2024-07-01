@@ -28,6 +28,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Video Editing](#video-editing)
 - [Long-form Video Generation and Completion](#long-form-video-generation-and-completion)
 - [Human or Subject Motion](#human-or-subject-motion)
+- [AI Safety for Video Generation](#AI-Safety-for-Video-Generation)
 - [Video Enhancement and Restoration](#video-enhancement-and-restoration)
 - [3D / NeRF](#3d--nerf)
 - [World Model](#world--model)
@@ -766,6 +767,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance](https://arxiv.org/abs/2406.19680) (Jun., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19680)
+  
+  
 + [FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models](https://arxiv.org/abs/2406.16863) (Jun., 2024)  
   [![Star](https://img.shields.io/github/stars/arthur-qiu/FreeTraj.svg?style=social&label=Star)](https://github.com/arthur-qiu/FreeTraj)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16863)
@@ -1256,6 +1261,12 @@ Portrait Image Animation](https://arxiv.org/pdf/2406.08801) (Jun., 2024)
 + [Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion](https://arxiv.org/abs/2203.13777) (CVPR 2022)   
   [![Star](https://img.shields.io/github/stars/gutianpei/MID.svg?style=social&label=Star)](https://github.com/gutianpei/MID) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.13777) 
+
+### AI Safety for Video Generation
++ [What Matters in Detecting AI-Generated Videos like Sora?](https://arxiv.org/abs/2406.19568) (Jun., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19568) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://justin-crchang.github.io/3DCNNDetection.github.io/)
+
 
 
 ### Video Enhancement and Restoration
