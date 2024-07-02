@@ -30,6 +30,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Human or Subject Motion](#human-or-subject-motion)
 - [AI Safety for Video Generation](#AI-Safety-for-Video-Generation)
 - [Video Enhancement and Restoration](#video-enhancement-and-restoration)
+- [Audio Synthesis for Video](#audio-synthesis-for-video)
 - [3D / NeRF](#3d--nerf)
 - [World Model](#world--model)
 - [Video Understanding](#video-understanding)
@@ -1276,11 +1277,26 @@ Portrait Image Animation](https://arxiv.org/pdf/2406.08801) (Jun., 2024)
 
 ### Video Enhancement and Restoration
 
++ [DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models](https://arxiv.org/abs/2407.01519) (Jul., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01519)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jimmycv07.github.io/DiffIR2VR_web/)
+  
+  
 + [LDMVFI: Video Frame Interpolation with Latent Diffusion Models](https://arxiv.org/abs/2303.09508) (Mar., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09508)
 
 + [CaDM: Codec-aware Diffusion Modeling for Neural-enhanced Video Streaming](https://arxiv.org/abs/2211.08428) (Nov., 2022)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.08428)
+
+### Audio Synthesis for Video
+
++ [FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds](https://arxiv.org/abs/2407.01494) (July, 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01494)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://foleycrafter.github.io/)
+
++ [Network Bending of Diffusion Models for Audio-Visual Generation](https://arxiv.org/abs/2406.19589) (CVPR, 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19589)
+    [![Star](https://img.shields.io/github/stars/dzluke/DAFX2024.svg?style=social&label=Star)](https://github.com/dzluke/DAFX2024)
 
 
 ### 3D / NeRF
