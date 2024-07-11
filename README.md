@@ -1332,6 +1332,11 @@ Portrait Image Animation](https://arxiv.org/pdf/2406.08801) (Jun., 2024)
 
 ### Audio Synthesis for Video
 
++ [Video-to-Audio Generation with Hidden Alignment](https://arxiv.org/abs/2407.07464) (Jul., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07464)
+    [![Star](https://img.shields.io/github/stars/ariesssxu/vta-ldm.svg?style=social&label=Star)](https://github.com/ariesssxu/vta-ldm)
+      [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/vta-ldm)
+      
 + [Read, Watch and Scream! Sound Generation from Text and Video](https://arxiv.org/abs/2407.05551) (Jul., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.05551)
     [![Star](https://img.shields.io/github/stars/naver-ai/rewas.svg?style=social&label=Star)](https://github.com/naver-ai/rewas)
