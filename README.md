@@ -1428,9 +1428,9 @@ Human Feedback for Video Generation](https://arxiv.org/pdf/2406.15252) (July, 20
 
 ### World Model
 
-+ [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2212.01206) (ICML 2024)  
++ [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631) (ICML 2024)  
   [![Star](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-VLA.svg?style=social&label=Star)](https://github.com/UMass-Foundation-Model/3D-VLA) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.01206)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.09631)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vis-www.cs.umass.edu/3dvla/)
 
 
