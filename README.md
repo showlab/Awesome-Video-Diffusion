@@ -25,6 +25,8 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
 - [Video Generation](#video-generation)
 - [Controllable Video Generation](#controllable-video-generation)
+- [Long Video/Film Generation](#long-video/film-generation)
+- [Video Generation with Physical Prior/3D](#video-generation-with-physical-prior/3D)
 - [Video Editing](#video-editing)
 - [Long-form Video Generation and Completion](#long-form-video-generation-and-completion)
 - [Human or Subject Motion](#human-or-subject-motion)
@@ -924,7 +926,14 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.05338)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/motionclone.github.io/)
   
+
+### Video Generation with Physical Prior/3D
++ [IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation](https://arxiv.org/abs/2407.10937) (Jul, 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16823)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://arxiv.org/abs/2407.10937)
+  [![Star](https://img.shields.io/github/stars/yhZhai/idol.svg?style=social&label=Star)](https://github.com/yhZhai/idol)
   
+
 ### Video Editing 
 
 + [Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection](https://arxiv.org/abs/2405.16823) (May, 2024)  
@@ -1362,6 +1371,11 @@ Portrait Image Animation](https://arxiv.org/pdf/2406.08801) (Jun., 2024)
 
 ### Audio Synthesis for Video
 
++ [Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity](https://arxiv.org/abs/2407.10387) (Jul., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10387)
+      [![Website](https://img.shields.io/badge/Website-9cf)](https://maskvat.github.io/)
+      
+      
 + [Video-to-Audio Generation with Hidden Alignment](https://arxiv.org/abs/2407.07464) (Jul., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07464)
     [![Star](https://img.shields.io/github/stars/ariesssxu/vta-ldm.svg?style=social&label=Star)](https://github.com/ariesssxu/vta-ldm)
