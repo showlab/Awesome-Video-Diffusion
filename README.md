@@ -987,6 +987,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility](https://arxiv.org/abs/2403.12035) (Mar., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12035)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cococozibojia.github.io/)
+  [![Star](https://img.shields.io/github/stars/zibojia/COCOCO.svg?style=social&label=Star)](https://github.com/zibojia/COCOCO)
 
 + [DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing](https://arxiv.org/abs/2403.12002) (Mar., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12002)
