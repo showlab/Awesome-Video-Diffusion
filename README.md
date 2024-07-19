@@ -941,7 +941,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.07952)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://aesopai.github.io/)
 
-+ [AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation](https://arxiv.org/abs/2404.18919) (Jul, 2024)  
++ [TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation](https://arxiv.org/abs/2404.18919) (Jul, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.18919)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://howe140.github.io/theatergen.io/)
   [![Star](https://img.shields.io/github/stars/donahowe/Theatergen.svg?style=social&label=Star)](https://github.com/donahowe/Theatergen)
