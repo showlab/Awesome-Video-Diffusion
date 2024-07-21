@@ -1282,7 +1282,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [OccFusion: Rendering Occluded Humans with Generative Diffusion Priors](https://arxiv.org/pdf/2406.08801) (Jul., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.00316) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cs.stanford.edu/~xtiange/projects/occfusion/)
-  
+
++ [EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions](https://arxiv.org/abs/2407.08136) (Jul., 2024)   
+  [![Star](https://img.shields.io/github/stars/BadToBest/EchoMimic?style=social)](https://github.com/BadToBest/EchoMimic) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.08136) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://badtobest.github.io/echomimic.html)
   
 + [Hallo: Hierarchical Audio-Driven Visual Synthesis for
 Portrait Image Animation](https://arxiv.org/pdf/2406.08801) (Jun., 2024)   
