@@ -25,8 +25,8 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
 - [Video Generation](#video-generation)
 - [Controllable Video Generation](#controllable-video-generation)
-- [Long Video/Film Generation](#long-video/film-generation)
-- [Video Generation with Physical Prior/3D](#video-generation-with-physical-prior/3D)
+- [Long Video / Film Generation](#long-video--film-generation)
+- [Video Generation with Physical Prior / 3D](#video-generation-with-physical-prior--3d)
 - [Video Editing](#video-editing)
 - [Long-form Video Generation and Completion](#long-form-video-generation-and-completion)
 - [Human or Subject Motion](#human-or-subject-motion)
@@ -36,7 +36,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Human Feedback for Video Generation](#human-feedback-for-video-generation)
 - [Policy Learning with Video Generation](#policy-learning-with-video-generation)
 - [3D / NeRF](#3d--nerf)
-- [World Model](#world--model)
+- [World Model](#world-model)
 - [Video Understanding](#video-understanding)
 - [Healthcare and Biology](#healthcare-and-biology)
 
@@ -887,7 +887,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.05338)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/motionclone.github.io/)
 
-### Long Video/Film Generation
+### Long Video / Film Generation
 
 + [AesopAgent: Agent-driven Evolutionary System on Story-to-Video Production](https://arxiv.org/abs/2403.07952) (Jul, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.07952)
@@ -912,7 +912,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://videodirectorgpt.github.io/)
   [![Star](https://img.shields.io/github/stars/HL-hanlin/VideoDirectorGPT.svg?style=social&label=Star)](https://github.com/HL-hanlin/VideoDirectorGPT)
 
-### Video Generation with Physical Prior/3D
+### Video Generation with Physical Prior / 3D
 
 + [IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation](https://arxiv.org/abs/2407.10937) (Jul, 2024)  
   [![Star](https://img.shields.io/github/stars/yhZhai/idol.svg?style=social&label=Star)](https://github.com/yhZhai/idol)
@@ -1420,7 +1420,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.13764)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://shape-of-motion.github.io/)
 
-+ [WonderWorld: Going from Anywhere to Everywhere](https://arxiv.org/abs/2406.09394) (Jun., 2024)  
++ [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://arxiv.org/abs/2406.09394) (Jun., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.09394)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wonderworld-2024.github.io/)
 
