@@ -83,6 +83,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Evaluation Benchmarks and Metrics
 
++ [T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation](https://arxiv.org/abs/2407.14505) (Jun., 2024)  
+  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/KaiyueSun98/T2V-CompBench.svg?style=social&label=Star)](https://github.com/KaiyueSun98/T2V-CompBench)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.14505)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-compbench.github.io/)
+  
+  
 + [ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation](https://arxiv.org/abs/2406.18522) (Jun., 2024)  
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ChronoMagic-Bench.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ChronoMagic-Bench)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.18522)
@@ -786,6 +792,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models](https://arxiv.org/abs/2407.15642) (Jul., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15642)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://maxin-cn.github.io/cinemo_project/)
+  [![Star](https://img.shields.io/github/stars/maxin-cn/Cinemo.svg?style=social&label=Star)](https://github.com/maxin-cn/Cinemo)
+
+
 + [VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control](https://arxiv.org/abs/2407.12781) (Jul., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.12781)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/vd3d/)
@@ -888,6 +900,13 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/motionclone.github.io/)
 
 ### Long Video / Film Generation
+
++ [AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description](https://arxiv.org/abs/2407.15850) (Jul, 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15850)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.robots.ox.ac.uk/~vgg/research/autoad-zero/)
+  [![Star](https://img.shields.io/github/stars/Jyxarthur/AutoAD-Zero.svg?style=social&label=Star)](https://github.com/Jyxarthur/AutoAD-Zero)
+
+
 
 + [AesopAgent: Agent-driven Evolutionary System on Story-to-Video Production](https://arxiv.org/abs/2403.07952) (Jul, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.07952)
