@@ -823,6 +823,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation](https://arxiv.org/abs/2408.13005) (Aug., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13005)
+
 + [ControlNeXt: Powerful and Efficient Control for Image and Video Generation](https://arxiv.org/pdf/2408.06070) (Aug., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.06070)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pbihao.github.io/projects/controlnext/index.html)
@@ -1605,6 +1608,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Policy Learning with Video Generation
 
+
++ [GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy](https://arxiv.org/abs/2408.14368) (July, 2024)   
+  [![Star](https://img.shields.io/github/stars/bytedance/GR-MG/tree/main.svg?style=social&label=Star)](https://github.com/bytedance/GR-MG/tree/main)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.14368)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gr-mg.github.io/)
+
 + [Any-point Trajectory Modeling for Policy Learning](https://arxiv.org/abs/2401.00025) (July, 2024)   
   [![Star](https://img.shields.io/github/stars/Large-Trajectory-Model/ATM.svg?style=social&label=Star)](https://github.com/Large-Trajectory-Model/ATM)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.00025)
@@ -1621,6 +1630,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamitate.cs.columbia.edu/)
 
 ### 3D / NeRF
+
++ [ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model](https://arxiv.org/abs/2408.16767) (Aug., 2024)   
+  [![Star](https://img.shields.io/github/stars/liuff19/ReconX.svg?style=social&label=Star)](https://github.com/liuff19/ReconX)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.16767)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://liuff19.github.io/ReconX/)
 
 + [SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency](https://arxiv.org/abs/2407.17470) (Jul., 2024)   
   [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)
