@@ -1581,6 +1581,18 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Audio Synthesis for Video
 
++ [Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming](https://arxiv.org/abs/2408.16725) (Jul., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.16725)
+  [![Star](https://img.shields.io/github/stars/gpt-omni/mini-omni.svg?style=social&label=Star)](https://github.com/gpt-omni/mini-omni)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/gpt-omni/mini-omni)
+      
+
+
++ [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech) (Aug., 2024)   
+  [![Star](https://img.shields.io/github/stars/huggingface/speech-to-speech.svg?style=social&label=Star)](https://github.com/huggingface/speech-to-speech)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/huggingface/speech-to-speech)
+      
+
 + [Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity](https://arxiv.org/abs/2407.10387) (Jul., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10387)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://maskvat.github.io/)
