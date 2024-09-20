@@ -1128,6 +1128,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation with Physical Prior / 3D
 
++ [StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos](https://arxiv.org/pdf/2409.07447) (Oct, 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.07447)
+  [![Website](https://img.shields.io/badge/Website-9cf)](http://stereocrafter.github.io/)
+
+
 + [ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis](https://arxiv.org/abs/2409.02048) (Sep, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02048)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://drexubery.github.io/ViewCrafter/)
@@ -1590,6 +1595,19 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Audio Synthesis for Video
 
++ [VMAs: Video-to-Music Generation via Semantic Alignment in Web Music Videos](https://www.arxiv.org/abs/2409.07450) (Oct., 2024)   
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://genjib.github.io/project_page/VMAs/index.html)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2409.07450)
+
+
+
++ [STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment](https://arxiv.org/pdf/2409.08601) (Oct., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.08601)
+  [![Star](https://img.shields.io/github/stars/yannqi/Draw-an-Audio-Code.svg?style=social&label=Star)](https://github.com/y-ren16/STAV2A)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://y-ren16.github.io/STAV2A/)
+
+
+
 + [Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis](https://arxiv.org/pdf/2409.06135) (Sep., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.06135)
   [![Star](https://img.shields.io/github/stars/yannqi/Draw-an-Audio-Code.svg?style=social&label=Star)](https://github.com/yannqi/Draw-an-Audio-Code)
@@ -1661,6 +1679,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamitate.cs.columbia.edu/)
 
 ### 3D / NeRF
+
+
++ [Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models](https://arxiv.org/pdf/2409.07452) (Oct., 2024)   
+  [![Star](https://img.shields.io/github/stars/liuff19/ReconX.svg?style=social&label=Star)](https://github.com/yanghb22-fdu/Hi3D-Official)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.07452)
+
 
 + [ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model](https://arxiv.org/abs/2408.16767) (Aug., 2024)   
   [![Star](https://img.shields.io/github/stars/liuff19/ReconX.svg?style=social&label=Star)](https://github.com/liuff19/ReconX)
