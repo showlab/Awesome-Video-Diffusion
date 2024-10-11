@@ -1689,8 +1689,14 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Talking Head Generation
 
++ [MimicTalk: Mimicking a personalized and expressive 3D talking face in few minutes](https://arxiv.org/abs/2410.06734) (Oct., 2024)   
+  [![Star](https://img.shields.io/github/stars/yerfor/MimicTalk.svg?style=social)](https://github.com/yerfor/MimicTalk) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06734) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mimictalk.github.io/)
+
+
 + [Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation](https://arxiv.org/pdf/2410.07718) (Oct., 2024)   
-  [![Star](https://img.shields.io/github/stars/fudan-generative-vision/hallo2?style=social)](https://github.com/fudan-generative-vision/hallo2) 
+  [![Star](https://img.shields.io/github/stars/fudan-generative-vision/hallo2.svg?style=social)](https://github.com/fudan-generative-vision/hallo2) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.07718) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://fudan-generative-vision.github.io/hallo2/#/)
 
@@ -1740,6 +1746,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### 3D / NeRF
 
++ [ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model](https://arxiv.org/abs/2410.07155) (Oct., 2024)   
+  [![Star](https://img.shields.io/github/stars/YangLing0818/Trans4D.svg?style=social&label=Star)](https://github.com/YangLing0818/Trans4D)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07155)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/YangLing0818/Trans4D)
 
 + [Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models](https://arxiv.org/pdf/2409.07452) (Oct., 2024)   
   [![Star](https://img.shields.io/github/stars/liuff19/ReconX.svg?style=social&label=Star)](https://github.com/yanghb22-fdu/Hi3D-Official)
