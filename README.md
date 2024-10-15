@@ -44,6 +44,8 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-source Toolboxes and Foundation Models 
 
+
+
 + [Pyramidal Flow Matching for Efficient Video Generative Modeling](https://pyramid-flow.github.io/)  
   [![Star](https://img.shields.io/github/stars/jy0205/Pyramid-Flow.svg?style=social&label=Star)](https://github.com/jy0205/Pyramid-Flow)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pyramid-flow.github.io/)
@@ -149,6 +151,9 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Dataset](https://img.shields.io/badge/Dataset-e97451)](https://snap-research.github.io/Panda-70M/) 
 
 ### Video Generation 
+
++ [VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10076)
 
 + [Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151) (Oct., 2024)      
   [![Star](https://img.shields.io/github/stars/desaixie/pa_vdm.svg?style=social&label=Star)](https://github.com/desaixie/pa_vdm)
@@ -832,6 +837,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09481)
 
 ### Controllable Video Generation
+
++ [Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention](https://arxiv.org/abs/2410.10774) (Oct., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10774)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ir1d.github.io/Cavia/)
+  
+
 + [Animate Your Motion: Turning Still Images into Dynamic Videos](https://arxiv.org/abs/2403.10179)(Mar., 2023|ECCV 2024)    
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.10179)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mingxiao-li.github.io/smcd/)
