@@ -1758,6 +1758,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### 3D / NeRF
 
++ [L3DG: Latent 3D Gaussian Diffusion](https://arxiv.org/abs/2112.03288) (Oct., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.03288)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://barbararoessle.github.io/l3dg/)
+
+
 + [ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model](https://arxiv.org/abs/2410.07155) (Oct., 2024)   
   [![Star](https://img.shields.io/github/stars/YangLing0818/Trans4D.svg?style=social&label=Star)](https://github.com/YangLing0818/Trans4D)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07155)
