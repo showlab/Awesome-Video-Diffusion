@@ -1862,6 +1862,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Understanding
 
++ [VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding](https://arxiv.org/pdf/2410.13860) (Oct., 2024)   
+  [![Star](https://img.shields.io/github/stars/OpenRobotLab/VLM-Grounder.svg?style=social&label=Star)](https://github.com/OpenRobotLab/VLM-Grounder) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.13860)
+
+
 + [Exploring Diffusion Models for Unsupervised Video Anomaly Detection](https://arxiv.org/abs/2304.05841) (Apr., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05841)
 
