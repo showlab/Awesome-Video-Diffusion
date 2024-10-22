@@ -1168,6 +1168,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation with Physical Prior / 3D
 
++ [Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models](https://arxiv.org/pdf/2410.10821) (Oct, 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.10821)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tex4d.github.io/)
+  [![Star](https://img.shields.io/github/stars/ZqlwMatt/Tex4D.svg?style=social&label=Star)](https://github.com/ZqlwMatt/Tex4D)
+
+
 + [PhyGenBench: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation](https://arxiv.org/pdf/2410.05363) (Oct, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.05363)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://phygenbench123.github.io/)
@@ -1775,6 +1781,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamitate.cs.columbia.edu/)
 
 ### 3D / NeRF
+
++ [MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion](https://arxiv.org/abs/2410.03825) (Oct., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.03825)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://monst3r-project.github.io/)
+  [![Star](https://img.shields.io/github/stars/Junyi42/monst3r.svg?style=social&label=Star)](https://github.com/Junyi42/monst3r)
+
 
 + [L3DG: Latent 3D Gaussian Diffusion](https://arxiv.org/abs/2112.03288) (Oct., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.03288)
