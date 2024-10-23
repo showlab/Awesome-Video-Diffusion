@@ -841,6 +841,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [CamI2V: Camera-Controlled Image-to-Video Diffusion Model](https://arxiv.org/pdf/2410.15957) (Oct., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.15957)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zgctroy.github.io/CamI2V/)
+  [![Star](https://img.shields.io/github/stars/ZGCTroy/CamI2V.svg?style=social&label=Star)](https://github.com/ZGCTroy/CamI2V)
+
+
 + [Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention](https://arxiv.org/abs/2410.10774) (Oct., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10774)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ir1d.github.io/Cavia/)
