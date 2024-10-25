@@ -846,6 +846,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [FRAMER: INTERACTIVE FRAME INTERPOLATION](https://arxiv.org/pdf/2410.18978) (Oct., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.18978)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://aim-uofa.github.io/Framer/)
+  [![Star](https://img.shields.io/github/stars/aim-uofa/Framer.svg?style=social&label=Star)](https://github.com/aim-uofa/Framer)
+
+
 + [CamI2V: Camera-Controlled Image-to-Video Diffusion Model](https://arxiv.org/pdf/2410.15957) (Oct., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.15957)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zgctroy.github.io/CamI2V/)
@@ -1105,6 +1111,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
   
 ### Long Video / Film Generation
+
++ [Unbounded: A Generative Infinite Game of Character Life Simulation](https://arxiv.org/abs/2410.18975) (Oct., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.18975)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://generative-infinite-game.github.io/)
+
 
 + [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757) (Oct., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02757)
