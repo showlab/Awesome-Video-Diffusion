@@ -1741,6 +1741,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Talking Head Generation
 
++ [Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://arxiv.org/abs/2410.22901) (Oct., 2024)   
+  [![Star](https://img.shields.io/github/stars/HelloVision/HelloMeme.svg?style=social)](https://github.com/HelloVision/HelloMeme) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.22901) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://songkey.github.io/hellomeme/)
+
+
 + [PersonaTalk: Bring Attention to Your Persona in Visual Dubbing](https://arxiv.org/pdf/2409.05379) (Oct., 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.05379) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://grisoon.github.io/PersonaTalk/)
