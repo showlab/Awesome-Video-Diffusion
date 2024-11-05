@@ -24,6 +24,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
 - [Video Generation](#video-generation)
+- [Efficiency for Video Generation](#efficiency-for-video-generation)
 - [Controllable Video Generation](#controllable-video-generation)
 - [Motion Customization](#motion-customization)
 - [Long Video / Film Generation](#long-video--film-generation)
@@ -37,6 +38,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Talking Head Generation](#talking-head-generation)
 - [Human Feedback for Video Generation](#human-feedback-for-video-generation)
 - [Policy Learning with Video Generation](#policy-learning-with-video-generation)
+- [Try On with Video Generation](#try-on-with-video-generation)
 - [3D / NeRF](#3d--nerf)
 - [World Model](#world-model)
 - [Video Understanding](#video-understanding)
@@ -844,6 +846,16 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/buggyyang/RVD.svg?style=social&label=Star)](https://github.com/buggyyang/RVD) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09481)
 
+### Efficiency for Video Generation
+
++ [Adaptive Caching for Faster Video Generation with Diffusion Transformers](https://arxiv.org/pdf/2411.02397) (Nov., 2024)   
+  [![Star](https://img.shields.io/github/stars/AdaCache-DiT/AdaCache.svg?style=social&label=Star)](https://github.com/AdaCache-DiT/AdaCache)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.02397) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://adacache-dit.github.io/)
+
++ [Fast and Memory-Efficient Video Diffusion Using Streamlined Inference](https://arxiv.org/abs/2411.01171) (Nov., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01171) 
+
 ### Controllable Video Generation
 
 + [LumiSculpt: A Consistency Lighting Control Network for Video Generation](https://arxiv.org/pdf/2410.22979) (Nov., 2024)      
@@ -1199,6 +1211,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation with Physical Prior / 3D
 
++ [How Far is Video Generation from World Model: A Physical Law Perspective](https://arxiv.org/pdf/2411.02385) (Oct, 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.02385)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://phyworld.github.io/)
+  [![Star](https://img.shields.io/github/stars/phyworld/phyworld.svg?style=social&label=Star)](https://github.com/phyworld/phyworld)
+
+
 + [Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models](https://arxiv.org/pdf/2410.10821) (Oct, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.10821)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tex4d.github.io/)
@@ -1548,6 +1566,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Human or Subject Motion 
 
++ [Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning](https://arxiv.org/abs/2410.24219) (Nov., 2024)   
+  [![Star](https://img.shields.io/github/stars/PR-Ryan/DEMO.svg?style=social)](https://github.com/PR-Ryan/DEMO) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.24219) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pr-ryan.github.io/DEMO-project/)
+
+
 + [A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights](https://arxiv.org/abs/2407.08428) (Jul., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.08428) 
   
@@ -1557,7 +1581,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cs.stanford.edu/~xtiange/projects/occfusion/)
 
 + [EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions](https://arxiv.org/abs/2407.08136) (Jul., 2024)   
-  [![Star](https://img.shields.io/github/stars/BadToBest/EchoMimic?style=social)](https://github.com/BadToBest/EchoMimic) 
+  [![Star](https://img.shields.io/github/stars/BadToBest/EchoMimic.svg?style=social)](https://github.com/BadToBest/EchoMimic) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.08136) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://badtobest.github.io/echomimic.html)
   
@@ -1843,6 +1867,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16862)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamitate.cs.columbia.edu/)
 
+### Try On with Video Generation
++ [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://arxiv.org/abs/2411.00225) (Nov., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00225)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://johannakarras.github.io/Fashion-VDM/)
+
 ### 3D / NeRF
 
 + [GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation](https://arxiv.org/abs/2401.04092) (Jan., 2024)   
@@ -2001,6 +2030,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Healthcare and Biology
+
++ [MedSora: Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation](https://arxiv.org/abs/2411.01647) (Nov., 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01647)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wongzbb.github.io/MedSora/)
+
 
 + [Annealed Score-Based Diffusion Model for Mr Motion Artifact Reduction](https://arxiv.org/abs/2301.03027) (Jan., 2023)  
   [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.03027) 
