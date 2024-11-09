@@ -2022,6 +2022,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-World Model
 
++ [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) (Nov., 2024)  
+  [![Star](https://img.shields.io/github/stars/stonybrooknlp/appworld.svg?style=social&label=Star)](https://github.com/stonybrooknlp/appworld/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.18901)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://appworld.dev/)
+
+
 + [Oasis: A Universe in a Transformer](https://www.decart.ai/articles/oasis-interactive-ai-video-game-model) (Nov., 2024)  
   [![Star](https://img.shields.io/github/stars/etched-ai/open-oasis.svg?style=social&label=Star)](https://github.com/etched-ai/open-oasis) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.decart.ai/articles/oasis-interactive-ai-video-game-model)
