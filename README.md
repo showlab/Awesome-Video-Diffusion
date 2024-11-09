@@ -46,6 +46,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-source Toolboxes and Foundation Models 
 
++ [VideoTuna](https://videoverses.github.io/videotuna/)  
+  [![Star](https://img.shields.io/github/stars/VideoVerses/VideoTuna.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoTuna)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://videoverses.github.io/videotuna/)
+
 
 + [Mochi 1](https://www.genmo.ai/blog)  
   [![Star](https://img.shields.io/github/stars/genmoai/models.svg?style=social&label=Star)](https://github.com/genmoai/models)
@@ -857,6 +861,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01171) 
 
 ### Controllable Video Generation
+
++ [ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning](https://arxiv.org/abs/2411.05003) (Nov., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.05003)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://generative-video-camera-controls.github.io/)
+
 
 + [SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation](https://arxiv.org/pdf/2411.04989) (Nov., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.04989)
