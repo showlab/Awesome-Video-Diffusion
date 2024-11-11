@@ -1054,11 +1054,6 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Motion Customization
 
-+ [MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations](https://arxiv.org/pdf/2410.13790) (Oct., 2024)  
-  [![Star](https://img.shields.io/github/stars/liangxuy/MotionBank.svg?style=social&label=Star)](https://github.com/liangxuy/MotionBank)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.13790)
-
-
 + [MotionDirector: Motion Customization of Text-to-Video Diffusion Models](https://arxiv.org/abs/2310.08465) (Sep., 2023 | ECCV 2024)  
   [![Star](https://img.shields.io/github/stars/showlab/MotionDirector.svg?style=social&label=Star)](https://github.com/showlab/MotionDirector)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08465)
