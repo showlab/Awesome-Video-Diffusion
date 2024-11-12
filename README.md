@@ -167,6 +167,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation 
 
++ [Improved Video VAE for Latent Video Diffusion Model](https://arxiv.org/abs/2411.06449) (Oct., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06449)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wpy1999.github.io/IV-VAE/)
+
+
 + [VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10076)
 
@@ -1054,6 +1059,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Motion Customization
 
++ [I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength](https://arxiv.org/pdf/2411.06525) (Nov., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.06525)
+
+
 + [MotionDirector: Motion Customization of Text-to-Video Diffusion Models](https://arxiv.org/abs/2310.08465) (Sep., 2023 | ECCV 2024)  
   [![Star](https://img.shields.io/github/stars/showlab/MotionDirector.svg?style=social&label=Star)](https://github.com/showlab/MotionDirector)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08465)
@@ -1623,6 +1632,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Human or Subject Motion 
+
++ [KMM: Key Frame Mask Mamba for Extended Motion Generation](https://arxiv.org/abs/2411.06481) (Nov., 2024)   
+  [![Star](https://img.shields.io/github/stars/steve-zeyu-zhang/KMM.svg?style=social)](https://github.com/steve-zeyu-zhang/KMM) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06481) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://steve-zeyu-zhang.github.io/KMM/)
+
 
 + [DanceFusion: A Spatio-Temporal Skeleton Diffusion Transformer for Audio-Driven Dance Motion Reconstruction](https://arxiv.org/abs/2411.04646) (Nov., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04646) 
