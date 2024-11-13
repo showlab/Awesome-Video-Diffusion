@@ -23,6 +23,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 ## Table of Contents <!-- omit in toc -->
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
+- [Commercial Product](#commercial-product)
 - [Video Generation](#video-generation)
 - [Efficiency for Video Generation](#efficiency-for-video-generation)
 - [Controllable Video Generation](#controllable-video-generation)
@@ -164,6 +165,22 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.19479)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/snap-research/Panda-70M) 
   [![Dataset](https://img.shields.io/badge/Dataset-e97451)](https://snap-research.github.io/Panda-70M/) 
+
+### Commercial Product
+
++ [Kling](https://klingai.com/?gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjMtrwX5RsW6xQvRSSg05fn1bA8wo9-AJiAKTIr-IkZnewbLXpCM44RoCkrsQAvD_BwE)  
+  [KuaiShou Company](https://www.kuaishou.com/en)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://klingai.com/?gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjMtrwX5RsW6xQvRSSg05fn1bA8wo9-AJiAKTIr-IkZnewbLXpCM44RoCkrsQAvD_BwE)
+
+
++ [Gen 3](https://app.runwayml.com/login)  
+  [Runway Company](https://runwayml.com/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://app.runwayml.com/login)
+
++ [Dream Machine](https://lumalabs.ai/dream-machine)  
+  [Luma Company](https://lumalabs.ai/dream-machine)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/dream-machine)
+
 
 ### Video Generation 
 
