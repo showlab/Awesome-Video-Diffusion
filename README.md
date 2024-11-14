@@ -2146,6 +2146,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Healthcare and Biology
 
+
++ [Exploring Variational Autoencoders for Medical Image Generation: A Comprehensive Study](https://arxiv.org/abs/2411.07348) (Nov., 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.07348)
+
+
 + [MedSora: Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation](https://arxiv.org/abs/2411.01647) (Nov., 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01647)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wongzbb.github.io/MedSora/)
