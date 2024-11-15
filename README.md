@@ -885,6 +885,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [MVideo: Motion Control for Enhanced Complex Action Video Generation](https://arxiv.org/pdf/2411.08328) (Nov., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.08328)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mvideo-v1.github.io/)
+
+
 + [ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning](https://arxiv.org/abs/2411.05003) (Nov., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.05003)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://generative-video-camera-controls.github.io/)
@@ -1941,6 +1946,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Policy Learning with Video Generation
 
++ [EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation](https://arxiv.org/pdf/2411.08380) (Nov, 2024)   
+  [![Star](https://img.shields.io/github/stars/JeffWang987/EgoVid/tree/main.svg?style=social&label=Star)](https://github.com/JeffWang987/EgoVid)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.08380)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://egovid.github.io/)
+
 
 + [GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy](https://arxiv.org/abs/2408.14368) (July, 2024)   
   [![Star](https://img.shields.io/github/stars/bytedance/GR-MG/tree/main.svg?style=social&label=Star)](https://github.com/bytedance/GR-MG/tree/main)
@@ -2128,7 +2138,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 + [Diffusion Action Segmentation](https://arxiv.org/abs/2303.17959) (ICCV 2023)   
   [![Star](https://img.shields.io/github/stars/Finspire13/DiffAct.svg?style=social&label=Star)](https://github.com/Finspire13/DiffAct) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([https://arxiv.org/abs/2303.09867](https://arxiv.org/abs/2303.17959))
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17959)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://daochang.site/DiffAct-Project-Page/)
 
 + [DiffusionRet: Generative Text-Video Retrieval with Diffusion Model](https://arxiv.org/abs/2303.09867) (ICCV 2023)   
@@ -2146,6 +2156,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Healthcare and Biology
 
++ [Artificial Intelligence for Biomedical Video Generation](https://arxiv.org/pdf/2411.07619) (Nov., 2024)   
+  [![Star](https://img.shields.io/github/stars/Finspire13/DiffAct.svg?style=social&label=Star)](https://github.com/Finspire13/DiffAct) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.07619)
 
 + [Exploring Variational Autoencoders for Medical Image Generation: A Comprehensive Study](https://arxiv.org/abs/2411.07348) (Nov., 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.07348)
