@@ -21,6 +21,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ## Table of Contents <!-- omit in toc -->
+- [Surveys](#surveys)
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
 - [Commercial Product](#commercial-product)
@@ -33,7 +34,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Video Editing](#video-editing)
 - [Long-form Video Generation and Completion](#long-form-video-generation-and-completion)
 - [Human or Subject Motion](#human-or-subject-motion)
-- [AI Safety for Video Generation](#AI-Safety-for-Video-Generation)
+- [AI Safety for Video Generation](#ai-safety-for-video-generation)
 - [Video Enhancement and Restoration](#video-enhancement-and-restoration)
 - [Audio Synthesis for Video](#audio-synthesis-for-video)
 - [Talking Head Generation](#talking-head-generation)
@@ -46,12 +47,17 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Video Understanding](#video-understanding)
 - [Healthcare and Biology](#healthcare-and-biology)
 
+### Surveys
+
++ [Video Diffusion Models: A Survey](https://openreview.net/forum?id=rJSHjhEYJx)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.03150)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://openreview.net/forum?id=rJSHjhEYJx)
+
 ### Open-source Toolboxes and Foundation Models 
 
 + [VideoTuna](https://videoverses.github.io/videotuna/)  
   [![Star](https://img.shields.io/github/stars/VideoVerses/VideoTuna.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoTuna)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://videoverses.github.io/videotuna/)
-
 
 + [Mochi 1](https://www.genmo.ai/blog)  
   [![Star](https://img.shields.io/github/stars/genmoai/models.svg?style=social&label=Star)](https://github.com/genmoai/models)
@@ -106,6 +112,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social&label=Star)](https://github.com/huggingface/diffusers)
 
 ### Evaluation Benchmarks and Metrics
+
 + [Frechet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos](https://arxiv.org/pdf/2407.16124) (Jun., 2024)  
   [![Star](https://img.shields.io/github/stars/DSL-Lab/FVMD-frechet-video-motion-distance.svg?style=social&label=Star)](https://github.com/DSL-Lab/FVMD-frechet-video-motion-distance)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.16124)
@@ -1793,6 +1800,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.13777) 
 
 ### AI Safety for Video Generation
+
 + [What Matters in Detecting AI-Generated Videos like Sora?](https://arxiv.org/abs/2406.19568) (Jun., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19568) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://justin-crchang.github.io/3DCNNDetection.github.io/)
