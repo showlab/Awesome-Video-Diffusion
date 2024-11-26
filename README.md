@@ -190,6 +190,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement](https://arxiv.org/pdf/2411.15115) (Nov., 2024)
++ [![Star](https://img.shields.io/github/stars/daeunni/VideoRepair.svg?style=social&label=Star)](https://github.com/daeunni/VideoRepair)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.15115)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://video-repair.github.io/)
+
+
 + [Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning](https://arxiv.org/abs/2410.24219) (Oct., 2024 | NeurIPS 2024)
 + [![Star](https://img.shields.io/github/stars/PR-Ryan/DEMO.svg?style=social&label=Star)](https://github.com/PR-Ryan/DEMO)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.24219)
@@ -896,6 +902,18 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
+
+
++ [FlipSketch: Flipping assets Drawings to Text-Guided Sketch Animations](https://arxiv.org/pdf/2411.10818) (Nov., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.10818)
+  [![Star](https://img.shields.io/github/stars/hmrishavbandy/FlipSketch.svg?style=social&label=Star)](https://github.com/hmrishavbandy/FlipSketch)
+
++ [AnimateAnything: Consistent and Controllable Animation for video generation](https://arxiv.org/pdf/2411.10836) (Nov., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.10836)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yu-shaonian.github.io/Animate_Anything/)
+  [![Star](https://img.shields.io/github/stars/yu-shaonian/AnimateAnything.svg?style=social&label=Star)](https://github.com/yu-shaonian/AnimateAnything)
+
+
 + [MVideo: Motion Control for Enhanced Complex Action Video Generation](https://arxiv.org/pdf/2411.08328) (Nov., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.08328)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mvideo-v1.github.io/)
@@ -1096,6 +1114,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/motionclone.github.io/)
 
 ### Motion Customization
+
++ [ViewExtrapolator: Novel View Extrapolation with Video Diffusion Priors](https://arxiv.org/abs/2411.14208) (Nov., 2024)  
+  [![Star](https://img.shields.io/github/stars/Kunhao-Liu/ViewExtrapolator.svg?style=social&label=Star)](https://github.com/Kunhao-Liu/ViewExtrapolator)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14208)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kunhao-liu.github.io/ViewExtrapolator/)
+
 
 + [I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength](https://arxiv.org/pdf/2411.06525) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.06525)
@@ -2122,6 +2146,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Open-World Model
+
++ [Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/abs/2411.14499) (Nov., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14499)
+
 
 + [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) (Nov., 2024)  
   [![Star](https://img.shields.io/github/stars/stonybrooknlp/appworld.svg?style=social&label=Star)](https://github.com/stonybrooknlp/appworld/) 
