@@ -1216,6 +1216,22 @@ A curated list of recent diffusion models for video generation, editing, restora
   
 ### Long Video / Film Generation
 
++ [MovieBench: A Hierarchical Movie Level Dataset for Long Video Generation](https://arxiv.org/abs/2411.15262) (Nov., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15262)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/MovieBench/)
+  [![Star](https://img.shields.io/github/stars/showlab/MovieBecnh.svg?style=social&label=Star)](https://github.com/showlab/MovieBecnh)
+
+
++ [MotionPrompt: Optical-Flow Guided Prompt Optimization for Coherent Video Generation](https://arxiv.org/pdf/2411.15540) (Nov., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.15540)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://motionprompt.github.io/)
+  [![Star](https://img.shields.io/github/stars/HyelinNAM/MotionPrompt.svg?style=social&label=Star)](https://github.com/HyelinNAM/MotionPrompt)
+
+
++ [DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation](https://arxiv.org/pdf/2411.16657) (Nov., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.16657)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamrunner-story2video.github.io/)
+  [![Star](https://img.shields.io/github/stars/wz0919/DreamRunner.svg?style=social&label=Star)](https://github.com/wz0919/DreamRunner)
 
 + [StoryMaker: Towards consistent characters in text-to-image generation](https://arxiv.org/abs/2409.12576) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.12576)
