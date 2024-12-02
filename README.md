@@ -42,6 +42,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Try On with Video Generation](#try-on-with-video-generation)
 - [3D / NeRF](#3d--nerf)
 - [4D](#4d)
+- [Rendering with Virtual Engine](#Rendering-with-Virtual-Engine)
 - [Open-World Model](#open-world-model)
 - [Video Understanding](#video-understanding)
 - [Healthcare and Biology](#healthcare-and-biology)
@@ -190,7 +191,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
-
++ [Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling](https://arxiv.org/abs/2411.18664) (Dec., 2024)
++ [![Star](https://img.shields.io/github/stars/junhahyung/STGuidance.svg?style=social&label=Star)](https://github.com/junhahyung/STGuidance)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18664)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://junhahyung.github.io/STGuidance)
 
 + [PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation](https://arxiv.org/pdf/2411.17048) (Nov., 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.17048)
@@ -1137,6 +1141,17 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/motionclone.github.io/)
 
 ### Motion Customization
+
++ [AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers](https://arxiv.org/abs/2411.18673) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18673)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/ac3d/)
+
+
++ [Trajectory Attention For Fine-grained Video Motion Control](https://arxiv.org/abs/2411.14208) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/xizaoqu/TrajectoryAttntion.svg?style=social&label=Star)](https://github.com/xizaoqu/TrajectoryAttntion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.19324)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/trajattn/)
+
 
 + [ViewExtrapolator: Novel View Extrapolation with Video Diffusion Priors](https://arxiv.org/abs/2411.14208) (Nov., 2024)  
   [![Star](https://img.shields.io/github/stars/Kunhao-Liu/ViewExtrapolator.svg?style=social&label=Star)](https://github.com/Kunhao-Liu/ViewExtrapolator)
@@ -2229,6 +2244,16 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chenshuo20.github.io/DimensionX/)
   [![Star](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Star)](https://github.com/wenqsun/DimensionX)
 
+
+### Rendering with Virtual Engine
++ [Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation](https://arxiv.org/abs/2406.11824) (CVPR 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11824)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://infinigen.org/)
+
+
++ [Scene Co-pilot: Procedural Text to Video Generation with Human in the Loop](https://arxiv.org/abs/2411.18644) (Dec., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18644)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://abolfazl-sh.github.io/Scene_co-pilot_site/)
 
 
 ### Open-World Model
