@@ -42,6 +42,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Try On with Video Generation](#try-on-with-video-generation)
 - [3D / NeRF](#3d--nerf)
 - [4D](#4d)
+- [Game Generation](#Game-Generation)
 - [Rendering with Virtual Engine](#Rendering-with-Virtual-Engine)
 - [Open-World Model](#open-world-model)
 - [Video Understanding](#video-understanding)
@@ -1142,6 +1143,18 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Motion Customization
 
+
++ [Motion Modes: What Could Happen Next?](https://motionmodes.github.io/resources/MotionModes.pdf) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://motionmodes.github.io/resources/MotionModes.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://motionmodes.github.io/)
+
+
+
++ [MoTrans: Customized Motion Transfer with Text-driven Video](https://openreview.net/pdf?id=rLw5583hMb) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/XiaominLi1997/MoTrans.svg?style=social&label=Star)](https://github.com/XiaominLi1997/MoTrans)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=rLw5583hMb)
+
+
 + [AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers](https://arxiv.org/abs/2411.18673) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18673)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/ac3d/)
@@ -1401,6 +1414,15 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/HL-hanlin/VideoDirectorGPT.svg?style=social&label=Star)](https://github.com/HL-hanlin/VideoDirectorGPT)
 
 ### Video Generation with Physical Prior / 3D
+
++ [Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning](https://arxiv.org/pdf/2412.00547) (Nov, 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.00547)
+
+
++ [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](https://arxiv.org/abs/2412.00596) (Nov, 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00596)
+  [![Star](https://img.shields.io/github/stars/pittisl/PhyT2V.svg?style=social&label=Star)](https://github.com/pittisl/PhyT2V)
+
 
 + [Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image](https://arxiv.org/pdf/2411.16800) (Nov, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.16800)
@@ -1750,6 +1772,13 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Long-form Video Generation and Completion
 
+
+
++ [Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation](https://arxiv.org/pdf/2412.01316) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.01316) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://presto-video.github.io/)
+
+
 + [Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach](https://arxiv.org/abs/2410.03160) (Oct., 2024)  
   [![Star](https://img.shields.io/github/stars/Yaofang-Liu/FVDM.svg?style=social&label=Star)](https://github.com/Yaofang-Liu/FVDM) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.03160)
@@ -2003,6 +2032,20 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Talking Head Generation
 
++ [Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation](https://arxiv.org/abs/2412.00719) (Nov., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00719) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://shaelynz.github.io/synergize-motion-appearance/)   
+  [![Star](https://img.shields.io/github/stars/ShaelynZ/synergize-motion-appearance.svg?style=social)](https://github.com/ShaelynZ/synergize-motion-appearance) 
+
++ [Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks](https://arxiv.org/pdf/2412.00733) (Nov., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.00733) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/fudan-generative-vision/hallo3)
+
+
++ [FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait](https://arxiv.org/abs/2412.01064) (Nov., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01064) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://deepbrainai-research.github.io/float/)
+
 
 + [EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion](https://arxiv.org/pdf/2411.16726) (Nov., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.16726) 
@@ -2245,6 +2288,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Star)](https://github.com/wenqsun/DimensionX)
 
 
+### Game Generation
+
++ [Playable Game Generation](https://arxiv.org/pdf/2412.00887) (Nov., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.00887)
+  [![Website](https://img.shields.io/badge/Website-9cf)](http://124.156.151.207)
+
 ### Rendering with Virtual Engine
 + [Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation](https://arxiv.org/abs/2406.11824) (CVPR 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11824)
@@ -2254,6 +2303,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Scene Co-pilot: Procedural Text to Video Generation with Human in the Loop](https://arxiv.org/abs/2411.18644) (Dec., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18644)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://abolfazl-sh.github.io/Scene_co-pilot_site/)
+
+
+
 
 
 ### Open-World Model
