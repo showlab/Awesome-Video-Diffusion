@@ -59,7 +59,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/genmoai/models.svg?style=social&label=Star)](https://github.com/genmoai/models)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.genmo.ai/blog)
 
-+ [Movie Gen: A Cast of Media Foundation Models](https://pyramid-flow.github.io/)  
++ [Movie Gen: A Cast of Media Foundation Models](https://ai.meta.com/research/publications/movie-gen-a-cast-of-media-foundation-models/)  
   [![Star](https://img.shields.io/github/stars/facebookresearch/MovieGenBench.svg?style=social&label=Star)](https://github.com/facebookresearch/MovieGenBench)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.13720)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.youtube.com/playlist?list=PL86eLlsPNfyi27GSizYjinpYxp7gEl5K8)
