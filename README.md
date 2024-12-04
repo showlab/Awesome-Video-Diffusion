@@ -84,7 +84,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/showlab/Show-1.svg?style=social&label=Star)](https://github.com/showlab/Show-1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/) 
 
-+ [Hotshot-XL (text-to-GIF)](https://huggingface.co/cerspense/zeroscope_v2_576w)  
++ [Hotshot-XL (text-to-GIF)](https://github.com/hotshotco/Hotshot-XL)  
   [![Star](https://img.shields.io/github/stars/hotshotco/Hotshot-XL.svg?style=social&label=Star)](https://github.com/hotshotco/Hotshot-XL)
 
 + [zeroscope_v2](https://huggingface.co/cerspense/zeroscope_v2_576w)  
@@ -2376,6 +2376,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Healthcare and Biology
+
++ [Medical Video Generation for Disease Progression Simulation](https://arxiv.org/abs/2411.11943) (Nov., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.11943)
 
 + [Artificial Intelligence for Biomedical Video Generation](https://arxiv.org/pdf/2411.07619) (Nov., 2024)   
   [![Star](https://img.shields.io/github/stars/Finspire13/DiffAct.svg?style=social&label=Star)](https://github.com/Finspire13/DiffAct) 
