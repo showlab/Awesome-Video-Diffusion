@@ -2348,6 +2348,16 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-World Model
 
++ [The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control](https://arxiv.org/pdf/2412.03568) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.03568)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://thematrix1999.github.io/)
+
+
++ [Navigation World Models](https://arxiv.org/abs/2412.03572) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03572)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.amirbar.net/nwm/)
+
+
 + [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) (Dec., 2024)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 
