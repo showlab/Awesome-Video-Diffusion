@@ -2348,6 +2348,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-World Model
 
++ [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) (Dec., 2024)  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+
+
+
 + [Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/abs/2411.14499) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14499)
 
