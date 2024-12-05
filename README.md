@@ -196,6 +196,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [Mimir: Improving Video Diffusion Models for Precise Text Understanding](https://arxiv.org/abs/2412.03085) (Dec., 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03085)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lucaria-academy.github.io/Mimir/)
+
+
 + [Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling](https://arxiv.org/abs/2411.18664) (Dec., 2024)
 + [![Star](https://img.shields.io/github/stars/junhahyung/STGuidance.svg?style=social&label=Star)](https://github.com/junhahyung/STGuidance)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18664)
@@ -1498,6 +1503,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Editing 
 
++ [DIVE: Taming DINO for Subject-Driven Video Editing](https://arxiv.org/abs/2412.03347) (Dec., 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03347)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://dino-video-editing.github.io/)
+
+
 + [AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction](https://arxiv.org/pdf/2412.02684) (Dec., 2024)
   [![Star](https://img.shields.io/github/stars/aigc3d/AniGS.svg?style=social&label=Star)](https://github.com/aigc3d/AniGS) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.02684)
@@ -2048,6 +2058,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/dzluke/DAFX2024.svg?style=social&label=Star)](https://github.com/dzluke/DAFX2024)
 
 ### Talking Head Generation
+
++ [SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model](https://arxiv.org/pdf/2412.03430) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.03430) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yl4467.github.io/)   
+
+
 
 + [Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation](https://arxiv.org/abs/2412.00719) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00719) 
