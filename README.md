@@ -2175,8 +2175,13 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Policy Learning with Video Generation
 
++ [RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches](https://arxiv.org/abs/2403.02709) (Dec, 2024) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02709)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://rt-sketch.github.io/)
+
+
 + [EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation](https://arxiv.org/pdf/2411.08380) (Nov, 2024)   
-  [![Star](https://img.shields.io/github/stars/JeffWang987/EgoVid/tree/main.svg?style=social&label=Star)](https://github.com/JeffWang987/EgoVid)
+  [![Star](https://img.shields.io/github/stars/JeffWang987/EgoVid.svg?style=social&label=Star)](https://github.com/JeffWang987/EgoVid)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.08380)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://egovid.github.io/)
 
