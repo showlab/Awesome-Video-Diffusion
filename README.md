@@ -46,9 +46,14 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Rendering with Virtual Engine](#Rendering-with-Virtual-Engine)
 - [Open-World Model](#open-world-model)
 - [Video Understanding](#video-understanding)
+- [Unified Model for Generation and Understanding](#unified-model-for-generation-and-understanding)
 - [Healthcare and Biology](#healthcare-and-biology)
 
 ### Open-source Toolboxes and Foundation Models 
+
++ [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603)  
+  [![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star)](https://github.com/Tencent/HunyuanVideo)
+
 
 + [VideoTuna](https://videoverses.github.io/videotuna/)  
   [![Star](https://img.shields.io/github/stars/VideoVerses/VideoTuna.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoTuna)
@@ -1281,6 +1286,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   
 ### Long Video / Film Generation
 
++ [GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration](https://arxiv.org/abs/2412.04440) (Dec., 2024)      
+  [![Star](https://img.shields.io/github/stars/Karine-Huang/GenMAC.svg?style=social&label=Star)](https://github.com/Karine-Huang/GenMAC)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04440)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://karine-h.github.io/GenMAC/) 
+
+
 + [VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation](https://arxiv.org/abs/2412.02259) (Dec., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02259)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cheliosoops.github.io/VGoT/) 
@@ -2059,10 +2070,25 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Talking Head Generation
 
++ [IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](https://arxiv.org/abs/2412.04000) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04000) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](http://ec2-3-25-102-128.ap-southeast-2.compute.amazonaws.com/IF-MDM/ifmdm_supplementary/index.html)   
+
+
++ [INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations](https://arxiv.org/pdf/2412.04037) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.04037) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://grisoon.github.io/INFP/)   
+
+
++ [MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation](https://arxiv.org/abs/2412.04448) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04448) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://memoavatar.github.io/)   
+  [![Star](https://img.shields.io/github/stars/memoavatar/memo.svg?style=social)](https://github.com/memoavatar/memo) 
+
+
 + [SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model](https://arxiv.org/pdf/2412.03430) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.03430) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yl4467.github.io/)   
-
 
 
 + [Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation](https://arxiv.org/abs/2412.00719) (Nov., 2024)  
@@ -2320,6 +2346,16 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### 4D
 
++ [4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion](https://arxiv.org/abs/2412.04462) (Dec., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04462)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/4Real-Video/)
+
++ [PaintScene4D: Consistent 4D Scene Generation from Text Prompts](https://arxiv.org/abs/2412.04471) (Dec., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04471)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://paintscene4d.github.io/)
+  [![Star](https://img.shields.io/github/stars/paintscene4d/paintscene4d.github.io.svg?style=social&label=Star)](https://github.com/paintscene4d/paintscene4d.github.io)
+
+
 + [CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models](https://arxiv.org/abs/2411.18613) (Nov., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18613)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cat-4d.github.io/)
@@ -2429,6 +2465,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [A Generalist Framework for Panoptic Segmentation of Images and Videos](https://arxiv.org/abs/2210.06366) (Oct., 2022)   
   [![Star](https://img.shields.io/github/stars/google-research/pix2seq.svg?style=social&label=Star)](https://github.com/google-research/pix2seq) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.06366)
+
+
+### Unified Model for Generation and Understanding
++ [Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation](https://arxiv.org/abs/2412.04432) (Nov., 2024)   
+  [![Star](https://img.shields.io/github/stars/TencentARC/Divot.svg?style=social&label=Star)](https://github.com/TencentARC/Divot) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04432)
 
 
 ### Healthcare and Biology
