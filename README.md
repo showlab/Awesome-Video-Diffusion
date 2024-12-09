@@ -37,7 +37,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Video Enhancement and Restoration](#video-enhancement-and-restoration)
 - [Audio Synthesis for Video](#audio-synthesis-for-video)
 - [Talking Head Generation](#talking-head-generation)
-- [Human Feedback for Video Generation](#human-feedback-for-video-generation)
+- [Human/AI Feedback for Video Generation](#human/ai-feedback-for-video-generation)
 - [Policy Learning with Video Generation](#policy-learning-with-video-generation)
 - [Try On with Video Generation](#try-on-with-video-generation)
 - [3D / NeRF](#3d--nerf)
@@ -1291,6 +1291,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   
 ### Long Video / Film Generation
 
++ [Mind the Time: Temporally-Controlled Multi-Event Video Generation](https://arxiv.org/abs/2412.05263) (Dec., 2024)      
+  [![Star](https://img.shields.io/github/stars/Karine-Huang/GenMAC.svg?style=social&label=Star)](https://github.com/Karine-Huang/GenMAC)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05263)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mint-video.github.io/) 
+
+
 + [GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration](https://arxiv.org/abs/2412.04440) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/Karine-Huang/GenMAC.svg?style=social&label=Star)](https://github.com/Karine-Huang/GenMAC)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04440)
@@ -1518,6 +1524,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physdreamer.github.io/)
 
 ### Video Editing 
+
++ [MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models](https://arxiv.org/abs/2412.05275) (Dec., 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05275)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://motionflow-diffusion.github.io/)
+
 
 + [DIVE: Taming DINO for Subject-Driven Video Editing](https://arxiv.org/abs/2412.03347) (Dec., 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03347)
@@ -2193,6 +2204,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Human/AI Feedback for Video Generation
++ [LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment](https://arxiv.org/pdf/2412.04814) (Dec., 2024)   
+  [![Star](https://img.shields.io/github/stars/CodeGoat24/LiFT.svg?style=social&label=Star)](https://github.com/CodeGoat24/LiFT)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.04814)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://codegoat24.github.io/LiFT/)
+
 
 + [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617) (Nov., 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02617)
@@ -2205,6 +2221,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tiger-ai-lab.github.io/VideoScore/)
 
 ### Policy Learning with Video Generation
+
++ [Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model](https://arxiv.org/abs/2412.05280) (Dec, 2024)   
+  [![Star](https://img.shields.io/github/stars/wzzheng/Stag.svg?style=social&label=Star)](https://github.com/wzzheng/Stag)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05280)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wzzheng.net/Stag/)
+
 
 + [RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches](https://arxiv.org/abs/2403.02709) (Dec, 2024) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02709)
