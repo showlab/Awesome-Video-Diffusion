@@ -1167,6 +1167,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Motion Customization
 
++ [Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training](https://arxiv.org/abs/2412.06029) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06029)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://latent-reframe.github.io/)
+
 
 + [Motion Modes: What Could Happen Next?](https://motionmodes.github.io/resources/MotionModes.pdf) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://motionmodes.github.io/resources/MotionModes.pdf)
