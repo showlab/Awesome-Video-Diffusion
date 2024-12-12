@@ -2263,6 +2263,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Policy Learning with Video Generation
 
+
++ [Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning](https://portal-cornell.github.io/motion_track_policy/) (Dec, 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://portal-cornell.github.io/motion_track_policy/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://portal-cornell.github.io/motion_track_policy/)
+
+
 + [Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model](https://arxiv.org/abs/2412.05280) (Dec, 2024)   
   [![Star](https://img.shields.io/github/stars/wzzheng/Stag.svg?style=social&label=Star)](https://github.com/wzzheng/Stag)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05280)
