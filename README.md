@@ -950,6 +950,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01171) 
 
 ### Controllable Video Generation
++ [SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints](https://arxiv.org/abs/2412.07760) (Dec., 2024)      
+  [![Star](https://img.shields.io/github/stars/KwaiVGI/SynCamMaster.svg?style=social&label=Star)](https://github.com/KwaiVGI/SynCamMaster)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07760)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/SynCamMaster/)
 
 + [3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation](https://drive.google.com/file/d/111Z5CMJZupkmg-xWpV4Tl4Nb7SRFcoWx/view) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/KwaiVGI/3DTrajMaster.svg?style=social&label=Star)](https://github.com/KwaiVGI/3DTrajMaster)
