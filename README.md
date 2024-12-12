@@ -39,6 +39,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Talking Head Generation](#talking-head-generation)
 - [Human/AI Feedback for Video Generation](#human/ai-feedback-for-video-generation)
 - [Policy Learning with Video Generation](#policy-learning-with-video-generation)
+- [Acceleration for Video Generation](#acceleration-for-video-generation)
 - [Try On with Video Generation](#try-on-with-video-generation)
 - [3D / NeRF](#3d--nerf)
 - [4D](#4d)
@@ -1191,6 +1192,13 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Motion Customization
 
+
++ [Video Motion Transfer with Diffusion Transformers](https://arxiv.org/abs/2412.07776) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/ditflow/ditflow.svg?style=social&label=Star)](https://github.com/ditflow/ditflow)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07776)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ditflow.github.io/)
+
+
 + [Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training](https://arxiv.org/abs/2412.06029) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06029)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://latent-reframe.github.io/)
@@ -1318,6 +1326,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
   
 ### Long Video / Film Generation
+
++ [Video Storyboarding: Multi-Shot Character Consistency for Text-to-Video Generation](https://arxiv.org/pdf/2412.07750) (Dec., 2024) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07750)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/par/video_storyboarding/) 
+
 
 + [Mind the Time: Temporally-Controlled Multi-Event Video Generation](https://arxiv.org/abs/2412.05263) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/Karine-Huang/GenMAC.svg?style=social&label=Star)](https://github.com/Karine-Huang/GenMAC)
@@ -2287,6 +2300,14 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16862)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamitate.cs.columbia.edu/)
 
+
+### Acceleration for Video Generation
+
++ [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/pdf/2412.07772) (Dec., 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07772)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/)
+
+
 ### Try On with Video Generation
 + [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://arxiv.org/abs/2411.00225) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00225)
@@ -2523,6 +2544,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Unified Model for Generation and Understanding
+
++ [UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics](https://arxiv.org/pdf/2412.07774) (Dec., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07774)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xavierchen34.github.io/UniReal-Page/)
+
 + [Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation](https://arxiv.org/abs/2412.04432) (Nov., 2024)   
   [![Star](https://img.shields.io/github/stars/TencentARC/Divot.svg?style=social&label=Star)](https://github.com/TencentARC/Divot) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04432)
