@@ -951,6 +951,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01171) 
 
 ### Controllable Video Generation
+
++ [OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation](https://arxiv.org/pdf/2412.09623) (Dec., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.09623)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lwq20020127.github.io/OmniDrag/)
+
+
 + [SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints](https://arxiv.org/abs/2412.07760) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/KwaiVGI/SynCamMaster.svg?style=social&label=Star)](https://github.com/KwaiVGI/SynCamMaster)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07760)
@@ -1192,6 +1198,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Motion Customization
 
++ [MotionShop: Zero-Shot Motion Transfer in Video Diffusion Models with Mixture of Score Guidance](https://motionshop-diffusion.github.io/MotionShop.pdf) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/gemlab-vt/motionshop.svg?style=social&label=Star)](https://github.com/gemlab-vt/motionshop)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://motionshop-diffusion.github.io/MotionShop.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://motionshop-diffusion.github.io/)
+
 
 + [Video Motion Transfer with Diffusion Transformers](https://arxiv.org/abs/2412.07776) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/ditflow/ditflow.svg?style=social&label=Star)](https://github.com/ditflow/ditflow)
@@ -1326,6 +1337,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
   
 ### Long Video / Film Generation
+
++ [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) (Dec., 2024)      
+  [![Star](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Star)](https://github.com/huang-yh/Owl)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09600)
+
 
 + [Video Storyboarding: Multi-Shot Character Consistency for Text-to-Video Generation](https://arxiv.org/pdf/2412.07750) (Dec., 2024) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07750)
@@ -2057,6 +2073,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Audio Synthesis for Video
 
++ [YingSound: Video-Guided Sound Effects Generation with Multi-modal Chain-of-Thought Controls](https://arxiv.org/abs/2412.09551) (Nov., 2024) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09551)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://giantailab.github.io/yingsound/) 
+
 
 + [Video-Guided Foley Sound Generation with Multimodal Controls](https://arxiv.org/pdf/2411.17698) (Nov., 2024) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.17698)
@@ -2428,6 +2448,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### 4D
 
++ [Stereo4D Learning How Things Move in 3D from Internet Stereo Videos](https://arxiv.org/pdf/2412.09621) (Dec., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.09621)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://stereo4d.github.io/)
+
 + [4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion](https://arxiv.org/abs/2412.04462) (Dec., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04462)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/4Real-Video/)
@@ -2470,6 +2494,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Open-World Model
+
++ [GenEx: Generating an Explorable World](https://arxiv.org/abs/2412.09624) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09624)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://genex.world/)
 
 + [The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control](https://arxiv.org/pdf/2412.03568) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.03568)
