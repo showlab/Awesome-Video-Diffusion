@@ -1338,6 +1338,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   
 ### Long Video / Film Generation
 
+
++ [LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity](https://arxiv.org/abs/2412.09856) (Dec., 2024) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09856)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lineargen.github.io/) 
+
+
 + [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Star)](https://github.com/huang-yh/Owl)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09600)
@@ -2147,6 +2153,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Talking Head Generation
 
+
++ [VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization](https://arxiv.org/abs/2412.09892) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09892) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://x-lance.github.io/VQTalker/) 
+
+
 + [IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](https://arxiv.org/abs/2412.04000) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04000) 
   [![Website](https://img.shields.io/badge/Website-9cf)](http://ec2-3-25-102-128.ap-southeast-2.compute.amazonaws.com/IF-MDM/ifmdm_supplementary/index.html)   
@@ -2335,6 +2347,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Try On with Video Generation
+
++ [Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism](https://arxiv.org/abs/2412.09822) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09822)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zhengjun-ai.github.io/dynamic-tryon-page/)
+
+
 + [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://arxiv.org/abs/2411.00225) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00225)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://johannakarras.github.io/Fashion-VDM/)
