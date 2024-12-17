@@ -118,6 +118,13 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social&label=Star)](https://github.com/huggingface/diffusers)
 
 ### Evaluation Benchmarks and Metrics
+
++ [Evaluation Agent, Efficient and Promptable Evaluation Framework for Visual Generative Models](https://arxiv.org/abs/2412.09645) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/Vchitect/Evaluation-Agent.svg?style=social&label=Star)](https://github.com/Vchitect/Evaluation-Agent)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09645)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/Evaluation-Agent-project/)
+
+
 + [Frechet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos](https://arxiv.org/pdf/2407.16124) (Jun., 2024)  
   [![Star](https://img.shields.io/github/stars/DSL-Lab/FVMD-frechet-video-motion-distance.svg?style=social&label=Star)](https://github.com/DSL-Lab/FVMD-frechet-video-motion-distance)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.16124)
@@ -201,6 +208,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Video Generation
+
++ [Video Diffusion Transformers are In-Context Learners](https://arxiv.org/abs/2412.10783) (Dec., 2024)
++ [![Star](https://img.shields.io/github/stars/feizc/Video-In-Context.svg?style=social&label=Star)](https://github.com/feizc/Video-In-Context)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10783)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/feizhengcong/Video-In-Context)
+
 
 + [Instructional Video Generation](https://arxiv.org/abs/2412.04189) (Dec., 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04189)
@@ -938,6 +951,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Efficiency for Video Generation
 
++ [SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device](https://arxiv.org/pdf/2412.10494) (Dec., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.10494) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/snapgen-v/)
+
 
 + [Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models](https://arxiv.org/abs/2411.18375) (Nov., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18375) 
@@ -951,6 +968,16 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01171) 
 
 ### Controllable Video Generation
+
++ [Generative Inbetweening through Frame-wise Conditions-Driven Video Generation](https://arxiv.org/abs/2412.11755) (Dec., 2024)      
+  [![Star](https://img.shields.io/github/stars/Tian-one/FCVG.svg?style=social&label=Star)](https://github.com/Tian-one/FCVG)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11755)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://fcvg-inbetween.github.io/)
+
++ [InterDyn: Controllable Interactive Dynamics with Video Diffusion Models](https://interdyn.is.tue.mpg.de/media/upload/interdyn_video.pdf) (Dec., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://interdyn.is.tue.mpg.de/media/upload/interdyn_video.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://interdyn.is.tue.mpg.de/)
+
 
 + [OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation](https://arxiv.org/pdf/2412.09623) (Dec., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.09623)
@@ -1588,6 +1615,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Editing 
 
++ [VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping](https://arxiv.org/abs/2403.16999) (Dec., 2024)
+  [![Star](https://img.shields.io/github/stars/deepcs233/VividFace.svg?style=social&label=Star)](https://github.com/deepcs233/VividFace) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.16999)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hao-shao.com/projects/vividface.html)
+
+
 + [MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models](https://arxiv.org/abs/2412.05275) (Dec., 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05275)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://motionflow-diffusion.github.io/)
@@ -2079,6 +2112,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Audio Synthesis for Video
 
+
++ [VinTAGe: Joint Video and Text Conditioning for Holistic Audio Generation](https://arxiv.org/abs/2412.10768) (Nov., 2024) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10768)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.youtube.com/watch?v=QmqWhUjPkJI) 
+
+
 + [YingSound: Video-Guided Sound Effects Generation with Multi-modal Chain-of-Thought Controls](https://arxiv.org/abs/2412.09551) (Nov., 2024) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09551)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://giantailab.github.io/yingsound/) 
@@ -2358,6 +2397,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://johannakarras.github.io/Fashion-VDM/)
 
 ### 3D / NeRF
+
++ [Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091) (Dec., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.12091)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/wonderland/)
 
 + [GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation](https://arxiv.org/abs/2401.04092) (Jan., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.04092)
