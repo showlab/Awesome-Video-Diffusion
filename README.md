@@ -951,6 +951,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Efficiency for Video Generation
 
++ [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/pdf/2412.07772) (Dec., 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07772)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/)
+
+
 + [SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device](https://arxiv.org/pdf/2412.10494) (Dec., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.10494) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/snapgen-v/)
@@ -1614,6 +1619,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physdreamer.github.io/)
 
 ### Video Editing 
+
++ [MIVE: New Design and Benchmark for Multi-Instance Video Editing](https://arxiv.org/abs/2412.12877) (Dec., 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.12877)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kaist-viclab.github.io/mive-site/)
+
 
 + [VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping](https://arxiv.org/abs/2403.16999) (Dec., 2024)
   [![Star](https://img.shields.io/github/stars/deepcs233/VividFace.svg?style=social&label=Star)](https://github.com/deepcs233/VividFace) 
@@ -2376,13 +2386,6 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/cvlab-columbia/dreamitate.svg?style=social&label=Star)](https://github.com/cvlab-columbia/dreamitate)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16862)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamitate.cs.columbia.edu/)
-
-
-### Acceleration for Video Generation
-
-+ [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/pdf/2412.07772) (Dec., 2024)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07772)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/)
 
 
 ### Try On with Video Generation
