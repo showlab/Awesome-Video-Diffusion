@@ -52,6 +52,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-source Toolboxes and Foundation Models 
 
++ [LTX-Video](https://github.com/Lightricks/LTX-Video)  
+  [![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star)](https://github.com/Lightricks/LTX-Video)
+
+
 + [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603)  
   [![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star)](https://github.com/Tencent/HunyuanVideo)
 
@@ -990,6 +994,14 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01171) 
 
 ### Controllable Video Generation
+
++ [DirectorLLM for Human-Centric Video Generation](https://arxiv.org/pdf/2412.14484) (Dec., 2024)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.14484)
+
++ [Consistent Human Image and Video Generation with Spatially Conditioned Diffusion](https://arxiv.org/abs/2412.14531) (Dec., 2024)      
+  [![Star](https://img.shields.io/github/stars/ljzycmd/SCD.svg?style=social&label=Star)](https://github.com/ljzycmd/SCD)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14531)
+
 
 + [Generative Inbetweening through Frame-wise Conditions-Driven Video Generation](https://arxiv.org/abs/2412.11755) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/Tian-one/FCVG.svg?style=social&label=Star)](https://github.com/Tian-one/FCVG)
@@ -2139,6 +2151,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Audio Synthesis for Video
 
++ [Stable-V2A: Synthesis of Synchronized Audio Effects with Temporal and Semantic Controls](https://arxiv.org/abs/2412.15023) (Dec., 2024) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15023)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ispamm.github.io/Stable-V2A/) 
+  [![Star](https://img.shields.io/github/stars/ispamm/Stable-V2A.svg?style=social&label=Star)](https://github.com/ispamm/Stable-V2A)
+
 + [AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation](https://arxiv.org/abs/2412.15191) (Dec., 2024) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15191)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/AVLink/) 
@@ -2365,6 +2382,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Policy Learning with Video Generation
 
++ [Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/abs/2412.14803) (Dec, 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14803)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://video-prediction-policy.github.io/)
 
 + [Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning](https://portal-cornell.github.io/motion_track_policy/) (Dec, 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://portal-cornell.github.io/motion_track_policy/)
