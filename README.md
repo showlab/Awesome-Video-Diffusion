@@ -213,11 +213,14 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [MotiF: Making Text Count in Image Animation with Motion Focal Loss](https://arxiv.org/abs/2412.16153) (Dec., 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16153)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wang-sj16.github.io/motif/#BibTeX)
+
+
 + [VideoDPO: Omni-Preference Alignment for Video Diffusion Generation](https://arxiv.org/pdf/2412.14167) (Dec., 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.14167)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://videodpo.github.io/)
-
-
 
 + [Autoregressive Video Generation without Vector Quantization](https://arxiv.org/abs/2412.14169) (Dec., 2024)
 + [![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/baaivision/NOVA)
@@ -1259,6 +1262,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Motion Customization
 
++ [CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training](https://arxiv.org/pdf/2412.15646) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.15646)
+
+
 + [MotionShop: Zero-Shot Motion Transfer in Video Diffusion Models with Mixture of Score Guidance](https://motionshop-diffusion.github.io/MotionShop.pdf) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/gemlab-vt/motionshop.svg?style=social&label=Star)](https://github.com/gemlab-vt/motionshop)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://motionshop-diffusion.github.io/MotionShop.pdf)
@@ -2150,6 +2157,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.08428)
 
 ### Audio Synthesis for Video
+
++ [Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis](https://arxiv.org/abs/2412.15322) (Dec., 2024) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15322)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hkchengrex.com/MMAudio/) 
+  [![Star](https://img.shields.io/github/stars/hkchengrex/MMAudio.svg?style=social&label=Star)](https://github.com/hkchengrex/MMAudio)
+
 
 + [Stable-V2A: Synthesis of Synchronized Audio Effects with Temporal and Semantic Controls](https://arxiv.org/abs/2412.15023) (Dec., 2024) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15023)
