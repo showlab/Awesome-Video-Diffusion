@@ -2242,7 +2242,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech) (Aug., 2024)   
   [![Star](https://img.shields.io/github/stars/huggingface/speech-to-speech.svg?style=social&label=Star)](https://github.com/huggingface/speech-to-speech)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/huggingface/speech-to-speech)
-      
+
++ [Video-Foley: Two-Stage Video-To-Sound Generation via Temporal Event Condition For Foley Sound](https://arxiv.org/abs/2408.11915) (Aug., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.11915)
+  [![Star](https://img.shields.io/github/stars/jnwnlee/video-foley.svg?style=social&label=Star)](https://github.com/jnwnlee/video-foley)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jnwnlee.github.io/video-foley-demo/)
 
 + [Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity](https://arxiv.org/abs/2407.10387) (Jul., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10387)
