@@ -52,6 +52,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-source Toolboxes and Foundation Models 
 
++ [Cosmos](https://videoverses.github.io/videotuna/)  
+  [![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03575)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos1/)
+
+
 + [LTX-Video](https://github.com/Lightricks/LTX-Video)  
   [![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star)](https://github.com/Lightricks/LTX-Video)
 
@@ -248,6 +254,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [![Star](https://img.shields.io/github/stars/feizc/Video-In-Context.svg?style=social&label=Star)](https://github.com/feizc/Video-In-Context)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10783)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/feizhengcong/Video-In-Context)
+
++ [Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation](https://arxiv.org/abs/2412.06016) (Dec., 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06016)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hyeonho99.github.io/track4gen/)
 
 
 + [Instructional Video Generation](https://arxiv.org/abs/2412.04189) (Dec., 2024)
