@@ -1295,6 +1295,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Character Customization
 
++ [Multi-subject Open-set Personalization in Video Generation](https://arxiv.org/abs/2501.06187) (Jan., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06187)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/open-set-video-personalization/)
+
+
 + [Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers](https://arxiv.org/abs/2501.03931) (Jan., 2025)  
   [![Star](https://img.shields.io/github/stars/dvlab-research/MagicMirror.svg?style=social&label=Star)](https://github.com/dvlab-research/MagicMirror/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03931)
@@ -1467,6 +1472,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
   
 ### Long Video / Film Generation
+
++ [VideoAuteur: Towards Long Narrative Video Generation](https://arxiv.org/abs/2501.06173) (Jan., 2025)  
+  [![Star](https://img.shields.io/github/stars/lambert-x/VideoAuteur.svg?style=social&label=Star)](https://github.com/lambert-x/VideoAuteur)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06173)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://videoauteur.github.io/)
+
 
 + [DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation](https://arxiv.org/abs/2412.18597) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/TencentARC/DiTCtrl.svg?style=social&label=Star)](https://github.com/TencentARC/DiTCtrl)
@@ -2523,6 +2534,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Try On with Video Generation
+
++ [1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On](https://arxiv.org/abs/2501.05369) (Jan., 2025)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.05369)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ningshuliang.github.io/2023/Arxiv/index.html)
+  [![Star](https://img.shields.io/github/stars/ningshuliang/1-2-1-MNVTON.svg?style=social&label=Star)](https://github.com/ningshuliang/1-2-1-MNVTON)
 
 + [Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism](https://arxiv.org/abs/2412.09822) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09822)
