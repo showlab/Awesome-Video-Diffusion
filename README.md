@@ -131,6 +131,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Evaluation Benchmarks and Metrics
 
++ [MEt3R: Measuring Multi-View Consistency in Generated Images](https://geometric-rl.mpi-inf.mpg.de/met3r/static/assets/met3r.pdf) (Jan., 2025)  
+  [![Star](https://img.shields.io/github/stars/mohammadasim98/MEt3R.svg?style=social&label=Star)](https://github.com/mohammadasim98/MEt3R)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://geometric-rl.mpi-inf.mpg.de/met3r/static/assets/met3r.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://geometric-rl.mpi-inf.mpg.de/met3r/)
+
+
 + [Is Your World Simulator a Good Story Presenter? A Consecutive Events-Based Benchmark for Future Long Video Generation](https://arxiv.org/abs/2412.16211) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/ypwang61/StoryEval.svg?style=social&label=Star)](https://github.com/ypwang61/StoryEval/tree/main)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16211)
@@ -2713,6 +2719,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Open-World Model
+
++ [Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation](https://arxiv.org/abs/2501.06693) (Jan., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06693)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://metadriverse.github.io/vid2sim/)
+
 
 + [GenEx: Generating an Explorable World](https://arxiv.org/abs/2412.09624) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09624)
