@@ -2546,6 +2546,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16862)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamitate.cs.columbia.edu/)
 
+### Acceleration for Video Generation
+
++ [Diffusion Adversarial Post-Training for One-Step Video Generation](https://arxiv.org/abs/2501.08316) (Jan, 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08316)
 
 ### Try On with Video Generation
 
