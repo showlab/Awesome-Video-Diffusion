@@ -1010,11 +1010,17 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07772)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/)
 
-
 + [SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device](https://arxiv.org/pdf/2412.10494) (Dec., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.10494) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/snapgen-v/)
 
++ [Mobile Video Diffusion](https://arxiv.org/abs/2412.06578) (Dec., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07583) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://qualcomm-ai-research.github.io/mobile-video-diffusion/)
+  
++ [MoViE: Mobile Diffusion for Video Editing](https://arxiv.org/abs/2412.06578) (Dec., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06578) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://qualcomm-ai-research.github.io/mobile-video-editing/)
 
 + [Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models](https://arxiv.org/abs/2411.18375) (Nov., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18375) 
