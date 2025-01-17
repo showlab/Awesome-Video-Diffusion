@@ -1339,6 +1339,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Motion Customization
 
++ [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/pdf/2501.08331) (Jan., 2025)  
+  [![Star](https://img.shields.io/github/stars/VGenAI-Netflix-Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Star)](https://github.com/VGenAI-Netflix-Eyeline-Research/Go-with-the-Flow)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.08331)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vgenai-netflix-eyeline-research.github.io/Go-with-the-Flow/)
+
 + [Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss](https://arxiv.org/abs/2501.07563v1) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.07563v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zhangxinyu-xyz.github.io/SimulateMotion.github.io/)
