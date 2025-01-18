@@ -50,10 +50,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Video Understanding](#video-understanding)
 - [Unified Model for Generation and Understanding](#unified-model-for-generation-and-understanding)
 - [Healthcare and Biology](#healthcare-and-biology)
+- [Other Application for Video Gen](#other-application-for-video-gen)
 
 ### Open-source Toolboxes and Foundation Models 
 
-+ [Cosmos](https://videoverses.github.io/videotuna/)  
++ [Cosmos](https://github.com/NVIDIA/Cosmos)  
   [![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03575)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos1/)
@@ -2891,3 +2892,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Neural Cell Video Synthesis via Optical-Flow Diffusion](https://arxiv.org/abs/2212.03250) (Dec., 2022)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.03250)
 
+
+### Other Application for Video Gen
+
++ [VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization](https://arxiv.org/pdf/2501.09499) (Jan., 2025)  
+  [![Star](https://img.shields.io/github/stars/BecauseImBatman0/VanGogh.svg?style=social&label=Star)](https://github.com/BecauseImBatman0/VanGogh) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.09499)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://becauseimbatman0.github.io/VanGogh)
