@@ -1015,7 +1015,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.10494) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/snapgen-v/)
 
-+ [Mobile Video Diffusion](https://arxiv.org/abs/2412.06578) (Dec., 2024)   
++ [Mobile Video Diffusion](https://arxiv.org/abs/2412.07583) (Dec., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07583) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://qualcomm-ai-research.github.io/mobile-video-diffusion/)
   
