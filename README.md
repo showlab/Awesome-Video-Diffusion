@@ -2752,6 +2752,14 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](http://124.156.151.207)
 
 ### Rendering with Virtual Engine
+
++ [UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI](https://arxiv.org/abs/2412.20977) (Jan., 2025)  
+  [![Star](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym.svg?style=social&label=Star)](https://github.com/UnrealZoo/unrealzoo-gym) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.20977)
+  [![Website](https://img.shields.io/badge/Website-9cf)](http://unrealzoo.site/)
+
+
+
 + [Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation](https://arxiv.org/abs/2406.11824) (CVPR 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11824)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://infinigen.org/)
