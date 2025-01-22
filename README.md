@@ -1697,6 +1697,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation with Physical Prior / 3D
 
++ [Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928) (Jan, 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.10928)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)
+  [![Star](https://img.shields.io/github/stars/BestJunYu/Awesome-Physics-aware-Generation.svg?style=social&label=Star)](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)
+
+
 + [Do generative video models learn physical principles from watching videos?](https://arxiv.org/pdf/2501.09038) (Jan, 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.09038)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physics-iq.github.io/)
