@@ -72,7 +72,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/VideoVerses/VideoTuna.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoTuna)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://videoverses.github.io/videotuna/)
 
-+ [Allegro](https://www.genmo.ai/blog)  
++ [Allegro](https://rhymes.ai/blog-details/allegro-advanced-video-generation-model)  
   [![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star)](https://github.com/rhymes-ai/Allegro)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.15458)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://rhymes.ai/blog-details/allegro-advanced-video-generation-model)
