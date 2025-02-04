@@ -1519,6 +1519,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   
 ### Long Video / Film Generation
 
+
++ [VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos](https://arxiv.org/abs/2502.01549) (Feb., 2025)  
+  [![Star](https://img.shields.io/github/stars/HKUDS/VideoRAG.svg?style=social&label=Star)](https://github.com/HKUDS/VideoRAG)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01549)
+
+  
 + [Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion](https://arxiv.org/pdf/2501.09019) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.09019)
 
@@ -2158,6 +2164,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Human or Subject Motion 
+
++ [OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models](https://arxiv.org/abs/2502.01061) (Feb., 2025) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01061) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://omnihuman-lab.github.io/)
 
 + [AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation](https://arxiv.org/pdf/2411.17383) (Nov., 2024)   
   [![Star](https://img.shields.io/github/stars/cangcz/AnchorCrafter.svg?style=social)](https://github.com/cangcz/AnchorCrafter) 
@@ -2949,6 +2959,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Other Application for Video Gen
+
++ [VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control](https://arxiv.org/pdf/2502.01101) (Feb., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.01101)
+
 
 + [VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization](https://arxiv.org/pdf/2501.09499) (Jan., 2025)  
   [![Star](https://img.shields.io/github/stars/BecauseImBatman0/VanGogh.svg?style=social&label=Star)](https://github.com/BecauseImBatman0/VanGogh) 
