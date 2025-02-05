@@ -2165,6 +2165,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Human or Subject Motion 
 
++ [VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models](https://hila-chefer.github.io/videojam-paper.github.io/VideoJAM_arxiv.pdf) (Feb., 2025) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://hila-chefer.github.io/videojam-paper.github.io/VideoJAM_arxiv.pdf) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hila-chefer.github.io/videojam-paper.github.io/)
+
+
 + [OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models](https://arxiv.org/abs/2502.01061) (Feb., 2025) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01061) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://omnihuman-lab.github.io/)
