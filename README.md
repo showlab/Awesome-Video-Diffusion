@@ -1036,6 +1036,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation](https://arxiv.org/abs/2502.04299) (Feb., 2025)       
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04299)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://motion-canvas25.github.io/) 
 
 + [MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation](https://arxiv.org/pdf/2502.04299) (Feb., 2025)       
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.04299)
