@@ -2338,6 +2338,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Audio Synthesis for Video
 
++ [UniForm: A Unified Diffusion Transformer for Audio-Video Generation](https://arxiv.org/abs/2502.03897) (Feb., 2025) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.03897)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://uniform-t2av.github.io/) 
+
 + [AGAV-Rater: Enhancing LMM for AI-Generated Audio-Visual Quality Assessment](https://arxiv.org/abs/2501.18314) (Jan., 2025) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.18314)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://agav-rater.github.io/) 
