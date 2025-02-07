@@ -1036,6 +1036,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [DynVFX: Augmenting Real Videos with Dynamic Content](https://arxiv.org/pdf/2502.03621) (Feb., 2025)       
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](2502.03621) 
+
+
 + [MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent](https://arxiv.org/pdf/2502.03207) (Feb., 2025)       
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.03207) 
 
