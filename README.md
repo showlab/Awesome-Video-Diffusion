@@ -2661,6 +2661,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Acceleration for Video Generation
 
++ [FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation](https://arxiv.org/abs/2502.05179) (Feb., 2025)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.05179)
+  [![Star](https://img.shields.io/github/stars/FoundationVision/FlashVideo.svg?style=social&label=Star)](https://github.com/FoundationVision/FlashVideo)
+
 + [Fast Video Generation with Sliding Tile Attention](https://arxiv.org/abs/2502.04507) (Feb, 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04507)
 
