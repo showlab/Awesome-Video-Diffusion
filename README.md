@@ -233,6 +233,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT](https://arxiv.org/abs/2502.06782) (Feb., 2025)
++ [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-Video.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-Video)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06782)
+
+
 + [RepVideo: Rethinking Cross-Layer Representation for Video Generation](https://arxiv.org/pdf/2501.08994) (Jan., 2025)
 + [![Star](https://img.shields.io/github/stars/Vchitect/RepVideo.svg?style=social&label=Star)](https://github.com/Vchitect/RepVideo)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.08994)
@@ -1341,6 +1346,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/motionclone.github.io/)
 
 ### Character Customization
+
++ [Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance](https://arxiv.org/pdf/2502.06145) (Feb., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.06145)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/animate-anyone-2/)
+
 
 + [Multi-subject Open-set Personalization in Video Generation](https://arxiv.org/abs/2501.06187) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06187)
@@ -3004,6 +3014,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Other Application for Video Gen
+
++ [History-Guided Video Diffusion](https://arxiv.org/abs/2502.06764) (Feb., 2025)  
+  [![Star](https://img.shields.io/github/stars/kwsong0113/diffusion-forcing-transformer.svg?style=social&label=Star)](https://github.com/kwsong0113/diffusion-forcing-transformer) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06764)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://boyuan.space/history-guidance/)
 
 + [VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control](https://arxiv.org/pdf/2502.01101) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.01101)
