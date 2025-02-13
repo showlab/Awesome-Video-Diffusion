@@ -233,6 +233,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [Magic 1-For-1: Generating One Minute Video Clips within One Minute](https://arxiv.org/abs/2502.07701) (Feb., 2025)
++ [![Star](https://img.shields.io/github/stars/DA-Group-PKU/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/DA-Group-PKU/Magic-1-For-1)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07701)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-141.github.io/Magic-141/)
+
+
 + [Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT](https://arxiv.org/abs/2502.06782) (Feb., 2025)
 + [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-Video.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-Video)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06782)
@@ -1041,6 +1047,22 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation](https://arxiv.org/pdf/2502.07531) (Feb., 2025)       
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.07531)
+
+
++ [FloVD: Optical Flow Meets Video Diffusion Model for Camera-Controlled Video Synthesis](https://jinwonjoon.github.io/flovd_site/FloVD_files/main.pdf) (Feb., 2025)       
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://jinwonjoon.github.io/flovd_site/FloVD_files/main.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jinwonjoon.github.io/flovd_site/)
+  [![Star](https://img.shields.io/github/stars/JinWonjoon/FloVD/.svg?style=social&label=Star)](https://github.com/JinWonjoon/FloVD/)
+
+
++ [Light-A-Video: Training-free Video Relighting via Progressive Light Fusion](https://arxiv.org/abs/2502.08590) (Feb., 2025)       
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08590)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/light-a-video.github.io/)
+  [![Star](https://img.shields.io/github/stars/bcmi/Light-A-Video/.svg?style=social&label=Star)](https://github.com/bcmi/Light-A-Video/)
+
+
 + [MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation](https://arxiv.org/abs/2502.04299) (Feb., 2025)       
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04299)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://motion-canvas25.github.io/) 
@@ -1346,6 +1368,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/motionclone.github.io/)
 
 ### Character Customization
+
++ [Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts](https://arxiv.org/abs/2502.07802) (Feb., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07802)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jeff-liangf.github.io/projects/movieweaver/)
+
 
 + [Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance](https://arxiv.org/pdf/2502.06145) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.06145)
@@ -2874,6 +2901,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 ### Open-World Model
+
++ [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (Feb., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07825)
+
 
 + [VideoWorld: Exploring Knowledge Learning from Unlabeled Videos](https://arxiv.org/abs/2501.09781) (Jan., 2025)  
   [![Star](https://img.shields.io/github/stars/bytedance/VideoWorld.svg?style=social&label=Star)](https://github.com/bytedance/VideoWorld) 
