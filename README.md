@@ -1047,6 +1047,17 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance](https://arxiv.org/abs/2502.08189) (Feb., 2025)       
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08189)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://anycharv.github.io/)
+  [![Star](https://img.shields.io/github/stars/AnyCharV/AnyCharV/.svg?style=social&label=Star)](https://github.com/AnyCharV/AnyCharV)
+
+
++ [A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) (Feb., 2025)       
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08639)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/)
+
+
 + [VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation](https://arxiv.org/pdf/2502.07531) (Feb., 2025)       
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.07531)
 
@@ -2842,9 +2853,16 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### 4D
 
++ [Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features](https://arxiv.org/abs/2502.08377) (Feb., 2025)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08377)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://paintscene4d.github.io/)
+  [![Star](https://img.shields.io/github/stars/paintscene4d/paintscene4d.github.io.svg?style=social&label=Star)](https://github.com/paintscene4d/paintscene4d.github.io)
+
+
+
+
 + [DreamDrive: Generative 4D Scene Modeling from Street View Images](https://arxiv.org/pdf/2501.00601) (Jan., 2025)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.00601)
-
 
 
 + [Stereo4D Learning How Things Move in 3D from Internet Stereo Videos](https://arxiv.org/pdf/2412.09621) (Dec., 2024)   
