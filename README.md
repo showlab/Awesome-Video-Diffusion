@@ -25,32 +25,29 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
 - [Commercial Product](#commercial-product)
 - [Video Generation](#video-generation)
-- [Efficiency for Video Generation](#efficiency-for-video-generation)
+- [Efficient Video Generation](#efficient-video-generation)
 - [Controllable Video Generation](#controllable-video-generation)
 - [Character Customization](#character-customization)
 - [Motion Customization](#motion-customization)
 - [Long Video / Film Generation](#long-video--film-generation)
-- [Video Generation with Physical Prior / 3D](#video-generation-with-physical-prior--3d)
+- [Video Generation with 3D/Physical Prior](#video-generation-with-3dphysical-prior)
 - [Video Editing](#video-editing)
-- [Long-form Video Generation and Completion](#long-form-video-generation-and-completion)
 - [Human or Subject Motion](#human-or-subject-motion)
-- [AI Safety for Video Generation](#AI-Safety-for-Video-Generation)
 - [Video Enhancement and Restoration](#video-enhancement-and-restoration)
 - [Audio Synthesis for Video](#audio-synthesis-for-video)
 - [Talking Head Generation](#talking-head-generation)
 - [Human/AI Feedback for Video Generation](#human/ai-feedback-for-video-generation)
-- [Policy Learning with Video Generation](#policy-learning-with-video-generation)
-- [Acceleration for Video Generation](#acceleration-for-video-generation)
-- [Try On with Video Generation](#try-on-with-video-generation)
-- [3D / NeRF](#3d--nerf)
+- [Policy Learning](#policy-learning)
+- [Virtual Try-On](#virtual-try-on)
+- [3D](#3d)
 - [4D](#4d)
-- [Game Generation](#Game-Generation)
-- [Rendering with Virtual Engine](#Rendering-with-Virtual-Engine)
+- [Game Generation](#game-generation)
+- [AI Safety](#ai-safety)
+- [Rendering with Virtual Engine](#rendering-with-virtual-engine)
 - [Open-World Model](#open-world-model)
 - [Video Understanding](#video-understanding)
-- [Unified Model for Generation and Understanding](#unified-model-for-generation-and-understanding)
 - [Healthcare and Biology](#healthcare-and-biology)
-- [Other Application for Video Gen](#other-application-for-video-gen)
+- [Other Applications](#other-applications)
 
 ### Open-source Toolboxes and Foundation Models 
 
@@ -58,30 +55,24 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan2.1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wanxai.com/)
 
-
 + [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)  
   [![Star](https://img.shields.io/github/stars/modelscope/DiffSynth-Studio.svg?style=social&label=Star)](https://github.com/modelscope/DiffSynth-Studio)
-
 
 + [Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model](https://arxiv.org/abs/2502.10248)  
   [![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Video-T2V.svg?style=social&label=Star)](https://github.com/stepfun-ai/Step-Video-T2V)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10248)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yuewen.cn/videos)
 
-
 + [Cosmos](https://github.com/NVIDIA/Cosmos)  
   [![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03575)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos1/)
 
-
 + [LTX-Video](https://github.com/Lightricks/LTX-Video)  
   [![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star)](https://github.com/Lightricks/LTX-Video)
 
-
 + [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603)  
   [![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star)](https://github.com/Tencent/HunyuanVideo)
-
 
 + [VideoTuna](https://videoverses.github.io/videotuna/)  
   [![Star](https://img.shields.io/github/stars/VideoVerses/VideoTuna.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoTuna)
@@ -152,7 +143,6 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://geometric-rl.mpi-inf.mpg.de/met3r/static/assets/met3r.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://geometric-rl.mpi-inf.mpg.de/met3r/)
 
-
 + [Is Your World Simulator a Good Story Presenter? A Consecutive Events-Based Benchmark for Future Long Video Generation](https://arxiv.org/abs/2412.16211) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/ypwang61/StoryEval.svg?style=social&label=Star)](https://github.com/ypwang61/StoryEval/tree/main)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16211)
@@ -162,7 +152,6 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/Vchitect/Evaluation-Agent.svg?style=social&label=Star)](https://github.com/Vchitect/Evaluation-Agent)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09645)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/Evaluation-Agent-project/)
-
 
 + [Frechet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos](https://arxiv.org/pdf/2407.16124) (Jun., 2024)  
   [![Star](https://img.shields.io/github/stars/DSL-Lab/FVMD-frechet-video-motion-distance.svg?style=social&label=Star)](https://github.com/DSL-Lab/FVMD-frechet-video-motion-distance)
@@ -224,7 +213,6 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/snap-research/Panda-70M) 
   [![Dataset](https://img.shields.io/badge/Dataset-e97451)](https://snap-research.github.io/Panda-70M/) 
 
-
 + [ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects](https://openaccess.thecvf.com/content/CVPR2023/html/Toschi_ReLight_My_NeRF_A_Dataset_for_Novel_View_Synthesis_and_CVPR_2023_paper.html) (CVPR, 2023)      
   [![Star](https://img.shields.io/github/stars/eyecan-ai/rene.svg?style=social&label=Star)](https://github.com/eyecan-ai/rene)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Toschi_ReLight_My_NeRF_A_Dataset_for_Novel_View_Synthesis_and_CVPR_2023_paper.html)
@@ -232,98 +220,84 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Commercial Product
 
-+ [Kling](https://klingai.com/?gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjMtrwX5RsW6xQvRSSg05fn1bA8wo9-AJiAKTIr-IkZnewbLXpCM44RoCkrsQAvD_BwE)  
-  [KuaiShou Company](https://www.kuaishou.com/en)
++ [Kling](https://klingai.com/?gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjMtrwX5RsW6xQvRSSg05fn1bA8wo9-AJiAKTIr-IkZnewbLXpCM44RoCkrsQAvD_BwE) ([KuaiShou](https://www.kuaishou.com/en))  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://klingai.com/?gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjMtrwX5RsW6xQvRSSg05fn1bA8wo9-AJiAKTIr-IkZnewbLXpCM44RoCkrsQAvD_BwE)
 
-
-+ [Gen 3](https://app.runwayml.com/login)  
-  [Runway Company](https://runwayml.com/)
++ [Gen 3](https://app.runwayml.com/login) ([Runway](https://runwayml.com/))  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://app.runwayml.com/login)
 
-+ [Dream Machine](https://lumalabs.ai/dream-machine)  
-  [Luma Company](https://lumalabs.ai/dream-machine)
++ [Dream Machine](https://lumalabs.ai/dream-machine) ([Luma AI](https://lumalabs.ai/dream-machine))  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/dream-machine)
 
++ [Sora](https://sora.com/) ([Open AI](https://openai.com/))  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sora.com/)
 
 ### Video Generation
 
-+ [RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers](https://arxiv.org/abs/2502.15894) (Feb., 2025)
-+ [![Star](https://img.shields.io/github/stars/thu-ml/RIFLEx.svg?style=social&label=Star)](https://github.com/thu-ml/RIFLEx)
++ [RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers](https://arxiv.org/abs/2502.15894) (Feb., 2025)  
+  [![Star](https://img.shields.io/github/stars/thu-ml/RIFLEx.svg?style=social&label=Star)](https://github.com/thu-ml/RIFLEx)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.15894)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://riflex-video.github.io/)
 
-
-+ [DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation](https://arxiv.org/abs/2502.11897) (Feb., 2025)
++ [DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation](https://arxiv.org/abs/2502.11897) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11897)
 
-
-+ [Magic 1-For-1: Generating One Minute Video Clips within One Minute](https://arxiv.org/abs/2502.07701) (Feb., 2025)
-+ [![Star](https://img.shields.io/github/stars/DA-Group-PKU/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/DA-Group-PKU/Magic-1-For-1)
++ [Magic 1-For-1: Generating One Minute Video Clips within One Minute](https://arxiv.org/abs/2502.07701) (Feb., 2025)  
+  [![Star](https://img.shields.io/github/stars/DA-Group-PKU/Magic-1-For-1.svg?style=social&label=Star)](https://github.com/DA-Group-PKU/Magic-1-For-1)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07701)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-141.github.io/Magic-141/)
 
-
-+ [Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT](https://arxiv.org/abs/2502.06782) (Feb., 2025)
-+ [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-Video.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-Video)
++ [Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT](https://arxiv.org/abs/2502.06782) (Feb., 2025)  
+  [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-Video.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-Video)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06782)
 
-
-+ [RepVideo: Rethinking Cross-Layer Representation for Video Generation](https://arxiv.org/pdf/2501.08994) (Jan., 2025)
-+ [![Star](https://img.shields.io/github/stars/Vchitect/RepVideo.svg?style=social&label=Star)](https://github.com/Vchitect/RepVideo)
++ [RepVideo: Rethinking Cross-Layer Representation for Video Generation](https://arxiv.org/pdf/2501.08994) (Jan., 2025)  
+  [![Star](https://img.shields.io/github/stars/Vchitect/RepVideo.svg?style=social&label=Star)](https://github.com/Vchitect/RepVideo)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.08994)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/RepVid-Webpage/)
 
-+ [Large Motion Video Autoencoding with Cross-modal Video VAE](https://arxiv.org/abs/2412.17805) (Dec., 2024)
++ [Large Motion Video Autoencoding with Cross-modal Video VAE](https://arxiv.org/abs/2412.17805) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17805)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/VideoVerses/VideoVAEPlus)
 
-
-+ [MotiF: Making Text Count in Image Animation with Motion Focal Loss](https://arxiv.org/abs/2412.16153) (Dec., 2024)
++ [MotiF: Making Text Count in Image Animation with Motion Focal Loss](https://arxiv.org/abs/2412.16153) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16153)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wang-sj16.github.io/motif/#BibTeX)
 
-
-+ [VideoDPO: Omni-Preference Alignment for Video Diffusion Generation](https://arxiv.org/pdf/2412.14167) (Dec., 2024)
++ [VideoDPO: Omni-Preference Alignment for Video Diffusion Generation](https://arxiv.org/pdf/2412.14167) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.14167)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://videodpo.github.io/)
 
-+ [Autoregressive Video Generation without Vector Quantization](https://arxiv.org/abs/2412.14169) (Dec., 2024)
-+ [![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/baaivision/NOVA)
++ [Autoregressive Video Generation without Vector Quantization](https://arxiv.org/abs/2412.14169) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/baaivision/NOVA)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14169)
 
-
-+ [AniDoc: Animation Creation Made Easier](https://arxiv.org/pdf/2412.14173) (Dec., 2024)
-+ [![Star](https://img.shields.io/github/stars/yihao-meng/AniDoc.svg?style=social&label=Star)](https://github.com/yihao-meng/AniDoc)
++ [AniDoc: Animation Creation Made Easier](https://arxiv.org/pdf/2412.14173) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/yihao-meng/AniDoc.svg?style=social&label=Star)](https://github.com/yihao-meng/AniDoc)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.14173)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yihao-meng.github.io/AniDoc_demo/)
 
-
-+ [Video Diffusion Transformers are In-Context Learners](https://arxiv.org/abs/2412.10783) (Dec., 2024)
-+ [![Star](https://img.shields.io/github/stars/feizc/Video-In-Context.svg?style=social&label=Star)](https://github.com/feizc/Video-In-Context)
++ [Video Diffusion Transformers are In-Context Learners](https://arxiv.org/abs/2412.10783) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/feizc/Video-In-Context.svg?style=social&label=Star)](https://github.com/feizc/Video-In-Context)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10783)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/feizhengcong/Video-In-Context)
 
-+ [Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation](https://arxiv.org/abs/2412.06016) (Dec., 2024)
++ [Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation](https://arxiv.org/abs/2412.06016) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06016)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hyeonho99.github.io/track4gen/)
 
-
-+ [Instructional Video Generation](https://arxiv.org/abs/2412.04189) (Dec., 2024)
++ [Instructional Video Generation](https://arxiv.org/abs/2412.04189) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04189)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://excitedbutter.github.io/Instructional-Video-Generation/)
 
-
-+ [Mimir: Improving Video Diffusion Models for Precise Text Understanding](https://arxiv.org/abs/2412.03085) (Dec., 2024)
++ [Mimir: Improving Video Diffusion Models for Precise Text Understanding](https://arxiv.org/abs/2412.03085) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03085)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://lucaria-academy.github.io/Mimir/)
 
-
-+ [Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling](https://arxiv.org/abs/2411.18664) (Dec., 2024)
-+ [![Star](https://img.shields.io/github/stars/junhahyung/STGuidance.svg?style=social&label=Star)](https://github.com/junhahyung/STGuidance)
++ [Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling](https://arxiv.org/abs/2411.18664) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/junhahyung/STGuidance.svg?style=social&label=Star)](https://github.com/junhahyung/STGuidance)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18664)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://junhahyung.github.io/STGuidance)
-
 
 + [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) (Nov., 2024)      
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)
@@ -331,24 +305,18 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/ConsisID/) 
   [![Dataset](https://img.shields.io/badge/Dataset-e97451)](https://huggingface.co/datasets/BestWishYsh/ConsisID-preview-Data)
 
-  
-
-
-
-+ [WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model](https://arxiv.org/abs/2411.17459) (Nov., 2024)
-+ [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/WF-VAE.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/WF-VAE)
++ [WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model](https://arxiv.org/abs/2411.17459) (Nov., 2024)  
+  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/WF-VAE.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/WF-VAE)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17459)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://video-repair.github.io/)
 
-
-+ [VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement](https://arxiv.org/pdf/2411.15115) (Nov., 2024)
-+ [![Star](https://img.shields.io/github/stars/daeunni/VideoRepair.svg?style=social&label=Star)](https://github.com/daeunni/VideoRepair)
++ [VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement](https://arxiv.org/pdf/2411.15115) (Nov., 2024)  
+  [![Star](https://img.shields.io/github/stars/daeunni/VideoRepair.svg?style=social&label=Star)](https://github.com/daeunni/VideoRepair)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.15115)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://video-repair.github.io/)
 
-
-+ [Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning](https://arxiv.org/abs/2410.24219) (Oct., 2024 | NeurIPS 2024)
-+ [![Star](https://img.shields.io/github/stars/PR-Ryan/DEMO.svg?style=social&label=Star)](https://github.com/PR-Ryan/DEMO)
++ [Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning](https://arxiv.org/abs/2410.24219) (Oct., 2024 | NeurIPS 2024)  
+  [![Star](https://img.shields.io/github/stars/PR-Ryan/DEMO.svg?style=social&label=Star)](https://github.com/PR-Ryan/DEMO)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.24219)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pr-ryan.github.io/DEMO-project/)
 
@@ -356,9 +324,13 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06449)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wpy1999.github.io/IV-VAE/)
 
-
 + [VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10076)
+
++ [T2V-Turbo-v2: Enhancing Video Generation Model Post-Training Through Data, Reward, and Conditional Guidance Design](https://arxiv.org/pdf/2410.05677) (Oct, 2024)      
+  [![Star](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Star)](https://github.com/Ji4chenLi/t2v-turbo)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.05677)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo-v2.github.io/)
 
 + [Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151) (Oct., 2024)      
   [![Star](https://img.shields.io/github/stars/desaixie/pa_vdm.svg?style=social&label=Star)](https://github.com/desaixie/pa_vdm)
@@ -373,7 +345,6 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/SalesforceAIResearch/xgen-videosyn.svg?style=social&label=Star)](https://github.com/SalesforceAIResearch/xgen-videosyn)
   [![paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.12590)
 
-
 + [CogVideoX: Text-to-video generation](https://github.com/THUDM/CogVideo/blob/main/resources/CogVideoX.pdf) (Aug., 2024)      
   [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)](https://github.com/THUDM/CogVideo)
   [![paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://github.com/THUDM/CogVideo/blob/main/resources/CogVideoX.pdf)
@@ -381,7 +352,6 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention](https://arxiv.org/abs/2407.19918) (Aug., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.19918)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yulu.net.cn/freelong/)
-  
   
 + [VEnhancer: Generative Space-Time Enhancement for Video Generation](https://arxiv.org/abs/2407.07667) (Jul., 2024)      
   [![Star](https://img.shields.io/github/stars/Vchitect/VEnhancer.svg?style=social&label=Star)](https://github.com/Vchitect/VEnhancer)
@@ -430,11 +400,6 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback](https://arxiv.org/abs/2405.18750) (May, 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18750)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/)
-
-+ [T2V-Turbo-v2: Enhancing Video Generation Model Post-Training Through Data, Reward, and Conditional Guidance Design](https://arxiv.org/pdf/2410.05677) (Oct, 2024)      
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.05677)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo-v2.github.io/)      
-  [![Star](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Star)](https://github.com/Ji4chenLi/t2v-turbo)
 
 + [Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control](https://arxiv.org/abs/2405.17414) (May, 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17414)
@@ -744,7 +709,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.13073)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ai-forever.github.io/kandinsky-video/)
 
-+ [Fine-Grained Open Domain Image Animation with Motion Guidance](https://arxiv.org/abs/2311.12886) (Nov., 2023)
++ [Fine-Grained Open Domain Image Animation with Motion Guidance](https://arxiv.org/abs/2311.12886) (Nov., 2023)  
   [![Star](https://img.shields.io/github/stars/alibaba/animate-anything.svg?style=social&label=Star)](https://github.com/alibaba/animate-anything)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12886)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://animationai.github.io/AnimateAnything/)
@@ -813,7 +778,6 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)](https://github.com/Vchitect/LaVie)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15103)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/LaVie-project/) 
-
 
 + [Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator](https://arxiv.org/abs/2309.14494) (Sep., 2023)  
   [![Star](https://img.shields.io/github/stars/SooLab/Free-Bloom.svg?style=social&label=Star)](https://github.com/SooLab/Free-Bloom)
@@ -1041,9 +1005,22 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/buggyyang/RVD.svg?style=social&label=Star)](https://github.com/buggyyang/RVD) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09481)
 
-### Efficiency for Video Generation
+### Efficient Video Generation
 
-+ [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/pdf/2412.07772) (Dec., 2024)
++ [FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation](https://arxiv.org/abs/2502.05179) (Feb., 2025)   
+  [![Star](https://img.shields.io/github/stars/FoundationVision/FlashVideo.svg?style=social&label=Star)](https://github.com/FoundationVision/FlashVideo)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.05179)
+
++ [Fast Video Generation with Sliding Tile Attention](https://arxiv.org/abs/2502.04507) (Feb, 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04507)
+
++ [Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity](https://arxiv.org/abs/2502.01776) (Feb, 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01776)
+
++ [Diffusion Adversarial Post-Training for One-Step Video Generation](https://arxiv.org/abs/2501.08316) (Jan, 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08316)
+
++ [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/pdf/2412.07772) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07772)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/)
 
@@ -1079,38 +1056,31 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08639)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/)
 
-
 + [RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control](https://arxiv.org/abs/2502.10059) (Feb., 2025)       
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10059)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zgctroy.github.io/RealCam-I2V/)
 
-
-+ [AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance](https://arxiv.org/abs/2502.08189) (Feb., 2025)       
++ [AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance](https://arxiv.org/abs/2502.08189) (Feb., 2025)   
+  [![Star](https://img.shields.io/github/stars/AnyCharV/AnyCharV.svg?style=social&label=Star)](https://github.com/AnyCharV/AnyCharV)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08189)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://anycharv.github.io/)
-  [![Star](https://img.shields.io/github/stars/AnyCharV/AnyCharV/.svg?style=social&label=Star)](https://github.com/AnyCharV/AnyCharV)
-
 
 + [A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) (Feb., 2025)       
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08639)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/)
 
-
 + [VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation](https://arxiv.org/pdf/2502.07531) (Feb., 2025)       
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.07531)
 
-
 + [FloVD: Optical Flow Meets Video Diffusion Model for Camera-Controlled Video Synthesis](https://jinwonjoon.github.io/flovd_site/FloVD_files/main.pdf) (Feb., 2025)       
+  [![Star](https://img.shields.io/github/stars/JinWonjoon/FloVD.svg?style=social&label=Star)](https://github.com/JinWonjoon/FloVD/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://jinwonjoon.github.io/flovd_site/FloVD_files/main.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jinwonjoon.github.io/flovd_site/)
-  [![Star](https://img.shields.io/github/stars/JinWonjoon/FloVD/.svg?style=social&label=Star)](https://github.com/JinWonjoon/FloVD/)
-
 
 + [Light-A-Video: Training-free Video Relighting via Progressive Light Fusion](https://arxiv.org/abs/2502.08590) (Feb., 2025)       
+  [![Star](https://img.shields.io/github/stars/bcmi/Light-A-Video.svg?style=social&label=Star)](https://github.com/bcmi/Light-A-Video/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08590)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/light-a-video.github.io/)
-  [![Star](https://img.shields.io/github/stars/bcmi/Light-A-Video/.svg?style=social&label=Star)](https://github.com/bcmi/Light-A-Video/)
-
 
 + [MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation](https://arxiv.org/abs/2502.04299) (Feb., 2025)       
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04299)
@@ -1122,10 +1092,8 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [DynVFX: Augmenting Real Videos with Dynamic Content](https://arxiv.org/pdf/2502.03621) (Feb., 2025)       
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.03621) 
 
-
 + [MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent](https://arxiv.org/pdf/2502.03207) (Feb., 2025)       
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.03207) 
-
 
 + [RelightVid: Temporal-Consistent Diffusion Model for Video Relighting](https://arxiv.org/abs/2501.16330) (Feb., 2025)       
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.16330) 
@@ -1135,21 +1103,17 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chen-yingjie.github.io/projects/Perception-as-Control/)
   [![Star](https://img.shields.io/github/stars/chen-yingjie/Perception-as-Control.svg?style=social&label=Star)](https://github.com/chen-yingjie/Perception-as-Control)   
 
-
 + [BlobGEN-Vid: Compositional Text-to-Video Generation with Blob Video Representations](https://arxiv.org/abs/2501.07647) (Jan., 2025)   
-  [![Star](https://img.shields.io/github/stars/Tian-one/FCVG.svg?style=social&label=Star)](https://github.com/Tian-one/FCVG)   
+  [![Star](https://img.shields.io/github/stars/Tian-one/FCVG.svg?style=social&label=Star)](https://github.com/Tian-one/FCVG)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.07647)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://blobgen-vid2.github.io/)
 
-
-+ [On Unifying Video Generation and Camera Pose Estimation](https://arxiv.org/abs/2501.01409) (Jan., 2025)
++ [On Unifying Video Generation and Camera Pose Estimation](https://arxiv.org/abs/2501.01409) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01409)
 
-
-+ [VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control](https://arxiv.org/pdf/2501.01427) (Jan., 2025)
++ [VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control](https://arxiv.org/pdf/2501.01427) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.01427)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://videoanydoor.github.io/)
-
 
 + [DirectorLLM for Human-Centric Video Generation](https://arxiv.org/pdf/2412.14484) (Dec., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.14484)
@@ -1157,7 +1121,6 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Consistent Human Image and Video Generation with Spatially Conditioned Diffusion](https://arxiv.org/abs/2412.14531) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/ljzycmd/SCD.svg?style=social&label=Star)](https://github.com/ljzycmd/SCD)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14531)
-
 
 + [Generative Inbetweening through Frame-wise Conditions-Driven Video Generation](https://arxiv.org/abs/2412.11755) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/Tian-one/FCVG.svg?style=social&label=Star)](https://github.com/Tian-one/FCVG)
@@ -1168,11 +1131,9 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://interdyn.is.tue.mpg.de/media/upload/interdyn_video.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://interdyn.is.tue.mpg.de/)
 
-
 + [OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation](https://arxiv.org/pdf/2412.09623) (Dec., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.09623)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://lwq20020127.github.io/OmniDrag/)
-
 
 + [SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints](https://arxiv.org/abs/2412.07760) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/KwaiVGI/SynCamMaster.svg?style=social&label=Star)](https://github.com/KwaiVGI/SynCamMaster)
@@ -1184,17 +1145,14 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://drive.google.com/file/d/111Z5CMJZupkmg-xWpV4Tl4Nb7SRFcoWx/view)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wzhouxiff.github.io/projects/ObjCtrl-2.5D/) 
 
-
 + [ObjCtrl-2.5D: Training-free Object Control with Camera Poses](https://arxiv.org/pdf/2412.07721) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/wzhouxiff/ObjCtrl-2.5D.svg?style=social&label=Star)](https://github.com/wzhouxiff/ObjCtrl-2.5D)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07721)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wzhouxiff.github.io/projects/ObjCtrl-2.5D/) 
 
-
 + [Motion Prompting: Controlling Video Generation with Motion Trajectories](https://arxiv.org/abs/2412.02700) (Nov., 2024)     
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02700)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://motion-prompting.github.io/) 
-
 
 + [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) (Nov., 2024)      
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)
@@ -1202,64 +1160,50 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/ConsisID/) 
   [![Dataset](https://img.shields.io/badge/Dataset-e97451)](https://huggingface.co/datasets/BestWishYsh/ConsisID-preview-Data) 
 
-
 + [FlipSketch: Flipping assets Drawings to Text-Guided Sketch Animations](https://arxiv.org/pdf/2411.10818) (Nov., 2024)      
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.10818)
   [![Star](https://img.shields.io/github/stars/hmrishavbandy/FlipSketch.svg?style=social&label=Star)](https://github.com/hmrishavbandy/FlipSketch)
-
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.10818)
 
 + [AnimateAnything: Consistent and Controllable Animation for video generation](https://arxiv.org/pdf/2411.10836) (Nov., 2024)      
+  [![Star](https://img.shields.io/github/stars/yu-shaonian/AnimateAnything.svg?style=social&label=Star)](https://github.com/yu-shaonian/AnimateAnything)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.10836)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yu-shaonian.github.io/Animate_Anything/)
-  [![Star](https://img.shields.io/github/stars/yu-shaonian/AnimateAnything.svg?style=social&label=Star)](https://github.com/yu-shaonian/AnimateAnything)
-
 
 + [MVideo: Motion Control for Enhanced Complex Action Video Generation](https://arxiv.org/pdf/2411.08328) (Nov., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.08328)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mvideo-v1.github.io/)
 
-
 + [ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning](https://arxiv.org/abs/2411.05003) (Nov., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.05003)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://generative-video-camera-controls.github.io/)
-
 
 + [SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation](https://arxiv.org/pdf/2411.04989) (Nov., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.04989)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://kmcode1.github.io/Projects/SG-I2V/)
   [![Star](https://img.shields.io/github/stars/Kmcode1/SG-I2V.svg?style=social&label=Star)](https://github.com/Kmcode1/SG-I2V)
 
-
 + [X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention](https://arxiv.org/abs/2403.15931) (Nov., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.15931)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://byteaigc.github.io/x-portrait/)
   [![Star](https://img.shields.io/github/stars/bytedance/X-Portrait.svg?style=social&label=Star)](https://github.com/bytedance/X-Portrait)
 
-
 + [LumiSculpt: A Consistency Lighting Control Network for Video Generation](https://arxiv.org/pdf/2410.22979) (Nov., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.22979)
 
-
-
-
-
-+ [FRAMER: INTERACTIVE FRAME INTERPOLATION](https://arxiv.org/pdf/2410.18978) (Oct., 2024)      
++ [FRAMER: INTERACTIVE FRAME INTERPOLATION](https://arxiv.org/pdf/2410.18978) (Oct., 2024)   
+  [![Star](https://img.shields.io/github/stars/aim-uofa/Framer.svg?style=social&label=Star)](https://github.com/aim-uofa/Framer)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.18978)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://aim-uofa.github.io/Framer/)
-  [![Star](https://img.shields.io/github/stars/aim-uofa/Framer.svg?style=social&label=Star)](https://github.com/aim-uofa/Framer)
 
-
-+ [CamI2V: Camera-Controlled Image-to-Video Diffusion Model](https://arxiv.org/pdf/2410.15957) (Oct., 2024)      
++ [CamI2V: Camera-Controlled Image-to-Video Diffusion Model](https://arxiv.org/pdf/2410.15957) (Oct., 2024)  
+  [![Star](https://img.shields.io/github/stars/ZGCTroy/CamI2V.svg?style=social&label=Star)](https://github.com/ZGCTroy/CamI2V)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.15957)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zgctroy.github.io/CamI2V/)
-  [![Star](https://img.shields.io/github/stars/ZGCTroy/CamI2V.svg?style=social&label=Star)](https://github.com/ZGCTroy/CamI2V)
-
 
 + [Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention](https://arxiv.org/abs/2410.10774) (Oct., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10774)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ir1d.github.io/Cavia/)
   
-
 + [Animate Your Motion: Turning Still Images into Dynamic Videos](https://arxiv.org/abs/2403.10179)(Mar., 2023|ECCV 2024)    
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.10179)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mingxiao-li.github.io/smcd/)
@@ -1268,17 +1212,13 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13005)
 
 + [ControlNeXt: Powerful and Efficient Control for Image and Video Generation](https://arxiv.org/pdf/2408.06070) (Aug., 2024)      
+  [![Star](https://img.shields.io/github/stars/dvlab-research/ControlNeXt.svg?style=social&label=Star)](https://github.com/dvlab-research/ControlNeXt)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.06070)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pbihao.github.io/projects/controlnext/index.html)
-  [![Star](https://img.shields.io/github/stars/dvlab-research/ControlNeXt.svg?style=social&label=Star)](https://github.com/dvlab-research/ControlNeXt)
-  
-
 
 + [TrackGo: A Flexible and Efficient Method for Controllable Video Generation](https://arxiv.org/abs/2408.11475) (Aug., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.11475)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zhtjtcz.github.io/TrackGo-Page/#)
-
-
 
 + [Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics](https://arxiv.org/abs/2408.04631) (Aug., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.04631)
@@ -1288,7 +1228,6 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.04567)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://xrvisionlabs.github.io/Sketch2Scene/)
 
-  
 + [Expressive Whole-Body 3D Gaussian Avatar](https://arxiv.org/abs/2407.21686) (Aug., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.21686)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mks0601.github.io/ExAvatar/)
@@ -1299,16 +1238,14 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ali-videoai.github.io/tora_video/)
 
 + [HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation](https://arxiv.org/pdf/2407.17438) (Jul., 2024)      
+  [![Star](https://img.shields.io/github/stars/zhenzhiwang/HumanVid.svg?style=social&label=Star)](https://github.com/zhenzhiwang/HumanVid)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.17438)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://humanvid.github.io/#)
-  [![Star](https://img.shields.io/github/stars/zhenzhiwang/HumanVid.svg?style=social&label=Star)](https://github.com/zhenzhiwang/HumanVid)
-  
-  
+
 + [Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models](https://arxiv.org/abs/2407.15642) (Jul., 2024)      
+  [![Star](https://img.shields.io/github/stars/maxin-cn/Cinemo.svg?style=social&label=Star)](https://github.com/maxin-cn/Cinemo)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15642)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://maxin-cn.github.io/cinemo_project/)
-  [![Star](https://img.shields.io/github/stars/maxin-cn/Cinemo.svg?style=social&label=Star)](https://github.com/maxin-cn/Cinemo)
-
 
 + [VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control](https://arxiv.org/abs/2407.12781) (Jul., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.12781)
@@ -1418,63 +1355,51 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Character Customization
 
-+ [FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation](https://arxiv.org/abs/2502.13995) (Feb., 2025) 
++ [FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation](https://arxiv.org/abs/2502.13995) (Feb., 2025)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.13995)
 
-
-+ [Dynamic Concepts Personalization from Single Videos](https://arxiv.org/abs/2502.14844) (Feb., 2025) 
++ [Dynamic Concepts Personalization from Single Videos](https://arxiv.org/abs/2502.14844) (Feb., 2025)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.14844)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/dynamic_concepts/)
 
-
-+ [Phantom: Subject-consistent video generation via cross-modal alignment](https://arxiv.org/pdf/2502.11079) (Feb., 2025)  
++ [Phantom: Subject-consistent video generation via cross-modal alignment](https://arxiv.org/pdf/2502.11079) (Feb., 2025)   
   [![Star](https://img.shields.io/github/stars/Phantom-video/Phantom.svg?style=social&label=Star)](https://github.com/Phantom-video/Phantom)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.11079)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://phantom-video.github.io/Phantom/)
-
 
 + [Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts](https://arxiv.org/abs/2502.07802) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07802)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jeff-liangf.github.io/projects/movieweaver/)
 
-
 + [Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance](https://arxiv.org/pdf/2502.06145) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.06145)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/animate-anyone-2/)
 
-
 + [Multi-subject Open-set Personalization in Video Generation](https://arxiv.org/abs/2501.06187) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06187)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/open-set-video-personalization/)
-
 
 + [Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers](https://arxiv.org/abs/2501.03931) (Jan., 2025)  
   [![Star](https://img.shields.io/github/stars/dvlab-research/MagicMirror.svg?style=social&label=Star)](https://github.com/dvlab-research/MagicMirror/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03931)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://julianjuaner.github.io/projects/MagicMirror/)
 
-
-+ [ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning](https://arxiv.org/abs/2501.04698) (Jan., 2025)
++ [ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning](https://arxiv.org/abs/2501.04698) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04698)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yuzhou914.github.io/ConceptMaster/)
 
-
-+ [PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation](https://arxiv.org/pdf/2411.17048) (Nov., 2024)
++ [PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation](https://arxiv.org/pdf/2411.17048) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.17048)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://personalvideo.github.io/)
-
 
 + [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) (Oct., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13830)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo2.github.io/)
 
-
-
 ### Motion Customization
 
 + [Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models](https://arxiv.org/abs/2501.16714) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.16714)
-
 
 + [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/pdf/2501.08331) (Jan., 2025)  
   [![Star](https://img.shields.io/github/stars/VGenAI-Netflix-Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Star)](https://github.com/VGenAI-Netflix-Eyeline-Research/Go-with-the-Flow)
@@ -1485,64 +1410,50 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.07563v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zhangxinyu-xyz.github.io/SimulateMotion.github.io/)
 
-
-+ [Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions](https://arxiv.org/abs/2501.01425) (Jan., 2025)
++ [Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions](https://arxiv.org/abs/2501.01425) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01425)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://henghuiding.github.io/SynFMC/)
 
-
 + [CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training](https://arxiv.org/pdf/2412.15646) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.15646)
-
 
 + [MotionShop: Zero-Shot Motion Transfer in Video Diffusion Models with Mixture of Score Guidance](https://motionshop-diffusion.github.io/MotionShop.pdf) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/gemlab-vt/motionshop.svg?style=social&label=Star)](https://github.com/gemlab-vt/motionshop)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://motionshop-diffusion.github.io/MotionShop.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://motionshop-diffusion.github.io/)
 
-
 + [Video Motion Transfer with Diffusion Transformers](https://arxiv.org/abs/2412.07776) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/ditflow/ditflow.svg?style=social&label=Star)](https://github.com/ditflow/ditflow)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07776)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ditflow.github.io/)
 
-
 + [Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training](https://arxiv.org/abs/2412.06029) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06029)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://latent-reframe.github.io/)
-
 
 + [Motion Modes: What Could Happen Next?](https://motionmodes.github.io/resources/MotionModes.pdf) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://motionmodes.github.io/resources/MotionModes.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://motionmodes.github.io/)
 
-
-
-+ [MoTrans: Customized Motion Transfer with Text-driven Video](https://openreview.net/pdf?id=rLw5583hMb) (Dec., 2024)  
-  [![Star](https://img.shields.io/github/stars/XiaominLi1997/MoTrans.svg?style=social&label=Star)](https://github.com/XiaominLi1997/MoTrans)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=rLw5583hMb)
-
++ [MoTrans: Customized Motion Transfer with Text-driven Video](https://arxiv.org/abs/2412.01343) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01343)
 
 + [AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers](https://arxiv.org/abs/2411.18673) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18673)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/ac3d/)
-
 
 + [Trajectory Attention For Fine-grained Video Motion Control](https://arxiv.org/abs/2411.14208) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/xizaoqu/TrajectoryAttntion.svg?style=social&label=Star)](https://github.com/xizaoqu/TrajectoryAttntion)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.19324)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/trajattn/)
 
-
 + [ViewExtrapolator: Novel View Extrapolation with Video Diffusion Priors](https://arxiv.org/abs/2411.14208) (Nov., 2024)  
   [![Star](https://img.shields.io/github/stars/Kunhao-Liu/ViewExtrapolator.svg?style=social&label=Star)](https://github.com/Kunhao-Liu/ViewExtrapolator)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14208)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://kunhao-liu.github.io/ViewExtrapolator/)
 
-
 + [I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength](https://arxiv.org/pdf/2411.06525) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.06525)
-
 
 + [MotionDirector: Motion Customization of Text-to-Video Diffusion Models](https://arxiv.org/abs/2310.08465) (Sep., 2023 | ECCV 2024)  
   [![Star](https://img.shields.io/github/stars/showlab/MotionDirector.svg?style=social&label=Star)](https://github.com/showlab/MotionDirector)
@@ -1623,6 +1534,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](http://haonanqiu.com/projects/FreeTraj.html)
 
 + [Zero-Shot Controllable Image-to-Video Animation via Motion Decomposition](https://www.amazon.science/publications/zero-shot-controllable-image-to-video-animation-via-motion-decomposition) (Jul., 2024 | ACM MM 2024)  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://img2vidanim-0.github.io/)
 
 + [Tora: Trajectory-oriented Diffusion Transformer for Video Generation](https://arxiv.org/abs/2407.21705) (Jul., 2024)  
   [![Star](https://img.shields.io/github/stars/alibaba/Tora.svg?style=social&label=Star)](https://github.com/alibaba/Tora)
@@ -1632,65 +1544,63 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion](https://arxiv.org/abs/2408.00458) (Aug., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.00458)
 
-  
 ### Long Video / Film Generation
 
++ [RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers](https://arxiv.org/abs/2502.15894) (Feb., 2025)   
+  [![Star](https://img.shields.io/github/stars/thu-ml/RIFLEx.svg?style=social&label=Star)](https://github.com/thu-ml/RIFLEx) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.15894) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://riflex-video.github.io/)
 
 + [VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos](https://arxiv.org/abs/2502.01549) (Feb., 2025)  
   [![Star](https://img.shields.io/github/stars/HKUDS/VideoRAG.svg?style=social&label=Star)](https://github.com/HKUDS/VideoRAG)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01549)
 
-  
 + [Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion](https://arxiv.org/pdf/2501.09019) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.09019)
-
 
 + [VideoAuteur: Towards Long Narrative Video Generation](https://arxiv.org/abs/2501.06173) (Jan., 2025)  
   [![Star](https://img.shields.io/github/stars/lambert-x/VideoAuteur.svg?style=social&label=Star)](https://github.com/lambert-x/VideoAuteur)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06173)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://videoauteur.github.io/)
 
-
 + [DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation](https://arxiv.org/abs/2412.18597) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/TencentARC/DiTCtrl.svg?style=social&label=Star)](https://github.com/TencentARC/DiTCtrl)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.18597)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://onevfall.github.io/project_page/ditctrl/)
 
-+ [LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity](https://arxiv.org/abs/2412.09856) (Dec., 2024) 
++ [LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity](https://arxiv.org/abs/2412.09856) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09856)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://lineargen.github.io/) 
-
 
 + [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Star)](https://github.com/huang-yh/Owl)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09600)
 
-
 + [Video Storyboarding: Multi-Shot Character Consistency for Text-to-Video Generation](https://arxiv.org/pdf/2412.07750) (Dec., 2024) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07750)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/par/video_storyboarding/) 
-
 
 + [Mind the Time: Temporally-Controlled Multi-Event Video Generation](https://arxiv.org/abs/2412.05263) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/Karine-Huang/GenMAC.svg?style=social&label=Star)](https://github.com/Karine-Huang/GenMAC)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05263)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mint-video.github.io/) 
 
-
 + [GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration](https://arxiv.org/abs/2412.04440) (Dec., 2024)      
   [![Star](https://img.shields.io/github/stars/Karine-Huang/GenMAC.svg?style=social&label=Star)](https://github.com/Karine-Huang/GenMAC)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04440)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://karine-h.github.io/GenMAC/) 
 
++ [Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation](https://arxiv.org/pdf/2412.01316) (Dec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.01316) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://presto-video.github.io/)
 
 + [VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation](https://arxiv.org/abs/2412.02259) (Dec., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02259)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cheliosoops.github.io/VGoT/) 
 
-+ [MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation](https://arxiv.org/pdf/2411.18281) (Nov., 2024) 
++ [MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation](https://arxiv.org/pdf/2411.18281) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.18281)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://motioncharacter.github.io/) 
-
 
 + [Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://arxiv.org/abs/2411.17440) (Nov., 2024)      
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)
@@ -1698,18 +1608,15 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/ConsisID/) 
   [![Dataset](https://img.shields.io/badge/Dataset-e97451)](https://huggingface.co/datasets/BestWishYsh/ConsisID-preview-Data)
 
-  
 + [MovieBench: A Hierarchical Movie Level Dataset for Long Video Generation](https://arxiv.org/abs/2411.15262) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15262)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/MovieBench/)
   [![Star](https://img.shields.io/github/stars/showlab/MovieBecnh.svg?style=social&label=Star)](https://github.com/showlab/MovieBecnh)
 
-
 + [MotionPrompt: Optical-Flow Guided Prompt Optimization for Coherent Video Generation](https://arxiv.org/pdf/2411.15540) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.15540)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://motionprompt.github.io/)
   [![Star](https://img.shields.io/github/stars/HyelinNAM/MotionPrompt.svg?style=social&label=Star)](https://github.com/HyelinNAM/MotionPrompt)
-
 
 + [DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation](https://arxiv.org/pdf/2411.16657) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.16657)
@@ -1720,22 +1627,17 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.12576)
   [![Star](https://img.shields.io/github/stars/RedAIGC/StoryMaker.svg?style=social&label=Star)](https://github.com/RedAIGC/StoryMaker)
 
-
 + [Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection](https://arxiv.org/pdf/2409.19624) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.19624)
-
 
 + [ACDC: Autoregressive Coherent Multimodal Generation using Diffusion Correction](https://arxiv.org/abs/2410.04721) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04721)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://acdc2025.github.io/)
 
-
 + [Story-Adapter: A Training-free Iterative Framework for Long Story Visualization](https://arxiv.org/abs/2410.06244) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06244)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jwmao1.github.io/storyadapter/)
   [![Star](https://img.shields.io/github/stars/jwmao1/story-adapter.svg?style=social&label=Star)](https://github.com/jwmao1/story-adapter)
-
-
 
 + [In-Context LoRA for Diffusion Transformers](https://arxiv.org/abs/2410.23775) (Aug., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.23775)
@@ -1749,167 +1651,166 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration](https://arxiv.org/pdf/2411.04925) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.04925)
 
-
 + [ARLON: Boosting Diffusion Transformers With Autoregressive Models for Long Video Generation](https://arxiv.org/abs/2410.20502) (Oct., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20502)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://arlont2v.github.io/)
-
 
 + [Unbounded: A Generative Infinite Game of Character Life Simulation](https://arxiv.org/abs/2410.18975) (Oct., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.18975)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://generative-infinite-game.github.io/)
 
++ [Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach](https://arxiv.org/abs/2410.03160) (Oct., 2024)  
+  [![Star](https://img.shields.io/github/stars/Yaofang-Liu/FVDM.svg?style=social&label=Star)](https://github.com/Yaofang-Liu/FVDM) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.03160)
 
 + [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757) (Oct., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02757)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://epiphqny.github.io/Loong-video/)
 
-
 + [DreamCinema: Cinematic Transfer with Free Camera and 3D Character](https://arxiv.org/pdf/2410.04721) (Oct., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.04721)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://acdc2025.github.io/)
 
-
 + [CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion](https://arxiv.org/pdf/2408.17424) (Aug., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.17424)
 
-
 + [DreamCinema: Cinematic Transfer with Free Camera and 3D Character](https://arxiv.org/abs/2408.12601) (Aug., 2024)  
+  [![Star](https://img.shields.io/github/stars/chen-wl20/DreamCinema?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/chen-wl20/DreamCinema?tab=readme-ov-file)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.12601)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://liuff19.github.io/DreamCinema/)
-  [![Star](https://img.shields.io/github/stars/chen-wl20/DreamCinema?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/chen-wl20/DreamCinema?tab=readme-ov-file)
-
 
 + [SkyScript-100M: 1,000,000,000 Pairs of Scripts and Shooting Scripts for Short Drama](https://arxiv.org/pdf/2408.09333) (Aug., 2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.09333)
   [![Star](https://img.shields.io/github/stars/vaew/SkyScript-100M.svg?style=social&label=Star)](https://github.com/vaew/SkyScript-100M)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.09333)
 
 + [Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation](https://arxiv.org/abs/2408.09787) (Aug., 2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09787)
   [![Star](https://img.shields.io/github/stars/HITsz-TMG/Anim-Director.svg?style=social&label=Star)](https://github.com/HITsz-TMG/Anim-Director)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09787)
   
 + [Kubrick: Multimodal Agent Collaborations for Synthetic Video Generation](https://arxiv.org/pdf/2408.10453) (Aug., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.10453)
 
-
 + [DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework](https://arxiv.org/abs/2408.11788) (Jul, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.11788)
 
-
 + [MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence](https://arxiv.org/abs/2407.16655) (Jul, 2024)  
+  [![Star](https://img.shields.io/github/stars/aim-uofa/MovieDreamer.svg?style=social&label=Star)](https://github.com/aim-uofa/MovieDreamer)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.16655)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://aim-uofa.github.io/MovieDreamer/)
-  [![Star](https://img.shields.io/github/stars/aim-uofa/MovieDreamer.svg?style=social&label=Star)](https://github.com/aim-uofa/MovieDreamer)
+
++ [Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion](https://arxiv.org/pdf/2407.13759) (Jul., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.13759) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://boyangdeng.com/streetscapes/)
   
 + [AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description](https://arxiv.org/abs/2407.15850) (Jul, 2024)  
+  [![Star](https://img.shields.io/github/stars/Jyxarthur/AutoAD-Zero.svg?style=social&label=Star)](https://github.com/Jyxarthur/AutoAD-Zero)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15850)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.robots.ox.ac.uk/~vgg/research/autoad-zero/)
-  [![Star](https://img.shields.io/github/stars/Jyxarthur/AutoAD-Zero.svg?style=social&label=Star)](https://github.com/Jyxarthur/AutoAD-Zero)
-
-
 
 + [AesopAgent: Agent-driven Evolutionary System on Story-to-Video Production](https://arxiv.org/abs/2403.07952) (Jul, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.07952)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://aesopai.github.io/)
 
 + [TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation](https://arxiv.org/abs/2404.18919) (Jul, 2024)  
+  [![Star](https://img.shields.io/github/stars/donahowe/Theatergen.svg?style=social&label=Star)](https://github.com/donahowe/Theatergen)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.18919)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://howe140.github.io/theatergen.io/)
-  [![Star](https://img.shields.io/github/stars/donahowe/Theatergen.svg?style=social&label=Star)](https://github.com/donahowe/Theatergen)
 
 + [AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation](https://github.com/donahowe/AutoStudio) (Jul, 2024)  
+  [![Star](https://img.shields.io/github/stars/donahowe/AutoStudio.svg?style=social&label=Star)](https://github.com/donahowe/AutoStudio)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01388)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/donahowe/AutoStudio)
-  [![Star](https://img.shields.io/github/stars/donahowe/AutoStudio.svg?style=social&label=Star)](https://github.com/donahowe/AutoStudio)
 
 + [DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion](https://arxiv.org/abs/2407.12899) (Jul, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.12899)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dream-xyz.github.io/dreamstory)
 
 + [VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning](https://arxiv.org/abs/2309.15091) (Jul, 2024)  
+  [![Star](https://img.shields.io/github/stars/HL-hanlin/VideoDirectorGPT.svg?style=social&label=Star)](https://github.com/HL-hanlin/VideoDirectorGPT)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15091)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://videodirectorgpt.github.io/)
-  [![Star](https://img.shields.io/github/stars/HL-hanlin/VideoDirectorGPT.svg?style=social&label=Star)](https://github.com/HL-hanlin/VideoDirectorGPT)
 
-### Video Generation with Physical Prior / 3D
++ [MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) (NeurIPS 2022)   
+  [![Star](https://img.shields.io/github/stars/voletiv/mcvd-pytorch.svg?style=social&label=Star)](https://github.com/voletiv/mcvd-pytorch) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.09853) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mask-cond-video-diffusion.github.io)
+
++ [NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation](https://arxiv.org/abs/2303.12346) (Mar., 2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12346) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://msra-nuwa.azurewebsites.net/#/)
+
++ [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/abs/2205.11495) (May, 2022)   
+  [![Star](https://img.shields.io/github/stars/plai-group/flexible-video-diffusion-modeling.svg?style=social&label=Star)](https://github.com/plai-group/flexible-video-diffusion-modeling) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11495) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://fdmolv.github.io/)
+
+### Video Generation with 3D/Physical Prior
 
 + [DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models](https://arxiv.org/abs/2501.18590) (Feb, 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.18590)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/DiffusionRenderer/)
 
-
 + [Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928) (Jan, 2025)  
+  [![Star](https://img.shields.io/github/stars/BestJunYu/Awesome-Physics-aware-Generation.svg?style=social&label=Star)](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.10928)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)
-  [![Star](https://img.shields.io/github/stars/BestJunYu/Awesome-Physics-aware-Generation.svg?style=social&label=Star)](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)
-
 
 + [Do generative video models learn physical principles from watching videos?](https://arxiv.org/pdf/2501.09038) (Jan, 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.09038)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physics-iq.github.io/)
 
-
 + [Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control](https://arxiv.org/pdf/2501.03847) (Jan, 2025)  
+  [![Star](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader.svg?style=social&label=Star)](https://github.com/IGL-HKUST/DiffusionAsShader)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.03847)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://igl-hkust.github.io/das/)
-  [![Star](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader.svg?style=social&label=Star)](https://github.com/IGL-HKUST/DiffusionAsShader)
-
 
 + [Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning](https://arxiv.org/pdf/2412.00547) (Nov, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.00547)
 
-
 + [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](https://arxiv.org/abs/2412.00596) (Nov, 2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00596)
   [![Star](https://img.shields.io/github/stars/pittisl/PhyT2V.svg?style=social&label=Star)](https://github.com/pittisl/PhyT2V)
-
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00596)
 
 + [Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image](https://arxiv.org/pdf/2411.16800) (Nov, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.16800)
-
 
 + [PhysMotion: Physics-Grounded Dynamics From a Single Image](https://arxiv.org/abs/2411.17189) (Nov, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17189)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://supertan0204.github.io/physmotion_website/)
 
-
 + [AutoVFX: Physically Realistic Video Editing from Natural Language Instructions](https://arxiv.org/pdf/2411.02385) (Nov, 2024)  
+  [![Star](https://img.shields.io/github/stars/haoyuhsu/autovfx.svg?style=social&label=Star)](https://github.com/haoyuhsu/autovfx)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://haoyuhsu.github.io/autovfx-website/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://haoyuhsu.github.io/autovfx-website/)
-  [![Star](https://img.shields.io/github/stars/haoyuhsu/autovfx.svg?style=social&label=Star)](https://github.com/haoyuhsu/autovfx)
-
 
 + [How Far is Video Generation from World Model: A Physical Law Perspective](https://arxiv.org/pdf/2411.02385) (Oct, 2024)  
+  [![Star](https://img.shields.io/github/stars/phyworld/phyworld.svg?style=social&label=Star)](https://github.com/phyworld/phyworld)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.02385)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://phyworld.github.io/)
-  [![Star](https://img.shields.io/github/stars/phyworld/phyworld.svg?style=social&label=Star)](https://github.com/phyworld/phyworld)
-
 
 + [Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models](https://arxiv.org/pdf/2410.10821) (Oct, 2024)  
+  [![Star](https://img.shields.io/github/stars/ZqlwMatt/Tex4D.svg?style=social&label=Star)](https://github.com/ZqlwMatt/Tex4D)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.10821)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tex4d.github.io/)
-  [![Star](https://img.shields.io/github/stars/ZqlwMatt/Tex4D.svg?style=social&label=Star)](https://github.com/ZqlwMatt/Tex4D)
-
 
 + [PhyGenBench: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation](https://arxiv.org/pdf/2410.05363) (Oct, 2024)  
+  [![Star](https://img.shields.io/github/stars/OpenGVLab/PhyGenBench.svg?style=social&label=Star)](https://github.com/OpenGVLab/PhyGenBench)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.05363)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://phygenbench123.github.io/)
-  [![Star](https://img.shields.io/github/stars/OpenGVLab/PhyGenBench.svg?style=social&label=Star)](https://github.com/OpenGVLab/PhyGenBench)
 
 + [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](https://arxiv.org/abs/2409.18964) (Oct, 2024)  
+  [![Star](https://img.shields.io/github/stars/stevenlsw/physgen.svg?style=social&label=Star)](https://github.com/stevenlsw/physgen)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18964)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://stevenlsw.github.io/physgen/)
-  [![Star](https://img.shields.io/github/stars/stevenlsw/physgen.svg?style=social&label=Star)](https://github.com/stevenlsw/physgen)
 
 + [StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos](https://arxiv.org/pdf/2409.07447) (Oct, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.07447)
   [![Website](https://img.shields.io/badge/Website-9cf)](http://stereocrafter.github.io/)
 
-
 + [ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis](https://arxiv.org/abs/2409.02048) (Sep, 2024)  
+  [![Star](https://img.shields.io/github/stars/Drexubery/ViewCrafter.svg?style=social&label=Star)](https://github.com/Drexubery/ViewCrafter)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02048)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://drexubery.github.io/ViewCrafter/)
-  [![Star](https://img.shields.io/github/stars/Drexubery/ViewCrafter.svg?style=social&label=Star)](https://github.com/Drexubery/ViewCrafter)
 
 + [Compositional 3D-aware Video Generation with LLM Director](https://www.microsoft.com/en-us/research/project/compositional-3d-aware-video-generation/) (Aug, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.00558)
@@ -1928,48 +1829,41 @@ A curated list of recent diffusion models for video generation, editing, restora
 ### Video Editing 
 
 + [VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing](https://arxiv.org/abs/2502.17258) (Feb., 2025)      
+  [![Star](https://img.shields.io/github/stars/knightyxp/VideoGrain.svg?style=social&label=Star)](https://github.com/knightyxp/VideoGrain) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17258)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://knightyxp.github.io/VideoGrain_project_page/)
-  [![Star](https://img.shields.io/github/stars/knightyxp/VideoGrain.svg?style=social&label=Star)](https://github.com/knightyxp/VideoGrain) 
 
-
-+ [Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation](https://arxiv.org/pdf/2501.05020) (Jan., 2025)      
++ [Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation](https://arxiv.org/pdf/2501.05020) (Jan., 2025)       
+  [![Star](https://img.shields.io/github/stars/chen-yingjie/Perception-as-Control.svg?style=social&label=Star)](https://github.com/chen-yingjie/Perception-as-Control)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.05020)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chen-yingjie.github.io/projects/Perception-as-Control/)
-  [![Star](https://img.shields.io/github/stars/chen-yingjie/Perception-as-Control.svg?style=social&label=Star)](https://github.com/chen-yingjie/Perception-as-Control)   
 
-
-+ [Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning](https://arxiv.org/abs/2501.06438) (Jan., 2025)
++ [Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning](https://arxiv.org/abs/2501.06438) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06438)
 
-+ [MIVE: New Design and Benchmark for Multi-Instance Video Editing](https://arxiv.org/abs/2412.12877) (Dec., 2024)
++ [MIVE: New Design and Benchmark for Multi-Instance Video Editing](https://arxiv.org/abs/2412.12877) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.12877)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://kaist-viclab.github.io/mive-site/)
 
-
-+ [VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping](https://arxiv.org/abs/2403.16999) (Dec., 2024)
++ [VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping](https://arxiv.org/abs/2403.16999) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/deepcs233/VividFace.svg?style=social&label=Star)](https://github.com/deepcs233/VividFace) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.16999)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hao-shao.com/projects/vividface.html)
 
-
-+ [MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models](https://arxiv.org/abs/2412.05275) (Dec., 2024)
++ [MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models](https://arxiv.org/abs/2412.05275) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05275)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://motionflow-diffusion.github.io/)
 
-
-+ [DIVE: Taming DINO for Subject-Driven Video Editing](https://arxiv.org/abs/2412.03347) (Dec., 2024)
++ [DIVE: Taming DINO for Subject-Driven Video Editing](https://arxiv.org/abs/2412.03347) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03347)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dino-video-editing.github.io/)
 
-
-+ [AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction](https://arxiv.org/pdf/2412.02684) (Dec., 2024)
++ [AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction](https://arxiv.org/pdf/2412.02684) (Dec., 2024)  
   [![Star](https://img.shields.io/github/stars/aigc3d/AniGS.svg?style=social&label=Star)](https://github.com/aigc3d/AniGS) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.02684)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://lingtengqiu.github.io/2024/AniGS/)
 
-
-+ [StableV2V: Stablizing Shape Consistency in Video-to-Video Editing](https://arxiv.org/pdf/2411.11045) (Nov, 2024)
++ [StableV2V: Stablizing Shape Consistency in Video-to-Video Editing](https://arxiv.org/pdf/2411.11045) (Nov, 2024)  
   [![Star](https://img.shields.io/github/stars/AlonzoLeeeooo/StableV2V.svg?style=social&label=Star)](https://github.com/AlonzoLeeeooo/StableV2V) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.11045)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://alonzoleeeooo.github.io/StableV2V/)
@@ -2251,64 +2145,22 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02802) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://diff-video-ae.github.io/) 
 
-
-### Long-form Video Generation and Completion
-
-
-+ [RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers](https://arxiv.org/abs/2502.15894) (Feb., 2025)   
-  [![Star](https://img.shields.io/github/stars/thu-ml/RIFLEx.svg?style=social&label=Star)](https://github.com/thu-ml/RIFLEx) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.15894) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://riflex-video.github.io/)
-
-+ [Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation](https://arxiv.org/pdf/2412.01316) (Dec., 2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.01316) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://presto-video.github.io/)
-
-
-+ [Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach](https://arxiv.org/abs/2410.03160) (Oct., 2024)  
-  [![Star](https://img.shields.io/github/stars/Yaofang-Liu/FVDM.svg?style=social&label=Star)](https://github.com/Yaofang-Liu/FVDM) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.03160)
-
-
-+ [Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion](https://arxiv.org/pdf/2407.13759) (Jul., 2024)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.13759) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://boyangdeng.com/streetscapes/)
-  
-  
-+ [MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) (NeurIPS 2022)   
-  [![Star](https://img.shields.io/github/stars/voletiv/mcvd-pytorch.svg?style=social&label=Star)](https://github.com/voletiv/mcvd-pytorch) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.09853) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://mask-cond-video-diffusion.github.io)
-
-+ [NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation](https://arxiv.org/abs/2303.12346) (Mar., 2023)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12346) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://msra-nuwa.azurewebsites.net/#/)
-
-+ [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/abs/2205.11495) (May, 2022)   
-  [![Star](https://img.shields.io/github/stars/plai-group/flexible-video-diffusion-modeling.svg?style=social&label=Star)](https://github.com/plai-group/flexible-video-diffusion-modeling) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11495) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://fdmolv.github.io/)
-
-
 ### Human or Subject Motion 
 
-+ [AnyTop: Character Animation Diffusion with Any Topology](https://arxiv.org/abs/2502.17327) (Feb., 2025) 
++ [AnyTop: Character Animation Diffusion with Any Topology](https://arxiv.org/abs/2502.17327) (Feb., 2025)  
   [![Star](https://img.shields.io/github/stars/Anytop2025/Anytop.svg?style=social)](https://github.com/Anytop2025/Anytop) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17327) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://anytop2025.github.io/Anytop-page/)
 
-
-+ [HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation](https://arxiv.org/abs/2502.04847) (Feb., 2025) 
++ [HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation](https://arxiv.org/abs/2502.04847) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04847) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://agnjason.github.io/HumanDiT-page/)
 
-
-+ [VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models](https://hila-chefer.github.io/videojam-paper.github.io/VideoJAM_arxiv.pdf) (Feb., 2025) 
++ [VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models](https://hila-chefer.github.io/videojam-paper.github.io/VideoJAM_arxiv.pdf) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://hila-chefer.github.io/videojam-paper.github.io/VideoJAM_arxiv.pdf) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hila-chefer.github.io/videojam-paper.github.io/)
 
-
-+ [OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models](https://arxiv.org/abs/2502.01061) (Feb., 2025) 
++ [OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models](https://arxiv.org/abs/2502.01061) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01061) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://omnihuman-lab.github.io/)
 
@@ -2322,21 +2174,17 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06481) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://steve-zeyu-zhang.github.io/KMM/)
 
-
 + [DanceFusion: A Spatio-Temporal Skeleton Diffusion Transformer for Audio-Driven Dance Motion Reconstruction](https://arxiv.org/abs/2411.04646) (Nov., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04646) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://th-mlab.github.io/DanceFusion/)
-
 
 + [Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning](https://arxiv.org/abs/2410.24219) (Nov., 2024)   
   [![Star](https://img.shields.io/github/stars/PR-Ryan/DEMO.svg?style=social)](https://github.com/PR-Ryan/DEMO) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.24219) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pr-ryan.github.io/DEMO-project/)
 
-
 + [A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights](https://arxiv.org/abs/2407.08428) (Jul., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.08428) 
-  
   
 + [OccFusion: Rendering Occluded Humans with Generative Diffusion Priors](https://arxiv.org/pdf/2406.08801) (Jul., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.00316) 
@@ -2346,8 +2194,6 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/BadToBest/EchoMimic.svg?style=social)](https://github.com/BadToBest/EchoMimic) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.08136) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://badtobest.github.io/echomimic.html)
-  
-
 
 + [DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation](https://arxiv.org/abs/2401.04747) (CVPR 2024)   
   [![Star](https://img.shields.io/github/stars/JeremyCJM/DiffSHEG.svg?style=social&label=Star)](https://github.com/JeremyCJM/DiffSHEG) 
@@ -2415,12 +2261,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/BarqueroGerman/BeLFusion.svg?style=social&label=Star)](https://github.com/BarqueroGerman/BeLFusion) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.14304) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://barquerogerman.github.io/BeLFusion/)
-  
 
-  
 + [Diffusion Motion: Generate Text-Guided 3d Human Motion by Diffusion Model](https://arxiv.org/abs/2210.12315) (ICASSP 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.12315) 
-  
+
 + [Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction](https://arxiv.org/abs/2210.05976) (Oct., 2022)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.05976) 
 
@@ -2443,18 +2287,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/gutianpei/MID.svg?style=social&label=Star)](https://github.com/gutianpei/MID) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.13777) 
 
-### AI Safety for Video Generation
-+ [What Matters in Detecting AI-Generated Videos like Sora?](https://arxiv.org/abs/2406.19568) (Jun., 2024)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19568) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://justin-crchang.github.io/3DCNNDetection.github.io/)
-
-
 ### Video Enhancement and Restoration
 
 + [SVFR: A Unified Framework for Generalized Video Face Restoration](https://arxiv.org/abs/2501.01235) (Jan., 2025)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01235)
 
-  
 + [Disentangled Motion Modeling for Video Frame Interpolation](https://arxiv.org/abs/2406.17256) (Jun, 2024)   
   [![Star](https://img.shields.io/github/stars/JHLew/MoMo.svg?style=social&label=Star)](https://github.com/JHLew/MoMo)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.17256)
@@ -2472,58 +2309,50 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Audio Synthesis for Video
 
-+ [AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation](https://arxiv.org/pdf/2406.07686) (Feb., 2025) 
++ [AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation](https://arxiv.org/pdf/2406.07686) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.07686)
 
-
-+ [UniForm: A Unified Diffusion Transformer for Audio-Video Generation](https://arxiv.org/abs/2502.03897) (Feb., 2025) 
++ [UniForm: A Unified Diffusion Transformer for Audio-Video Generation](https://arxiv.org/abs/2502.03897) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.03897)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://uniform-t2av.github.io/) 
 
-+ [AGAV-Rater: Enhancing LMM for AI-Generated Audio-Visual Quality Assessment](https://arxiv.org/abs/2501.18314) (Jan., 2025) 
++ [AGAV-Rater: Enhancing LMM for AI-Generated Audio-Visual Quality Assessment](https://arxiv.org/abs/2501.18314) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.18314)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://agav-rater.github.io/) 
 
-
-+ [XMusic: Towards a Generalized and Controllable Symbolic Music Generation Framework](https://arxiv.org/abs/2501.08809) (Jan., 2025) 
++ [XMusic: Towards a Generalized and Controllable Symbolic Music Generation Framework](https://arxiv.org/abs/2501.08809) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08809)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://xmusic-project.github.io/) 
 
-
-+ [Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis](https://arxiv.org/abs/2412.15322) (Dec., 2024) 
++ [Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis](https://arxiv.org/abs/2412.15322) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/hkchengrex/MMAudio.svg?style=social&label=Star)](https://github.com/hkchengrex/MMAudio)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15322)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hkchengrex.com/MMAudio/) 
-  [![Star](https://img.shields.io/github/stars/hkchengrex/MMAudio.svg?style=social&label=Star)](https://github.com/hkchengrex/MMAudio)
 
-
-+ [Stable-V2A: Synthesis of Synchronized Audio Effects with Temporal and Semantic Controls](https://arxiv.org/abs/2412.15023) (Dec., 2024) 
++ [Stable-V2A: Synthesis of Synchronized Audio Effects with Temporal and Semantic Controls](https://arxiv.org/abs/2412.15023) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/ispamm/Stable-V2A.svg?style=social&label=Star)](https://github.com/ispamm/Stable-V2A)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15023)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ispamm.github.io/Stable-V2A/) 
-  [![Star](https://img.shields.io/github/stars/ispamm/Stable-V2A.svg?style=social&label=Star)](https://github.com/ispamm/Stable-V2A)
 
-+ [AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation](https://arxiv.org/abs/2412.15191) (Dec., 2024) 
++ [AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation](https://arxiv.org/abs/2412.15191) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/snap-research/AVLink.svg?style=social&label=Star)](https://github.com/snap-research/AVLink)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15191)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/AVLink/) 
-  [![Star](https://img.shields.io/github/stars/snap-research/AVLink.svg?style=social&label=Star)](https://github.com/snap-research/AVLink)
 
-+ [VinTAGe: Joint Video and Text Conditioning for Holistic Audio Generation](https://arxiv.org/abs/2412.10768) (Nov., 2024) 
++ [VinTAGe: Joint Video and Text Conditioning for Holistic Audio Generation](https://arxiv.org/abs/2412.10768) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10768)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.youtube.com/watch?v=QmqWhUjPkJI) 
 
-
-+ [YingSound: Video-Guided Sound Effects Generation with Multi-modal Chain-of-Thought Controls](https://arxiv.org/abs/2412.09551) (Nov., 2024) 
++ [YingSound: Video-Guided Sound Effects Generation with Multi-modal Chain-of-Thought Controls](https://arxiv.org/abs/2412.09551) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09551)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://giantailab.github.io/yingsound/) 
 
-
-+ [Video-Guided Foley Sound Generation with Multimodal Controls](https://arxiv.org/pdf/2411.17698) (Nov., 2024) 
++ [Video-Guided Foley Sound Generation with Multimodal Controls](https://arxiv.org/pdf/2411.17698) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.17698)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ificl.github.io/MultiFoley/) 
 
-
 + [MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization](https://arxiv.org/abs/2410.12957) (Oct., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.12957)
-
 
 + [Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation](https://arxiv.org/abs/2309.16429) (Sep., 2023)  
   [![Star](https://img.shields.io/github/stars/guyyariv/TempoTokens.svg?style=social&label=Star)](https://github.com/guyyariv/TempoTokens)
@@ -2531,38 +2360,31 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pages.cs.huji.ac.il/adiyoss-lab/TempoTokens/) 
 
 + [VMAs: Video-to-Music Generation via Semantic Alignment in Web Music Videos](https://www.arxiv.org/abs/2409.07450) (Oct., 2024)   
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://genjib.github.io/project_page/VMAs/index.html)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2409.07450)
-
-
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://genjib.github.io/project_page/VMAs/index.html)
 
 + [STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment](https://arxiv.org/pdf/2409.08601) (Oct., 2024)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.08601)
   [![Star](https://img.shields.io/github/stars/yannqi/Draw-an-Audio-Code.svg?style=social&label=Star)](https://github.com/y-ren16/STAV2A)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.08601)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://y-ren16.github.io/STAV2A/)
 
-
-
 + [Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis](https://arxiv.org/pdf/2409.06135) (Sep., 2024)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.06135)
   [![Star](https://img.shields.io/github/stars/yannqi/Draw-an-Audio-Code.svg?style=social&label=Star)](https://github.com/yannqi/Draw-an-Audio-Code)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.06135)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yannqi.github.io/Draw-an-Audio/)
 
-
 + [Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming](https://arxiv.org/abs/2408.16725) (Jul., 2024)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.16725)
   [![Star](https://img.shields.io/github/stars/gpt-omni/mini-omni.svg?style=social&label=Star)](https://github.com/gpt-omni/mini-omni)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.16725)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/gpt-omni/mini-omni)
-      
-
 
 + [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech) (Aug., 2024)   
   [![Star](https://img.shields.io/github/stars/huggingface/speech-to-speech.svg?style=social&label=Star)](https://github.com/huggingface/speech-to-speech)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/huggingface/speech-to-speech)
 
 + [Video-Foley: Two-Stage Video-To-Sound Generation via Temporal Event Condition For Foley Sound](https://arxiv.org/abs/2408.11915) (Aug., 2024)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.11915)
   [![Star](https://img.shields.io/github/stars/jnwnlee/video-foley.svg?style=social&label=Star)](https://github.com/jnwnlee/video-foley)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.11915)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jnwnlee.github.io/video-foley-demo/)
 
 + [Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity](https://arxiv.org/abs/2407.10387) (Jul., 2024)   
@@ -2570,13 +2392,13 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://maskvat.github.io/)
 
 + [Video-to-Audio Generation with Hidden Alignment](https://arxiv.org/abs/2407.07464) (Jul., 2024)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07464)
   [![Star](https://img.shields.io/github/stars/ariesssxu/vta-ldm.svg?style=social&label=Star)](https://github.com/ariesssxu/vta-ldm)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07464)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/vta-ldm)
       
 + [Read, Watch and Scream! Sound Generation from Text and Video](https://arxiv.org/abs/2407.05551) (Jul., 2024)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.05551)
   [![Star](https://img.shields.io/github/stars/naver-ai/rewas.svg?style=social&label=Star)](https://github.com/naver-ai/rewas)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.05551)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://naver-ai.github.io/rewas/)
 
 + [FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds](https://arxiv.org/abs/2407.01494) (July, 2024)   
@@ -2584,8 +2406,8 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://foleycrafter.github.io/)
 
 + [Network Bending of Diffusion Models for Audio-Visual Generation](https://arxiv.org/abs/2406.19589) (CVPR, 2024)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19589)
   [![Star](https://img.shields.io/github/stars/dzluke/DAFX2024.svg?style=social&label=Star)](https://github.com/dzluke/DAFX2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19589)
 
 ### Talking Head Generation
 
@@ -2596,42 +2418,35 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09892) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://x-lance.github.io/VQTalker/) 
 
-
 + [IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](https://arxiv.org/abs/2412.04000) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04000) 
   [![Website](https://img.shields.io/badge/Website-9cf)](http://ec2-3-25-102-128.ap-southeast-2.compute.amazonaws.com/IF-MDM/ifmdm_supplementary/index.html)   
-
 
 + [INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations](https://arxiv.org/pdf/2412.04037) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.04037) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://grisoon.github.io/INFP/)   
 
-
 + [MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation](https://arxiv.org/abs/2412.04448) (Dec., 2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04448) 
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://memoavatar.github.io/)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04448)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://memoavatar.github.io/)
   [![Star](https://img.shields.io/github/stars/memoavatar/memo.svg?style=social)](https://github.com/memoavatar/memo) 
-
 
 + [SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model](https://arxiv.org/pdf/2412.03430) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.03430) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yl4467.github.io/)   
 
-
 + [Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation](https://arxiv.org/abs/2412.00719) (Nov., 2024)  
+  [![Star](https://img.shields.io/github/stars/ShaelynZ/synergize-motion-appearance.svg?style=social)](https://github.com/ShaelynZ/synergize-motion-appearance) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00719) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://shaelynz.github.io/synergize-motion-appearance/)   
-  [![Star](https://img.shields.io/github/stars/ShaelynZ/synergize-motion-appearance.svg?style=social)](https://github.com/ShaelynZ/synergize-motion-appearance) 
 
 + [Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks](https://arxiv.org/pdf/2412.00733) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.00733) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/fudan-generative-vision/hallo3)
 
-
 + [FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait](https://arxiv.org/abs/2412.01064) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01064) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://deepbrainai-research.github.io/float/)
-
 
 + [EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion](https://arxiv.org/pdf/2411.16726) (Nov., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.16726) 
@@ -2639,61 +2454,48 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis](https://arxiv.org/pdf/2411.16748) (Nov., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.16748) 
 
-  
 + [Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](https://arxiv.org/pdf/2409.02634) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.02634) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://loopyavatar.github.io/)
-
-
 
 + [HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models](https://arxiv.org/abs/2410.22901) (Oct., 2024)   
   [![Star](https://img.shields.io/github/stars/HelloVision/HelloMeme.svg?style=social)](https://github.com/HelloVision/HelloMeme) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.22901) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://songkey.github.io/hellomeme/)
 
-
-+ [PersonaTalk: Bring Attention to Your Persona in Visual Dubbing](https://arxiv.org/pdf/2409.05379) (Oct., 2024)
++ [PersonaTalk: Bring Attention to Your Persona in Visual Dubbing](https://arxiv.org/pdf/2409.05379) (Oct., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.05379) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://grisoon.github.io/PersonaTalk/)
 
-
 + [Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Motion and Audio for Conversational Motion Analysis and Synthesis](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Talking_With_Hands_16.2M_A_Large-Scale_Dataset_of_Synchronized_Body-Finger_ICCV_2019_paper.pdf) (Oct., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Talking_With_Hands_16.2M_A_Large-Scale_Dataset_of_Synchronized_Body-Finger_ICCV_2019_paper.pdf) 
-
 
 + [Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://arxiv.org/abs/2204.08451) (Oct., 2024)   
   [![Star](https://img.shields.io/github/stars/evonneng/learning2listen.svg?style=social)](https://github.com/evonneng/learning2listen) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.08451) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://evonneng.github.io/learning2listen/)
 
-
 + [GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents](https://arxiv.org/abs/2303.14613) (Oct., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14613) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-mocca.github.io/GestureDiffuCLIP-Page/)
-
 
 + [From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations](https://evonneng.github.io/projects/audio2photoreal/static/CCA.pdf) (Oct., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://evonneng.github.io/projects/audio2photoreal/static/CCA.pdf) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://evonneng.github.io/projects/audio2photoreal/index.html)
 
-
-
 + [Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization](https://arxiv.org/pdf/2410.14283) (Oct., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.14283) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://everest-ai.github.io/takinada/)
-
 
 + [DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation](https://arxiv.org/abs/2410.13726) (Oct., 2024)   
   [![Star](https://img.shields.io/github/stars/Hanbo-Cheng/DAWN-pytorch.svg?style=social)](https://github.com/Hanbo-Cheng/DAWN-pytorch) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13726) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hanbo-cheng.github.io/DAWN/)
 
-
 + [MimicTalk: Mimicking a personalized and expressive 3D talking face in few minutes](https://arxiv.org/abs/2410.06734) (Oct., 2024)   
   [![Star](https://img.shields.io/github/stars/yerfor/MimicTalk.svg?style=social)](https://github.com/yerfor/MimicTalk) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06734) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mimictalk.github.io/)
-
 
 + [Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation](https://arxiv.org/pdf/2410.07718) (Oct., 2024)   
   [![Star](https://img.shields.io/github/stars/fudan-generative-vision/hallo2.svg?style=social)](https://github.com/fudan-generative-vision/hallo2) 
@@ -2713,31 +2515,28 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.08801) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://fudan-generative-vision.github.io/hallo/#/)
 
-
 ### Human/AI Feedback for Video Generation
+
 + [LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment](https://arxiv.org/pdf/2412.04814) (Dec., 2024)   
   [![Star](https://img.shields.io/github/stars/CodeGoat24/LiFT.svg?style=social&label=Star)](https://github.com/CodeGoat24/LiFT)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.04814)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://codegoat24.github.io/LiFT/)
 
-
 + [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617) (Nov., 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02617)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/aif-dynamic-t2v/)
-
 
 + [VIDEOSCORE: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation](https://arxiv.org/pdf/2406.15252) (July, 2024)   
   [![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/VideoScore.svg?style=social&label=Star)](https://github.com/TIGER-AI-Lab/VideoScore/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.15252)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tiger-ai-lab.github.io/VideoScore/)
 
-### Policy Learning with Video Generation
+### Policy Learning
 
 + [Object-Centric Image to Video Generation with Language Guidance](https://arxiv.org/abs/2502.11655) (Feb, 2025)   
   [![Star](https://img.shields.io/github/stars/angelvillar96/TextOCVP.svg?style=social&label=Star)](https://github.com/angelvillar96/TextOCVP)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11655)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://play-slot.github.io/TextOCVP/)
-
 
 + [Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/abs/2412.14803) (Dec, 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14803)
@@ -2747,26 +2546,22 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://portal-cornell.github.io/motion_track_policy/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://portal-cornell.github.io/motion_track_policy/)
 
-
 + [Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model](https://arxiv.org/abs/2412.05280) (Dec, 2024)   
   [![Star](https://img.shields.io/github/stars/wzzheng/Stag.svg?style=social&label=Star)](https://github.com/wzzheng/Stag)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05280)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wzzheng.net/Stag/)
 
-
-+ [RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches](https://arxiv.org/abs/2403.02709) (Dec, 2024) 
++ [RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches](https://arxiv.org/abs/2403.02709) (Dec, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02709)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://rt-sketch.github.io/)
-
 
 + [EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation](https://arxiv.org/pdf/2411.08380) (Nov, 2024)   
   [![Star](https://img.shields.io/github/stars/JeffWang987/EgoVid.svg?style=social&label=Star)](https://github.com/JeffWang987/EgoVid)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.08380)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://egovid.github.io/)
 
-
 + [GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy](https://arxiv.org/abs/2408.14368) (July, 2024)   
-  [![Star](https://img.shields.io/github/stars/bytedance/GR-MG/tree/main.svg?style=social&label=Star)](https://github.com/bytedance/GR-MG/tree/main)
+  [![Star](https://img.shields.io/github/stars/bytedance/GR-MG.svg?style=social&label=Star)](https://github.com/bytedance/GR-MG)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.14368)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://gr-mg.github.io/)
 
@@ -2785,40 +2580,22 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16862)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamitate.cs.columbia.edu/)
 
-### Acceleration for Video Generation
-
-+ [FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation](https://arxiv.org/abs/2502.05179) (Feb., 2025)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.05179)
-  [![Star](https://img.shields.io/github/stars/FoundationVision/FlashVideo.svg?style=social&label=Star)](https://github.com/FoundationVision/FlashVideo)
-
-+ [Fast Video Generation with Sliding Tile Attention](https://arxiv.org/abs/2502.04507) (Feb, 2025)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04507)
-
-
-+ [Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity](https://arxiv.org/abs/2502.01776) (Feb, 2025)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01776)
-
-
-+ [Diffusion Adversarial Post-Training for One-Step Video Generation](https://arxiv.org/abs/2501.08316) (Jan, 2025)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08316)
-
-### Try On with Video Generation
+### Virtual Try-On
 
 + [1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On](https://arxiv.org/abs/2501.05369) (Jan., 2025)   
+  [![Star](https://img.shields.io/github/stars/ningshuliang/1-2-1-MNVTON.svg?style=social&label=Star)](https://github.com/ningshuliang/1-2-1-MNVTON)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.05369)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ningshuliang.github.io/2023/Arxiv/index.html)
-  [![Star](https://img.shields.io/github/stars/ningshuliang/1-2-1-MNVTON.svg?style=social&label=Star)](https://github.com/ningshuliang/1-2-1-MNVTON)
 
 + [Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism](https://arxiv.org/abs/2412.09822) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09822)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zhengjun-ai.github.io/dynamic-tryon-page/)
 
-
 + [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://arxiv.org/abs/2411.00225) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00225)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://johannakarras.github.io/Fashion-VDM/)
 
-### 3D / NeRF
+### 3D
 
 + [Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091) (Dec., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.12091)
@@ -2829,17 +2606,14 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://gpteval3d.github.io/)
   [![Star](https://img.shields.io/github/stars/3DTopia/GPTEval3D.svg?style=social&label=Star)](https://github.com/3DTopia/GPTEval3D)
 
-
 + [MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion](https://arxiv.org/abs/2410.03825) (Oct., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.03825)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://monst3r-project.github.io/)
   [![Star](https://img.shields.io/github/stars/Junyi42/monst3r.svg?style=social&label=Star)](https://github.com/Junyi42/monst3r)
 
-
 + [L3DG: Latent 3D Gaussian Diffusion](https://arxiv.org/abs/2112.03288) (Oct., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.03288)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://barbararoessle.github.io/l3dg/)
-
 
 + [ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model](https://arxiv.org/abs/2410.07155) (Oct., 2024)   
   [![Star](https://img.shields.io/github/stars/YangLing0818/Trans4D.svg?style=social&label=Star)](https://github.com/YangLing0818/Trans4D)
@@ -2850,7 +2624,6 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/liuff19/ReconX.svg?style=social&label=Star)](https://github.com/yanghb22-fdu/Hi3D-Official)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.07452)
 
-
 + [ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model](https://arxiv.org/abs/2408.16767) (Aug., 2024)   
   [![Star](https://img.shields.io/github/stars/liuff19/ReconX.svg?style=social&label=Star)](https://github.com/liuff19/ReconX)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.16767)
@@ -2860,8 +2633,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.13764)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sv4d.github.io/)
-  
-  
+
 + [Shape of Motion: 4D Reconstruction from a Single Video](https://arxiv.org/abs/2407.13764) (Jul., 2024)   
   [![Star](https://img.shields.io/github/stars/vye16/shape-of-motion.svg?style=social&label=Star)](https://github.com/vye16/shape-of-motion/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.13764)
@@ -2928,20 +2700,15 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.01206)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sirwyver.github.io/DiffRF/)
 
-
 ### 4D
 
 + [Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features](https://arxiv.org/abs/2502.08377) (Feb., 2025)   
+  [![Star](https://img.shields.io/github/stars/paintscene4d/paintscene4d.github.io.svg?style=social&label=Star)](https://github.com/paintscene4d/paintscene4d.github.io)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08377)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://paintscene4d.github.io/)
-  [![Star](https://img.shields.io/github/stars/paintscene4d/paintscene4d.github.io.svg?style=social&label=Star)](https://github.com/paintscene4d/paintscene4d.github.io)
-
-
-
 
 + [DreamDrive: Generative 4D Scene Modeling from Street View Images](https://arxiv.org/pdf/2501.00601) (Jan., 2025)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.00601)
-
 
 + [Stereo4D Learning How Things Move in 3D from Internet Stereo Videos](https://arxiv.org/pdf/2412.09621) (Dec., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.09621)
@@ -2952,27 +2719,30 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/4Real-Video/)
 
 + [PaintScene4D: Consistent 4D Scene Generation from Text Prompts](https://arxiv.org/abs/2412.04471) (Dec., 2024)   
+  [![Star](https://img.shields.io/github/stars/paintscene4d/paintscene4d.github.io.svg?style=social&label=Star)](https://github.com/paintscene4d/paintscene4d.github.io)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04471)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://paintscene4d.github.io/)
-  [![Star](https://img.shields.io/github/stars/paintscene4d/paintscene4d.github.io.svg?style=social&label=Star)](https://github.com/paintscene4d/paintscene4d.github.io)
-
 
 + [CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models](https://arxiv.org/abs/2411.18613) (Nov., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18613)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cat-4d.github.io/)
 
-
 + [DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion](https://arxiv.org/pdf/2411.04928) (Nov., 2024)   
+  [![Star](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Star)](https://github.com/wenqsun/DimensionX)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.04928)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chenshuo20.github.io/DimensionX/)
-  [![Star](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Star)](https://github.com/wenqsun/DimensionX)
-
 
 ### Game Generation
 
 + [Playable Game Generation](https://arxiv.org/pdf/2412.00887) (Nov., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.00887)
   [![Website](https://img.shields.io/badge/Website-9cf)](http://124.156.151.207)
+
+### AI Safety
+
++ [What Matters in Detecting AI-Generated Videos like Sora?](https://arxiv.org/abs/2406.19568) (Jun., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19568)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://justin-crchang.github.io/3DCNNDetection.github.io/)
 
 ### Rendering with Virtual Engine
 
@@ -2981,43 +2751,32 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.20977)
   [![Website](https://img.shields.io/badge/Website-9cf)](http://unrealzoo.site/)
 
-
-
 + [Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation](https://arxiv.org/abs/2406.11824) (CVPR 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11824)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://infinigen.org/)
 
-
 + [Scene Co-pilot: Procedural Text to Video Generation with Human in the Loop](https://arxiv.org/abs/2411.18644) (Dec., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18644)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://abolfazl-sh.github.io/Scene_co-pilot_site/)
-
-
-
-
 
 ### Open-World Model
 
 + [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07825)
 
-
 + [VideoWorld: Exploring Knowledge Learning from Unlabeled Videos](https://arxiv.org/abs/2501.09781) (Jan., 2025)  
   [![Star](https://img.shields.io/github/stars/bytedance/VideoWorld.svg?style=social&label=Star)](https://github.com/bytedance/VideoWorld) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.09781)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://maverickren.github.io/VideoWorld.github.io/)
-
 
 + [GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325) (Jan., 2025)  
   [![Star](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Star)](https://github.com/KwaiVGI/GameFactory) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08325)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vvictoryuki.github.io/gamefactory/)
 
-
 + [Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation](https://arxiv.org/abs/2501.06693) (Jan., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06693)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://metadriverse.github.io/vid2sim/)
-
 
 + [GenEx: Generating an Explorable World](https://arxiv.org/abs/2412.09624) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09624)
@@ -3027,26 +2786,20 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.03568)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://thematrix1999.github.io/)
 
-
 + [Navigation World Models](https://arxiv.org/abs/2412.03572) (Dec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03572)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.amirbar.net/nwm/)
 
-
 + [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) (Dec., 2024)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 
-
-
 + [Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/abs/2411.14499) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14499)
-
 
 + [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) (Nov., 2024)  
   [![Star](https://img.shields.io/github/stars/stonybrooknlp/appworld.svg?style=social&label=Star)](https://github.com/stonybrooknlp/appworld/) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.18901)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://appworld.dev/)
-
 
 + [Oasis: A Universe in a Transformer](https://www.decart.ai/articles/oasis-interactive-ai-video-game-model) (Nov., 2024)  
   [![Star](https://img.shields.io/github/stars/etched-ai/open-oasis.svg?style=social&label=Star)](https://github.com/etched-ai/open-oasis) 
@@ -3063,14 +2816,19 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.09631)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vis-www.cs.umass.edu/3dvla/)
 
-
-
 ### Video Understanding
+
++ [UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics](https://arxiv.org/pdf/2412.07774) (Dec., 2024)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07774)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xavierchen34.github.io/UniReal-Page/)
+
++ [Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation](https://arxiv.org/abs/2412.04432) (Nov., 2024)   
+  [![Star](https://img.shields.io/github/stars/TencentARC/Divot.svg?style=social&label=Star)](https://github.com/TencentARC/Divot) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04432)
 
 + [VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding](https://arxiv.org/pdf/2410.13860) (Oct., 2024)   
   [![Star](https://img.shields.io/github/stars/OpenRobotLab/VLM-Grounder.svg?style=social&label=Star)](https://github.com/OpenRobotLab/VLM-Grounder) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.13860)
-
 
 + [Exploring Diffusion Models for Unsupervised Video Anomaly Detection](https://arxiv.org/abs/2304.05841) (Apr., 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05841)
@@ -3100,18 +2858,6 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/google-research/pix2seq.svg?style=social&label=Star)](https://github.com/google-research/pix2seq) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.06366)
 
-
-### Unified Model for Generation and Understanding
-
-+ [UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics](https://arxiv.org/pdf/2412.07774) (Dec., 2024)   
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07774)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://xavierchen34.github.io/UniReal-Page/)
-
-+ [Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation](https://arxiv.org/abs/2412.04432) (Nov., 2024)   
-  [![Star](https://img.shields.io/github/stars/TencentARC/Divot.svg?style=social&label=Star)](https://github.com/TencentARC/Divot) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04432)
-
-
 ### Healthcare and Biology
 
 + [Medical Video Generation for Disease Progression Simulation](https://arxiv.org/abs/2411.11943) (Nov., 2024)   
@@ -3121,14 +2867,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/Finspire13/DiffAct.svg?style=social&label=Star)](https://github.com/Finspire13/DiffAct) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.07619)
 
-+ [Exploring Variational Autoencoders for Medical Image Generation: A Comprehensive Study](https://arxiv.org/abs/2411.07348) (Nov., 2024)
++ [Exploring Variational Autoencoders for Medical Image Generation: A Comprehensive Study](https://arxiv.org/abs/2411.07348) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.07348)
 
-
-+ [MedSora: Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation](https://arxiv.org/abs/2411.01647) (Nov., 2024)
++ [MedSora: Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation](https://arxiv.org/abs/2411.01647) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01647)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wongzbb.github.io/MedSora/)
-
 
 + [Annealed Score-Based Diffusion Model for Mr Motion Artifact Reduction](https://arxiv.org/abs/2301.03027) (Jan., 2023)  
   [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.03027) 
@@ -3140,7 +2884,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.03250)
 
 
-### Other Application for Video Gen
+### Other Applications
 
 + [History-Guided Video Diffusion](https://arxiv.org/abs/2502.06764) (Feb., 2025)  
   [![Star](https://img.shields.io/github/stars/kwsong0113/diffusion-forcing-transformer.svg?style=social&label=Star)](https://github.com/kwsong0113/diffusion-forcing-transformer) 
@@ -3150,12 +2894,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control](https://arxiv.org/pdf/2502.01101) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.01101)
 
-
 + [VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization](https://arxiv.org/pdf/2501.09499) (Jan., 2025)  
   [![Star](https://img.shields.io/github/stars/BecauseImBatman0/VanGogh.svg?style=social&label=Star)](https://github.com/BecauseImBatman0/VanGogh) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.09499)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://becauseimbatman0.github.io/VanGogh)
 
-
-+ [PhysAnimator: Physics-Guided Generative Cartoon Animation](https://arxiv.org/pdf/2501.16550) (Feb., 2025) 
++ [PhysAnimator: Physics-Guided Generative Cartoon Animation](https://arxiv.org/pdf/2501.16550) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.16550)
