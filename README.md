@@ -248,6 +248,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers](https://arxiv.org/abs/2502.15894) (Feb., 2025)
++ [![Star](https://img.shields.io/github/stars/thu-ml/RIFLEx.svg?style=social&label=Star)](https://github.com/thu-ml/RIFLEx)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.15894)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://riflex-video.github.io/)
+
+
 + [DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation](https://arxiv.org/abs/2502.11897) (Feb., 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11897)
 
