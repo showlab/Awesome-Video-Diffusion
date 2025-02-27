@@ -220,6 +220,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Commercial Product
 
++ [Veo 2](https://sora.com/) ([Google](https://deepmind.google/technologies/veo/veo-2/))  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://deepmind.google/technologies/veo/veo-2/)
+
 + [Kling](https://klingai.com/?gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjMtrwX5RsW6xQvRSSg05fn1bA8wo9-AJiAKTIr-IkZnewbLXpCM44RoCkrsQAvD_BwE) ([KuaiShou](https://www.kuaishou.com/en))  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://klingai.com/?gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjMtrwX5RsW6xQvRSSg05fn1bA8wo9-AJiAKTIr-IkZnewbLXpCM44RoCkrsQAvD_BwE)
 
