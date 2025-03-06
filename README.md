@@ -1407,6 +1407,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04698)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yuzhou914.github.io/ConceptMaster/)
 
++ [VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models](https://arxiv.org/pdf/2412.19645) (Dec., 2024)  
+  [![Star](https://img.shields.io/github/stars/WuTao-CS/VideoMaker.svg?style=social&label=Star)](https://github.com/WuTao-CS/VideoMaker)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.19645)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wutao-cs.github.io/VideoMaker/)
+
 + [PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation](https://arxiv.org/pdf/2411.17048) (Nov., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.17048)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://personalvideo.github.io/)
@@ -1414,6 +1419,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control](https://arxiv.org/abs/2410.13830) (Oct., 2024)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13830)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo2.github.io/)
+
++ [CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities](https://arxiv.org/abs/2408.13239) (Aug., 2024)      
+  [![Star](https://img.shields.io/github/stars/WuTao-CS/CustomCrafter.svg?style=social&label=Star)](https://github.com/WuTao-CS/CustomCrafter)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13239)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://customcrafter.github.io/)
 
 ### Motion Customization
 
