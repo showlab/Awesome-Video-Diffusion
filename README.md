@@ -138,6 +138,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Evaluation Benchmarks and Metrics
 
++ [Impossible Videos](https://arxiv.org/abs/2503.14378) (Jan., 2025)  
+  [![Star](https://img.shields.io/github/stars/mohammadasim98/MEt3R.svg?style=social&label=Star)](https://github.com/showlab/Impossible-Videos)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14378)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Impossible-Videos/)
+  
 + [MEt3R: Measuring Multi-View Consistency in Generated Images](https://geometric-rl.mpi-inf.mpg.de/met3r/static/assets/met3r.pdf) (Jan., 2025)  
   [![Star](https://img.shields.io/github/stars/mohammadasim98/MEt3R.svg?style=social&label=Star)](https://github.com/mohammadasim98/MEt3R)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://geometric-rl.mpi-inf.mpg.de/met3r/static/assets/met3r.pdf)
