@@ -1884,6 +1884,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Editing 
 
++ [MTV-Inpaint: Multi-Task Long Video Inpainting](https://arxiv.org/abs/2503.11412) (Mar., 2025)      
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11412)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mtv-inpaint.github.io/)
+
 + [Señorita-2M : A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists](https://arxiv.org/abs/2502.06734) (Mar., 2025)      
   [![Star](https://img.shields.io/github/stars/zibojia/SENORITA.svg?style=social&label=Star)](https://github.com/zibojia/SENORITA) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06734)
