@@ -138,7 +138,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Evaluation Benchmarks and Metrics
 
-+ [Impossible Videos](https://arxiv.org/abs/2503.14378) (Jan., 2025)  
++ [Impossible Videos](https://arxiv.org/abs/2503.14378) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/showlab/Impossible-Videos.svg?style=social&label=Star)](https://github.com/showlab/Impossible-Videos)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14378)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Impossible-Videos/)
@@ -242,6 +242,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [Temporal Regularization Makes Your Video Generator Stronger](https://arxiv.org/abs/2503.15417) (Mar., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.15417)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://haroldchen19.github.io/FluxFlow/)
+
+  
 + [VACE: All-in-One Video Creation and Editing](https://arxiv.org/pdf/2503.07598) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/ali-vilab/VACE.svg?style=social&label=Star)](https://github.com/ali-vilab/VACE)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.07598)
@@ -1073,6 +1078,13 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02367)
 
 ### Controllable Video Generation
+
+
++ [MusicInfuser: Making Video Diffusion Listen and Dance](https://arxiv.org/abs/2503.14505) (Mar., 2025)  
+  [![Star](https://img.shields.io/github/stars/SusungHong/MusicInfuser.svg?style=social&label=Star)](https://github.com/SusungHong/MusicInfuser)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14505)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://susunghong.github.io/MusicInfuser)
+  
 
 + [ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](https://arxiv.org/abs/2503.11647) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/KwaiVGI/ReCamMaster.svg?style=social&label=Star)](https://github.com/KwaiVGI/ReCamMaster)
