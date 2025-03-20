@@ -1918,7 +1918,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://senorita-2m-dataset.github.io/)
 
 
-+ [VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing](https://arxiv.org/abs/2502.17258) (Feb., 2025)      
++ [VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing](https://arxiv.org/abs/2502.17258) (Feb., 2025 | ICLR 2025)    
   [![Star](https://img.shields.io/github/stars/knightyxp/VideoGrain.svg?style=social&label=Star)](https://github.com/knightyxp/VideoGrain) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17258)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://knightyxp.github.io/VideoGrain_project_page/)
