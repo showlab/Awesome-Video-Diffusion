@@ -1397,6 +1397,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Character Customization
 
++ [Concat-ID: Towards Universal Identity-Preserving Video Synthesis](https://arxiv.org/abs/2503.14151) (Mar., 2025)
+  [![Star](https://img.shields.io/github/stars/showlab/MotionDirector.svg?style=social&label=Star)](https://github.com/ML-GSAI/Concat-ID)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14151)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ml-gsai.github.io/Concat-ID-demo/)
+
 + [CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance](https://arxiv.org/abs/2503.10391) (Mar., 2025)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10391)
 
