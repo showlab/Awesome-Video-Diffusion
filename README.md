@@ -1414,6 +1414,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Character Customization
 
++ [MagicID: Hybrid Preference Optimization for ID-Consistent and Dynamic-Preserved Video Customization](https://arxiv.org/abs/2503.12689) (Mar., 2025)  
+  [![Star](https://img.shields.io/github/stars/EchoPluto/MagicID.svg?style=social&label=Star)](https://github.com/EchoPluto/MagicID)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.12689)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://echopluto.github.io/MagicID-project/)
+  
+
 + [Concat-ID: Towards Universal Identity-Preserving Video Synthesis](https://arxiv.org/abs/2503.14151) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/ML-GSAI/Concat-ID.svg?style=social&label=Star)](https://github.com/ML-GSAI/Concat-ID)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14151)
