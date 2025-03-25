@@ -242,6 +242,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation](https://arxiv.org/abs/2503.14428) (Mar., 2025)  
+  [![Star](https://img.shields.io/github/stars/Hong-yu-Zhang/MagicComp.svg?style=social&label=Star)](https://github.com/Hong-yu-Zhang/MagicComp)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.14428)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hong-yu-zhang.github.io/MagicComp-Page/)
+  
 + [Video-T1: Test-Time Scaling for Video Generation](https://arxiv.org/abs/2503.18942) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/liuff19/Video-T1.svg?style=social&label=Star)](https://github.com/liuff19/Video-T1)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.18942)
