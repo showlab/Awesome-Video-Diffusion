@@ -242,6 +242,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [Target-Aware Video Diffusion Models](https://arxiv.org/abs/2503.18950) (Mar., 2025)  
+  [![Star](https://img.shields.io/github/stars/taeksuu/tavid.svg?style=social&label=Star)](https://github.com/taeksuu/tavid)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18950)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://taeksuu.github.io/tavid/)
+
+
 + [MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation](https://arxiv.org/abs/2503.14428) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/Hong-yu-Zhang/MagicComp.svg?style=social&label=Star)](https://github.com/Hong-yu-Zhang/MagicComp)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.14428)
@@ -1088,6 +1094,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02367)
 
 ### Controllable Video Generation
+
++ [HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation](https://arxiv.org/pdf/2503.18860) (Mar., 2025)  
+  [![Star](https://img.shields.io/github/stars/kkakkkka/HunyuanPortrait.svg?style=social&label=Star)](https://github.com/kkakkkka/HunyuanPortrait)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.18860)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kkakkkka.github.io/HunyuanPortrait/)
+
 
 + [Enabling Versatile Controls for Video Diffusion Models](https://arxiv.org/abs/2503.16983) (Mar., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.16421)
@@ -2883,6 +2895,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://abolfazl-sh.github.io/Scene_co-pilot_site/)
 
 ### Open-World Model
+
++ [Aether: Geometric-Aware Unified World Modeling](https://arxiv.org/pdf/2503.18945) (Mar., 2025)  
+  [![Star](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Star)](https://github.com/OpenRobotLab/Aether) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.18945)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://aether-world.github.io/#team)
+
 
 + [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07825)
