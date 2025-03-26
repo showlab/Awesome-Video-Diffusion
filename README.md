@@ -1657,6 +1657,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Long Video / Film Generation
 
++ [Long-Context Autoregressive Video Modeling with Next-Frame Prediction](https://arxiv.org/abs/2503.19325) (Mar., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19325)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://farlongctx.github.io/)
+  [![Star](https://img.shields.io/github/stars/showlab/FAR.svg?style=social&label=Star)](https://github.com/showlab/FAR)
+
+  
 + [MovieAgent: Automated Movie Generation via Multi-Agent CoT Planning](https://arxiv.org/abs/2503.07314) (Mar., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.07314)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/MovieAgent/)
