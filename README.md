@@ -1657,6 +1657,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Long Video / Film Generation
 
++ [MovieAgent: Automated Movie Generation via Multi-Agent CoT Planning](https://arxiv.org/abs/2503.07314) (Mar., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.07314)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/MovieAgent/)
+  [![Star](https://img.shields.io/github/stars/showlab/MovieAgent.svg?style=social&label=Star)](https://github.com/showlab/MovieAgent)
+
+
 + [Long Context Tuning for Video Generation](https://arxiv.org/pdf/2503.10589) (Mar., 2025)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.10589) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://guoyww.github.io/projects/long-context-video/)
@@ -1724,7 +1730,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/ConsisID/) 
   [![Dataset](https://img.shields.io/badge/Dataset-e97451)](https://huggingface.co/datasets/BestWishYsh/ConsisID-preview-Data)
 
-+ [MovieBench: A Hierarchical Movie Level Dataset for Long Video Generation](https://arxiv.org/abs/2411.15262) (Nov., 2024)  
++ [MovieBench: A Hierarchical Movie Level Dataset for Long Video Generation](https://arxiv.org/abs/2411.15262) (CVPR 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15262)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/MovieBench/)
   [![Star](https://img.shields.io/github/stars/showlab/MovieBecnh.svg?style=social&label=Star)](https://github.com/showlab/MovieBecnh)
