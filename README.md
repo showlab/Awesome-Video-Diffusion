@@ -1895,6 +1895,13 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation with 3D/Physical Prior
 
++ [SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction](https://arxiv.org/abs/2503.18933) (CVPR 2025)
+
+  [![Star](https://img.shields.io/github/stars/PallottaEnrico/SyncVP.svg?style=social&label=Star)](https://github.com/PallottaEnrico/SyncVP)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18933) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://syncvp.github.io/)
+
+
 + [DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models](https://arxiv.org/abs/2501.18590) (Feb, 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.18590)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/DiffusionRenderer/)
