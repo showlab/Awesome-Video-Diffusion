@@ -135,7 +135,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Diffusers (Text-to-video synthesis)](https://huggingface.co/docs/diffusers/main/en/api/pipelines/text_to_video#texttovideo-synthesis)  
   [![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social&label=Star)](https://github.com/huggingface/diffusers)
 
-
++ [Wunjo CE (Video Generation and Editing)](https://github.com/wladradchenko/wunjo.wladradchenko.ru)  
+  [![Star](https://img.shields.io/github/stars/wladradchenko/wunjo.wladradchenko.ru.svg?style=social&label=Star)](https://github.com/wladradchenko/wunjo.wladradchenko.ru)
+  
 ### Evaluation Benchmarks and Metrics
 
 + [VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness](https://arxiv.org/abs/2503.21755) (Mar., 2025)  
@@ -245,6 +247,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 + [Sora](https://sora.com/) ([Open AI](https://openai.com/))  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sora.com/)
+
++ [Wunjo](https://wunjo.online/) ([WR](https://wladradchenko.ru/en#products))  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wunjo.online/)
 
 ### Video Generation
 
