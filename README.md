@@ -1876,7 +1876,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 + [SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction](https://arxiv.org/abs/2503.18933) (CVPR 2025)
 
-  [![Star](https://img.shields.io/github/stars/PallottaEnrico/SyncVP.svg?style=social&label=Star)](https://github.com/PallottaEnrico/SyncVP) 
+  [![Star](https://img.shields.io/github/stars/PallottaEnrico/SyncVP.svg?style=social&label=Star)](https://github.com/PallottaEnrico/SyncVP)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18933) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://syncvp.github.io/)
 
