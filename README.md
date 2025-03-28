@@ -138,6 +138,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Evaluation Benchmarks and Metrics
 
++ [VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness](https://arxiv.org/abs/2503.21755) (Mar., 2025)  
+  [![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/Vchitect/VBench)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21755)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VBench-2.0-project/)
+
+
 + [Impossible Videos](https://arxiv.org/abs/2503.14378) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/showlab/Impossible-Videos.svg?style=social&label=Star)](https://github.com/showlab/Impossible-Videos)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14378)
@@ -241,6 +247,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sora.com/)
 
 ### Video Generation
+
++ [Aligning Text-to-Video Generation Models with Prompt Optimization](https://arxiv.org/abs/2503.20491) (Mar., 2025)  
+  [![Star](https://img.shields.io/github/stars/thu-coai/VPO.svg?style=social&label=Star)](https://github.com/thu-coai/VPO/tree/main)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20491)
 
 + [Target-Aware Video Diffusion Models](https://arxiv.org/abs/2503.18950) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/taeksuu/tavid.svg?style=social&label=Star)](https://github.com/taeksuu/tavid)
@@ -1095,6 +1105,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation](https://arxiv.org/abs/2503.21246) (Mar., 2025)  
+  [![Star](https://img.shields.io/github/stars/gulucaptain/DynamiCtrl.svg?style=social&label=Star)](https://github.com/gulucaptain/DynamiCtrl)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21246)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gulucaptain.github.io/DynamiCtrl/)
+
+
 + [HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation](https://arxiv.org/pdf/2503.18860) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/kkakkkka/HunyuanPortrait.svg?style=social&label=Star)](https://github.com/kkakkkka/HunyuanPortrait)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.18860)
@@ -1439,6 +1455,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/motionclone.github.io/)
 
 ### Character Customization
+
++ [VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models](https://arxiv.org/abs/2503.21781) (Mar., 2025) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21781)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jasper0314-huang.github.io/videomage-customization/)
+
 
 + [MagicID: Hybrid Preference Optimization for ID-Consistent and Dynamic-Preserved Video Customization](https://arxiv.org/abs/2503.12689) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/EchoPluto/MagicID.svg?style=social&label=Star)](https://github.com/EchoPluto/MagicID)
