@@ -1110,7 +1110,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
-+ [Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation](https://arxiv.org/abs/2503.24379) (Mar., 2025)  
++ [Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation](https://arxiv.org/abs/2503.24379) (Apr., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.24379)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sqwu.top/Any2Cap/)
   
@@ -2891,6 +2891,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### 4D
 
++ [AvatarArtist: Open-Domain 4D Avatarization](https://arxiv.org/abs/2503.19906) (Apr., 2025)   
+  [![Star](https://img.shields.io/github/stars/ant-research/AvatarArtist.github.io.svg?style=social&label=Star)](https://github.com/ant-research/AvatarArtist)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19906)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kumapowerliu.github.io/AvatarArtist/)
+  
 + [Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features](https://arxiv.org/abs/2502.08377) (Feb., 2025)   
   [![Star](https://img.shields.io/github/stars/paintscene4d/paintscene4d.github.io.svg?style=social&label=Star)](https://github.com/paintscene4d/paintscene4d.github.io)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08377)
