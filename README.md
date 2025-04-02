@@ -2601,6 +2601,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Talking Head Generation
 
++ [MoCha: Towards Movie-Grade Talking Character Synthesis](https://arxiv.org/abs/2503.23307) (Apr., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.23307) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://congwei1230.github.io/MoCha/)
+  
 + [SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion](https://arxiv.org/pdf/2502.11515) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.11515) 
 
