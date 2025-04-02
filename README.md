@@ -1110,6 +1110,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation](https://arxiv.org/abs/2503.24379) (Mar., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.24379)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sqwu.top/Any2Cap/)
+  
 + [Reangle-A-Video: 4D Video Generation as Video-to-Video Translation](https://arxiv.org/abs/2503.09151) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/HyeonHo99/Reangle-Video.svg?style=social&label=Star)](https://github.com/HyeonHo99/Reangle-Video)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09151)
