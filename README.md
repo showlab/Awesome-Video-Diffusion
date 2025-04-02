@@ -1109,7 +1109,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02367)
 
 ### Controllable Video Generation
-
+  
++ [SketchVideo: Sketch-based Video Generation and Editing](https://arxiv.org/abs/2503.23284) (Mar., 2025)  
+  [![Star](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Star)](https://github.com/IGLICT/SketchVideo)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.23284)
+  [![Website](https://img.shields.io/badge/Website-9cf)](http://geometrylearning.com/SketchVideo/)
+  
 + [Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation](https://arxiv.org/abs/2503.24379) (Apr., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.24379)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sqwu.top/Any2Cap/)
