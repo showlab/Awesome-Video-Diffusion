@@ -1702,6 +1702,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Long Video / Film Generation
 
++ [One-Minute Video Generation with Test-Time Training](https://arxiv.org/abs/2504.05298) (Apr., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05298)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://test-time-training.github.io/video-dit/)
+  [![Star](https://img.shields.io/github/stars/test-time-training/ttt-video-dit.svg?style=social&label=Star)](https://github.com/test-time-training/ttt-video-dit)
+
+  
 + [Long-Context Autoregressive Video Modeling with Next-Frame Prediction](https://arxiv.org/abs/2503.19325) (Mar., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19325)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://farlongctx.github.io/)
