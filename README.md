@@ -1110,6 +1110,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://kszpxxzmc.github.io/GenDoP/) (Apr., 2025)  
+  [![Star](https://img.shields.io/github/stars/3DTopia/GenDoP.svg?style=social&label=Star)](https://github.com/3DTopia/GenDoP)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.07083)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kszpxxzmc.github.io/GenDoP/)
+
+
 + [Beyond Static Scenes: Camera-controllable Background Generation for Human Motion](https://yaomingshuai.github.io/Beyond-Static-Scenes.github.io/) (Apr., 2025)  
   [![Star](https://img.shields.io/github/stars/Yaomingshuai/Beyond-Static-Scenes.svg?style=social&label=Star)](https://github.com/Yaomingshuai/Beyond-Static-Scenes)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02004)
@@ -2014,6 +2020,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Editing 
 
++ [VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation](https://arxiv.org/abs/2503.14350) (Apr., 2025)      
+  [![Star](https://img.shields.io/github/stars/Yui010206/VEGGIE-VidEdit.svg?style=social&label=Star)](https://github.com/Yui010206/VEGGIE-VidEdit/) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06734)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://veggie-gen.github.io/)
+
+
 + [MTV-Inpaint: Multi-Task Long Video Inpainting](https://arxiv.org/abs/2503.11412) (Mar., 2025)      
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11412)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mtv-inpaint.github.io/)
@@ -2611,6 +2623,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19589)
 
 ### Talking Head Generation
+
 
 + [OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication](https://humanaigc.github.io/omnitalker/) (Apr., 2025) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02433v1)
