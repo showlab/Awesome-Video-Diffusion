@@ -253,6 +253,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model](https://seaweed.video/seaweed.pdf) (Apr., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.08685)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://seaweed.video/)
+
 + [Aligning Text-to-Video Generation Models with Prompt Optimization](https://arxiv.org/abs/2503.20491) (Mar., 2025)  
   [![Star](https://img.shields.io/github/stars/thu-coai/VPO.svg?style=social&label=Star)](https://github.com/thu-coai/VPO/tree/main)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20491)
