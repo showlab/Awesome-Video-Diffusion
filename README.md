@@ -1564,6 +1564,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Motion Customization
 
++ [Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization](https://arxiv.org/pdf/2504.08641) (Apr., 2025)  
+  [![Star](https://img.shields.io/github/stars/jialuli-luka/Video-MSG.svg?style=social&label=Star)](https://github.com/jialuli-luka/Video-MSG)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.08641)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://video-msg.github.io/)
+
 + [Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models](https://arxiv.org/abs/2501.16714) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.16714)
 
