@@ -3013,6 +3013,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-World Model
 
++ [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/pdf/2504.12369) (Apr., 2025)  
+  [![Star](https://img.shields.io/github/stars/xizaoqu/WorldMem.svg?style=social&label=Star)](https://github.com/xizaoqu/WorldMem) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.12369)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/)
+  
 + [MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft](https://arxiv.org/pdf/2504.08388) (Apr., 2025)  
   [![Star](https://img.shields.io/github/stars/microsoft/MineWorld.svg?style=social&label=Star)](https://github.com/microsoft/MineWorld) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.08388)
