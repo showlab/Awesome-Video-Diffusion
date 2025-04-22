@@ -253,6 +253,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation](https://arxiv.org/abs/2504.14396) (Apr., 2025)  
+  [![Star](https://img.shields.io/github/stars/pmh9960/SphereDiff.svg?style=social&label=Star)](https://github.com/pmh9960/SphereDiff)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.14396)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pmh9960.github.io/research/SphereDiff/)
+  
 + [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/pack.pdf) (Apr., 2025)  
   [![Star](https://img.shields.io/github/stars/lllyasviel/FramePack.svg?style=social&label=Star)](https://github.com/lllyasviel/FramePack)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.08685)
