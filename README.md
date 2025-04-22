@@ -253,6 +253,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [MAGI-1: Autoregressive Video Generation at Scale](https://static.magi.world/static/files/MAGI_1.pdf) (Apr., 2025)  
+  [![Star](https://img.shields.io/github/stars/SandAI-org/Magi-1.svg?style=social&label=Star)](https://github.com/SandAI-org/Magi-1)
+  [![PDF](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://static.magi.world/static/files/MAGI_1.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](SandAI-org/Magi-1)
+
 + [SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation](https://arxiv.org/abs/2504.14396) (Apr., 2025)  
   [![Star](https://img.shields.io/github/stars/pmh9960/SphereDiff.svg?style=social&label=Star)](https://github.com/pmh9960/SphereDiff)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.14396)
