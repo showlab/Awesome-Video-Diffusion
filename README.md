@@ -252,6 +252,9 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wunjo.online/)
 
 ### Video Generation
++ [Turbo2K: Towards Ultra-Efficient and High-Quality 2K Video Synthesis](https://jingjingrenabc.github.io/turbo2k/) (Apr., 2025)  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jingjingrenabc.github.io/turbo2k/)
+
 
 + [MAGI-1: Autoregressive Video Generation at Scale](https://static.magi.world/static/files/MAGI_1.pdf) (Apr., 2025)  
   [![Star](https://img.shields.io/github/stars/SandAI-org/Magi-1.svg?style=social&label=Star)](https://github.com/SandAI-org/Magi-1)
@@ -1134,6 +1137,23 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02367)
 
 ### Controllable Video Generation
+
++ [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://arxiv.org/abs/2504.07083) (Apr., 2025)  
+  [![Star](https://img.shields.io/github/stars/3DTopia/GenDoP.svg?style=social&label=Star)](https://github.com/3DTopia/GenDoP)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.07083)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kszpxxzmc.github.io/GenDoP/)
+
+
++ [OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding](https://tele-ai.github.io/OmniVDiff/) (Apr., 2025)  
+  [![Star](https://img.shields.io/github/stars/Tele-AI/OmniVDiff.svg?style=social&label=Star)](https://github.com/Tele-AI/OmniVDiff)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.10825)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tele-ai.github.io/OmniVDiff/)
+
+
++ [UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer](https://kszpxxzmc.github.io/GenDoP/) (Apr., 2025)  
+  [![Star](https://img.shields.io/github/stars/ali-vilab/UniAnimate-DiT.svg?style=social&label=Star)](https://github.com/ali-vilab/UniAnimate-DiT)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11289)
+
 
 + [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://kszpxxzmc.github.io/GenDoP/) (Apr., 2025)  
   [![Star](https://img.shields.io/github/stars/3DTopia/GenDoP.svg?style=social&label=Star)](https://github.com/3DTopia/GenDoP)
@@ -2964,6 +2984,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sirwyver.github.io/DiffRF/)
 
 ### 4D
+
++ [Vivid4D: Improving 4D Reconstruction from Monocular Video by Video Inpainting](https://arxiv.org/abs/2504.11092) (Apr., 2025)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11092)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xdimlab.github.io/Vivid4D/)
+
 
 + [AvatarArtist: Open-Domain 4D Avatarization](https://arxiv.org/abs/2503.19906) (Apr., 2025)   
   [![Star](https://img.shields.io/github/stars/ant-research/AvatarArtist.github.io.svg?style=social&label=Star)](https://github.com/ant-research/AvatarArtist)
