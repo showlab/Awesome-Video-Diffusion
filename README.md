@@ -1986,6 +1986,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation with 3D/Physical Prior
 
+
++ ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction](https://arxiv.org/abs/2504.21855) (Apr, 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.21855)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://revision-video.github.io/)
+
+
 + [SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction](https://arxiv.org/abs/2503.18933) (CVPR 2025)
 
   [![Star](https://img.shields.io/github/stars/PallottaEnrico/SyncVP.svg?style=social&label=Star)](https://github.com/PallottaEnrico/SyncVP)
