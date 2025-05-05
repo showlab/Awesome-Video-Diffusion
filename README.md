@@ -252,6 +252,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wunjo.online/)
 
 ### Video Generation
+
++ [ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction](https://arxiv.org/abs/2504.21855) (Apr., 2025)  
+  [![PDF](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.21855)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://revision-video.github.io/)
+
+
 + [Turbo2K: Towards Ultra-Efficient and High-Quality 2K Video Synthesis](https://jingjingrenabc.github.io/turbo2k/) (Apr., 2025)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jingjingrenabc.github.io/turbo2k/)
 
@@ -2686,6 +2692,17 @@ A curated list of recent diffusion models for video generation, editing, restora
 ### Talking Head Generation
 
 
++ [IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos](https://y-u-a-n-l-i.github.io/projects/IM-Portrait/) (May, 2025) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19165)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://y-u-a-n-l-i.github.io/projects/IM-Portrait/)
+
+
++ [KeySync: A Robust Approach for Leakage-free Lip Synchronization in High Resolution](https://antonibigata.github.io/KeySync/) (May, 2025) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00497)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://antonibigata.github.io/KeySync/)
+  [![Star](https://img.shields.io/github/stars/antonibigata/keysync.svg?style=social)](https://github.com/antonibigata/keysync) 
+
+
 + [OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication](https://humanaigc.github.io/omnitalker/) (Apr., 2025) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02433v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/omnitalker/)
@@ -2995,6 +3012,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sirwyver.github.io/DiffRF/)
 
 ### 4D
+
++ [Taming Video Diffusion Models for Panoramic 4D Scene Generation](https://arxiv.org/abs/2504.21650) (May, 2025)   
+  [![Star](https://img.shields.io/github/stars/ant-research/AvatarArtist.github.io.svg?style=social&label=Star)](https://zhouhyocean.github.io/holotime/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.21650)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zhouhyocean.github.io/holotime/)
+
 
 + [Vivid4D: Improving 4D Reconstruction from Monocular Video by Video Inpainting](https://arxiv.org/abs/2504.11092) (Apr., 2025)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11092)
