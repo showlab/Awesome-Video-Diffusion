@@ -1543,6 +1543,13 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Character Customization
 
+
++ [HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation](https://arxiv.org/abs/2505.04512) (May., 2025)  
+  [![Star](https://img.shields.io/github/stars/Tencent/HunyuanCustom.svg?style=social&label=Star)](https://github.com/Tencent/HunyuanCustom)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.04512)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hunyuancustom.github.io/)
+
+  
 + [VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models](https://arxiv.org/abs/2503.21781) (Mar., 2025) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21781)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jasper0314-huang.github.io/videomage-customization/)
