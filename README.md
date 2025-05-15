@@ -3038,13 +3038,13 @@ A curated list of recent diffusion models for video generation, editing, restora
 ### 4D
 
 + [Taming Video Diffusion Models for Panoramic 4D Scene Generation](https://arxiv.org/abs/2504.21650) (May, 2025)   
-  [![Star](https://img.shields.io/github/stars/ant-research/AvatarArtist.github.io.svg?style=social&label=Star)](https://zhouhyocean.github.io/holotime/)
+  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/HoloTime.svg?style=social&label=Star)](https://zhouhyocean.github.io/holotime/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.21650)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zhouhyocean.github.io/holotime/)
 
 
 + [In-2-4D: Inbetweening from Two Single-View Images to 4D Generation](https://arxiv.org/abs/2504.08366) (Apr, 2025)   
-  [![Star](https://img.shields.io/github/stars/sauradip/In-2-4D.github.io.svg?style=social&label=Star)](https://github.com/sauradip/In-2-4D)
+  [![Star](https://img.shields.io/github/stars/sauradip/In-2-4D.svg?style=social&label=Star)](https://github.com/sauradip/In-2-4D)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]()
   [![Website](https://img.shields.io/badge/Website-9cf)](https://in-2-4d.github.io/)
   
@@ -3055,7 +3055,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 
 + [AvatarArtist: Open-Domain 4D Avatarization](https://arxiv.org/abs/2503.19906) (Apr., 2025)   
-  [![Star](https://img.shields.io/github/stars/ant-research/AvatarArtist.github.io.svg?style=social&label=Star)](https://github.com/ant-research/AvatarArtist)
+  [![Star](https://img.shields.io/github/stars/ant-research/AvatarArtist.svg?style=social&label=Star)](https://github.com/ant-research/AvatarArtist)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19906)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://kumapowerliu.github.io/AvatarArtist/)
   
