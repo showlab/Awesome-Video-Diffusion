@@ -3146,6 +3146,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-World Model
 
++ [Vid2World: Crafting Video Diffusion Models to Interactive World Models](https://arxiv.org/abs/2505.14357) (May., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.14357)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://knightnemo.github.io/vid2world/)
+  
 + [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/pdf/2504.12369) (Apr., 2025)  
   [![Star](https://img.shields.io/github/stars/xizaoqu/WorldMem.svg?style=social&label=Star)](https://github.com/xizaoqu/WorldMem) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.12369)
