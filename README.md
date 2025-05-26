@@ -2474,6 +2474,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Human or Subject Motion 
 
++ [MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation](https://arxiv.org/abs/2505.10238) (May., 2025)  
+  [![Star](https://img.shields.io/github/stars/DINGYANB/MTVCrafter.svg?style=social)](https://github.com/DINGYANB/MTVCrafter) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10238) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://dingyanb.github.io/MTVCtafter/)
+
 + [AnyTop: Character Animation Diffusion with Any Topology](https://arxiv.org/abs/2502.17327) (Feb., 2025)  
   [![Star](https://img.shields.io/github/stars/Anytop2025/Anytop.svg?style=social)](https://github.com/Anytop2025/Anytop) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17327) 
