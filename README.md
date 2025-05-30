@@ -36,7 +36,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Video Enhancement and Restoration](#video-enhancement-and-restoration)
 - [Audio Synthesis for Video](#audio-synthesis-for-video)
 - [Talking Head Generation](#talking-head-generation)
-- [Human/AI Feedback for Video Generation](#humanai-feedback-for-video-generation)
+- [Human/AI Feedback for Video Generation](#human/ai-feedback-for-video-generation)
 - [Policy Learning](#policy-learning)
 - [Virtual Try-On](#virtual-try-on)
 - [3D](#3d)
