@@ -1663,6 +1663,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.21491)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://uva-computer-vision-lab.github.io/Frame-In-N-Out/)
 
++ [MotionPro: A Precise Motion Controller for Image-to-Video Generation](https://arxiv.org/abs/2505.20287) (May, 2025 | CVPR 2025)  
+  [![Star](https://img.shields.io/github/stars/HiDream-ai/MotionPro.svg?style=social&label=Star)](https://github.com/HiDream-ai/MotionPro)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20287)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zhw-zhang.github.io/MotionPro-page/)
+
 + [LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer](https://arxiv.org/abs/2505.14167) (May, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.14167)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vpx-ecnu.github.io/LMP-Website/)
