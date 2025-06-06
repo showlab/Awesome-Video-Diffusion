@@ -3343,6 +3343,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Healthcare and Biology
 
++ [FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation](https://arxiv.org/abs/2506.04956) (Jun., 2025)   
+  [![Star](https://img.shields.io/github/stars/Yaziwel/FEAT.svg?style=social&label=Star)](https://github.com/Yaziwel/FEAT) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.11943)
+  
 + [Medical Video Generation for Disease Progression Simulation](https://arxiv.org/abs/2411.11943) (Nov., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.11943)
 
