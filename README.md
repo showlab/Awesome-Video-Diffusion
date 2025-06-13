@@ -2182,6 +2182,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Editing 
 
++ [LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning](https://arxiv.org/abs/2506.10082) (Jun, 2025)    
+  [![Star](https://img.shields.io/github/stars/cjeen/LoRAEdit.svg?style=social&label=Star)](https://github.com/cjeen/LoRAEdit) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10082)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://cjeen.github.io/LoraEditPaper/)
+  
 + [VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control](https://arxiv.org/abs/2503.05639) (May, 2025 | SIGGRAPH 2025)    
   [![Star](https://img.shields.io/github/stars/TencentARC/VideoPainter.svg?style=social&label=Star)](https://github.com/TencentARC/VideoPainter) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05639)
