@@ -2182,6 +2182,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Editing 
 
++ [MiniMax-Remover: Taming Bad Noise Helps Video Object Removal](https://arxiv.org/abs/2505.24873) (May, 2025)    
+  [![Star](https://img.shields.io/github/stars/zibojia/MiniMax-Remover.svg?style=social&label=Star)](https://github.com/zibojia/MiniMax-Remover) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.24873)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://minimax-remover.github.io/)
+
+
 + [LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning](https://arxiv.org/abs/2506.10082) (Jun, 2025)    
   [![Star](https://img.shields.io/github/stars/cjeen/LoRAEdit.svg?style=social&label=Star)](https://github.com/cjeen/LoRAEdit) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10082)
