@@ -2087,6 +2087,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation with 3D/Physical Prior
 
++ [Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals](https://arxiv.org/abs/2505.19386) (May, 2025)  
+  [![Star](https://img.shields.io/github/stars/brown-palm/force-prompting.svg?style=social&label=Star)](https://github.com/brown-palm/force-prompting)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.19386)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://force-prompting.github.io/)
 
 + ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction](https://arxiv.org/abs/2504.21855) (Apr, 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.21855)
