@@ -1851,6 +1851,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Long Video / Film Generation
 
+  
 + [AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation](https://arxiv.org/abs/2506.03126) (Jun., 2025)    
   [![Star](https://img.shields.io/github/stars/qiulu66/Anime-Shooter.svg?style=social&label=Star)](https://github.com/qiulu66/Anime-Shooter) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.03126)
@@ -1868,8 +1869,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05298)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://test-time-training.github.io/video-dit/)
   [![Star](https://img.shields.io/github/stars/test-time-training/ttt-video-dit.svg?style=social&label=Star)](https://github.com/test-time-training/ttt-video-dit)
-
   
++ [Mask²DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation](https://arxiv.org/2503.19881) (Mar., 2025 | CVPR 2025)    
+  [![Star](https://img.shields.io/github/stars/Tianhao-Qi/Mask2DiT.svg?style=social&label=Star)](https://github.com/Tianhao-Qi/Mask2DiT) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19881)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tianhao-qi.github.io/Mask2DiTProject/)
+
 + [Long-Context Autoregressive Video Modeling with Next-Frame Prediction](https://arxiv.org/abs/2503.19325) (Mar., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19325)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://farlongctx.github.io/)
