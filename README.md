@@ -51,6 +51,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-source Toolboxes and Foundation Models 
 
++ [LightX2V: Light Video Generation Inference Framework](https://github.com/ModelTC/lightx2v)  
+  [![Star](https://img.shields.io/github/stars/ModelTC/lightx2v.svg?style=social&label=Star)](https://github.com/ModelTC/lightx2v)
+
 + [Wan-Video](https://github.com/Wan-Video/Wan2.1)  
   [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan2.1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wanxai.com/)
