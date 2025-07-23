@@ -3166,22 +3166,24 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### 4D
 
++ [Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models](https://arxiv.org/abs/2507.13344) (July, 2025)
+  [![Star](https://img.shields.io/github/stars/zju3dv/Diffuman4D.svg?style=social&label=Star)](https://github.com/zju3dv/Diffuman4D)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.13344)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://diffuman4d.github.io/)
+
 + [Taming Video Diffusion Models for Panoramic 4D Scene Generation](https://arxiv.org/abs/2504.21650) (May, 2025)   
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/HoloTime.svg?style=social&label=Star)](https://zhouhyocean.github.io/holotime/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.21650)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zhouhyocean.github.io/holotime/)
-
 
 + [In-2-4D: Inbetweening from Two Single-View Images to 4D Generation](https://arxiv.org/abs/2504.08366) (Apr, 2025)   
   [![Star](https://img.shields.io/github/stars/sauradip/In-2-4D.svg?style=social&label=Star)](https://github.com/sauradip/In-2-4D)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]()
   [![Website](https://img.shields.io/badge/Website-9cf)](https://in-2-4d.github.io/)
   
-
 + [Vivid4D: Improving 4D Reconstruction from Monocular Video by Video Inpainting](https://arxiv.org/abs/2504.11092) (Apr., 2025)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11092)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://xdimlab.github.io/Vivid4D/)
-
 
 + [AvatarArtist: Open-Domain 4D Avatarization](https://arxiv.org/abs/2503.19906) (Apr., 2025)   
   [![Star](https://img.shields.io/github/stars/ant-research/AvatarArtist.svg?style=social&label=Star)](https://github.com/ant-research/AvatarArtist)
