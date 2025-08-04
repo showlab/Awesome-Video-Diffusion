@@ -263,6 +263,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation
 
++ [PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation](https://arxiv.org/abs/2507.16116) (July., 2025)
+  [![Star](https://img.shields.io/github/stars/Yaofang-Liu/Pusa-VidGen.svg?style=social&label=Star)](https://github.com/Yaofang-Liu/Pusa-VidGen)  
+  [![PDF](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16116)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yaofang-liu.github.io/Pusa_Web/)
+
+
 + [LayerFlow : A Unified Model for Layer-aware Video Generation](https://arxiv.org/abs/2506.04228) (May., 2025)
   [![Star](https://img.shields.io/github/stars/dvlab-research/Jenga.svg?style=social&label=Star)](https://github.com/SihuiJi/LayerFlow)  
   [![PDF](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04228)
