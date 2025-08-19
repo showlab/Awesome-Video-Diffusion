@@ -50,6 +50,8 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Other Applications](#other-applications)
 
 ### Open-source Toolboxes and Foundation Models 
++ [FastVideo: A unified inference and post-training framework for accelerated video generation](https://github.com/hao-ai-lab/FastVideo)
+  [![Star](https://img.shields.io/github/stars/hao-ai-lab/FastVideo.svg?style=social&label=Star)](https://github.com/hao-ai-lab/FastVideo)
 
 + [LightX2V: Light Video Generation Inference Framework](https://github.com/ModelTC/lightx2v)  
   [![Star](https://img.shields.io/github/stars/ModelTC/lightx2v.svg?style=social&label=Star)](https://github.com/ModelTC/lightx2v)
