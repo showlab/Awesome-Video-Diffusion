@@ -50,6 +50,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Other Applications](#other-applications)
 
 ### Open-source Toolboxes and Foundation Models 
++ [Waver: Wave Your Way to Lifelike Video Generation](https://github.com/FoundationVision/Waver)
+  [![Star](https://img.shields.io/github/stars/FoundationVision/Waver.svg?style=social&label=Star)](https://github.com/FoundationVision/Waver)
+
 + [FastVideo: A unified inference and post-training framework for accelerated video generation](https://github.com/hao-ai-lab/FastVideo)
   [![Star](https://img.shields.io/github/stars/hao-ai-lab/FastVideo.svg?style=social&label=Star)](https://github.com/hao-ai-lab/FastVideo)
 
