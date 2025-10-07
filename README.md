@@ -48,6 +48,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Video Understanding](#video-understanding)
 - [Healthcare and Biology](#healthcare-and-biology)
 - [Other Applications](#other-applications)
+- [Code-rendered Video Generation](#code-rendered-video-generation)
 
 ### Open-source Toolboxes and Foundation Models 
 + [Waver: Wave Your Way to Lifelike Video Generation](https://github.com/FoundationVision/Waver)
@@ -3450,3 +3451,15 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 + [PhysAnimator: Physics-Guided Generative Cartoon Animation](https://arxiv.org/pdf/2501.16550) (Feb., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.16550)
+
+
+### Code-rendered Video Generation
++ [Code2Video: A Code-centric Paradigm for Educational Video Generation](https://showlab.github.io/Code2Video/) (Oct., 2025)  
+  [![Star](https://img.shields.io/github/stars/showlab/Code2Video.svg?style=social&label=Star)](https://github.com/showlab/Code2Video)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21755)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Code2Video/)
+
++ [Paper2Video: Automatic Video Generation from Scientific Papers](https://arxiv.org/abs/2503.14378) (Oct., 2025)  
+  [![Star](https://img.shields.io/github/stars/showlab/Paper2Video.svg?style=social&label=Star)](https://github.com/showlab/Paper2Video)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.05096)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Paper2Video/)
