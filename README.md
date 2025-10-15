@@ -1885,6 +1885,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Long Video / Film Generation
 
++ [Stable Video Infinity: Infinite-Length Video Generation with Error Recycling](https://arxiv.org/abs/2510.09212) (Oct., 2025)    
+  [![Star](https://img.shields.io/github/stars/vita-epfl/Stable-Video-Infinity.svg?style=social&label=Star)](https://github.com/vita-epfl/Stable-Video-Infinity) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09212)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://stable-video-infinity.github.io/homepage/)
   
 + [AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation](https://arxiv.org/abs/2506.03126) (Jun., 2025)    
   [![Star](https://img.shields.io/github/stars/qiulu66/Anime-Shooter.svg?style=social&label=Star)](https://github.com/qiulu66/Anime-Shooter) 
