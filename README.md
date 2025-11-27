@@ -1188,7 +1188,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02367)
 
 ### Controllable Video Generation
-
++ [EgoControl: Controllable Egocentric Video Generation via 3D Full-Body Poses](https://arxiv.org/abs/2511.18173) (Nov., 2025)
+  [![Star](https://img.shields.io/github/stars/CVG-Bonn/EgoControl.svg?style=social&label=Star)](https://github.com/CVG-Bonn/EgoControl/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.18173)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://cvg-bonn.github.io/EgoControl/)
 
 + [ATI: Any Trajectory Instruction for Controllable Video Generation](https://arxiv.org/pdf/2505.22944) (Jun., 2025)
   [![Star](https://img.shields.io/github/stars/bytedance/ATI.svg?style=social&label=Star)](https://github.com/bytedance/ATI)
