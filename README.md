@@ -2230,7 +2230,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.13026)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physdreamer.github.io/)
 
-### Video Editing 
+### Video Editing
+
++ [MotionV2V: Editing Motion in a Video](https://arxiv.org/abs/2511.20640) (Nov., 2025)
+  [![Star](https://img.shields.io/github/stars/RyannDaGreat/MotionV2V.svg?style=social&label=Star)](https://github.com/RyannDaGreat/MotionV2V)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.20640)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ryanndagreat.github.io/MotionV2V/)
 
 + [MiniMax-Remover: Taming Bad Noise Helps Video Object Removal](https://arxiv.org/abs/2505.24873) (May, 2025)    
   [![Star](https://img.shields.io/github/stars/zibojia/MiniMax-Remover.svg?style=social&label=Star)](https://github.com/zibojia/MiniMax-Remover) 
