@@ -3227,6 +3227,17 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### 4D
 
++ [Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models](https://arxiv.org/abs/2511.00503) (November, 2025)
+  [![Star](https://img.shields.io/github/stars/paulpanwang/Diff4Splat.svg?style=social&label=Star)](https://github.com/paulpanwang/Diff4Splat)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.00503)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://paulpanwang.github.io/Diff4Splat/)
+  [![Video](https://img.shields.io/badge/Video-F00)](https://www.youtube.com/watch?v=IZKt-pvCLd0)
+
++ [Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models](https://arxiv.org/abs/2507.13344) (July, 2025)
+  [![Star](https://img.shields.io/github/stars/zju3dv/Diffuman4D.svg?style=social&label=Star)](https://github.com/zju3dv/Diffuman4D)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.13344)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://diffuman4d.github.io/)
+
 + [Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models](https://arxiv.org/abs/2507.13344) (July, 2025)
   [![Star](https://img.shields.io/github/stars/zju3dv/Diffuman4D.svg?style=social&label=Star)](https://github.com/zju3dv/Diffuman4D)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.13344)
