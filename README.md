@@ -2144,6 +2144,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Generation with 3D/Physical Prior
 
++ [Over++: Generative Video Compositing for Layer Interaction Effects](https://arxiv.org/abs/2512.19661) (Dec, 2025)  
+  [![Star](https://img.shields.io/github/stars/luchaoqi/overplusplus.svg?style=social&label=Star)](https://github.com/luchaoqi/overplusplus)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.19661)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://overplusplus.github.io/)
+  
 + [Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals](https://arxiv.org/abs/2505.19386) (May, 2025)  
   [![Star](https://img.shields.io/github/stars/brown-palm/force-prompting.svg?style=social&label=Star)](https://github.com/brown-palm/force-prompting)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.19386)
