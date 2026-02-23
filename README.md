@@ -3513,3 +3513,5 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/showlab/Paper2Video.svg?style=social&label=Star)](https://github.com/showlab/Paper2Video)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.05096)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Paper2Video/)
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 APIs, 28M+ data.
