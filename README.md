@@ -283,12 +283,21 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/thu-ml/Causal-Forcing.svg?style=social&label=Star)](https://github.com/thu-ml/Causal-Forcing)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.02214)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://thu-ml.github.io/CausalForcing.github.io/)
+
++ [VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358) (Jan., 2026)  
+  [![Star](https://img.shields.io/github/stars/SOTAMak1r/VINO-code.svg?style=social&label=Star)](https://github.com/SOTAMak1r/VINO-code)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.02358)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sotamak1r.github.io/VINO-web/)
   
 + [UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers](https://arxiv.org/abs/2511.20123) (Oct., 2025)  
   [![Star](https://img.shields.io/github/stars/thu-ml/RIFLEx.svg?style=social&label=Star)](https://github.com/thu-ml/RIFLEx)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.20123)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://thu-ml.github.io/UltraViCo.github.io/)
   
++ [UniVideo: Unified Understanding, Generation, and Editing for Videos](https://arxiv.org/abs/2510.08377) (Oct., 2025)  
+  [![Star](https://img.shields.io/github/stars/KlingAIResearch/UniVideo.svg?style=social&label=Star)](https://github.com/KlingAIResearch/UniVideo)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08377)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://congwei1230.github.io/UniVideo/)
 
 + [PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation](https://arxiv.org/abs/2507.16116) (July., 2025)
   [![Star](https://img.shields.io/github/stars/Yaofang-Liu/Pusa-VidGen.svg?style=social&label=Star)](https://github.com/Yaofang-Liu/Pusa-VidGen)  
@@ -2263,16 +2272,35 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.20640)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ryanndagreat.github.io/MotionV2V/)
 
++ [Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset](https://arxiv.org/abs/2510.15742) (Oct., 2025)  
+  [![Star](https://img.shields.io/github/stars/EzioBy/Ditto.svg?style=social&label=Star)](https://github.com/EzioBy/Ditto)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.15742)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://editto.net/)
+  [![Dataset](https://img.shields.io/badge/Dataset-e97451)](https://huggingface.co/datasets/QingyanBai/Ditto-1M)
+
++ [EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning](https://arxiv.org/abs/2509.20360) (Sep., 2025)  
+  [![Star](https://img.shields.io/github/stars/adobe-research/EditVerse.svg?style=social&label=Star)](https://github.com/adobe-research/EditVerse)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.20360)
+  [![Website](https://img.shields.io/badge/Website-9cf)](http://editverse.s3-website-us-east-1.amazonaws.com/)
+
++ [OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion Transformer Models](https://arxiv.org/abs/2509.17627) (Sep., 2025)  
+  [![Star](https://img.shields.io/github/stars/Phantom-video/OmniInsert.svg?style=social&label=Star)](https://github.com/Phantom-video/OmniInsert)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.17627)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://phantom-video.github.io/OmniInsert/)
+
 + [MiniMax-Remover: Taming Bad Noise Helps Video Object Removal](https://arxiv.org/abs/2505.24873) (May, 2025)    
   [![Star](https://img.shields.io/github/stars/zibojia/MiniMax-Remover.svg?style=social&label=Star)](https://github.com/zibojia/MiniMax-Remover) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.24873)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://minimax-remover.github.io/)
 
-
 + [LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning](https://arxiv.org/abs/2506.10082) (Jun, 2025)    
   [![Star](https://img.shields.io/github/stars/cjeen/LoRAEdit.svg?style=social&label=Star)](https://github.com/cjeen/LoRAEdit) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10082)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cjeen.github.io/LoraEditPaper/)
+
++ [UNIC: Unified In-Context Video Editing](https://arxiv.org/abs/2506.04216) (Jun, 2025)    
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04216)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zixuan-ye.github.io/UNIC/)
   
 + [VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control](https://arxiv.org/abs/2503.05639) (May, 2025 | SIGGRAPH 2025)    
   [![Star](https://img.shields.io/github/stars/TencentARC/VideoPainter.svg?style=social&label=Star)](https://github.com/TencentARC/VideoPainter) 
