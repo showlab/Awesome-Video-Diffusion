@@ -2266,6 +2266,9 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physdreamer.github.io/)
 
 ### Video Editing
++ [NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing](https://arxiv.org/abs/2603.02802) (Mar., 2026)
+  [![Star](https://img.shields.io/github/stars/WeChatCV/NovaEdit.svg?style=social&label=Star)](https://github.com/WeChatCV/NovaEdit)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02802)
 
 + [MotionV2V: Editing Motion in a Video](https://arxiv.org/abs/2511.20640) (Nov., 2025)
   [![Star](https://img.shields.io/github/stars/RyannDaGreat/MotionV2V.svg?style=social&label=Star)](https://github.com/RyannDaGreat/MotionV2V)
