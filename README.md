@@ -273,6 +273,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Wunjo](https://wunjo.online/) ([WR](https://wladradchenko.ru/en#products))  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wunjo.online/)
 
++ [Shortodella](https://shortodella.com/)  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://shortodella.com/)
+
 ### Video Generation
 + [MOVA: Towards Scalable and Synchronized Video-Audio Generation](https://arxiv.org/abs/2602.08794) (Feb., 2026)
   [![Star](https://img.shields.io/github/stars/OpenMOSS/MOVA.svg?style=social&label=Star)](https://github.com/OpenMOSS/MOVA)
