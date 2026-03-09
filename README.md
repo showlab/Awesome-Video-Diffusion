@@ -51,6 +51,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Code-rendered Video Generation](#code-rendered-video-generation)
 
 ### Open-source Toolboxes and Foundation Models 
++ [Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379)  
+  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Helios)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.04379)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/Helios-Page/)
+
 + [Waver: Wave Your Way to Lifelike Video Generation](https://github.com/FoundationVision/Waver)
   [![Star](https://img.shields.io/github/stars/FoundationVision/Waver.svg?style=social&label=Star)](https://github.com/FoundationVision/Waver)
 
@@ -277,6 +282,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://shortodella.com/)
 
 ### Video Generation
++ [Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379) (Mar., 2026)  
+  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Helios)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.04379)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/Helios-Page/)
+
 + [MOVA: Towards Scalable and Synchronized Video-Audio Generation](https://arxiv.org/abs/2602.08794) (Feb., 2026)
   [![Star](https://img.shields.io/github/stars/OpenMOSS/MOVA.svg?style=social&label=Star)](https://github.com/OpenMOSS/MOVA)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.08794)
