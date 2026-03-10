@@ -2279,6 +2279,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physdreamer.github.io/)
 
 ### Video Editing
+
++ [Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance](https://arxiv.org/abs/2603.02175) (Mar., 2026)
+  [![Star](https://img.shields.io/github/stars/showlab/Kiwi-Edit.svg?style=social&label=Star)](https://github.com/showlab/Kiwi-Edit)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02175)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Kiwi-Edit/)
+
 + [NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing](https://arxiv.org/abs/2603.02802) (Mar., 2026)
   [![Star](https://img.shields.io/github/stars/WeChatCV/NovaEdit.svg?style=social&label=Star)](https://github.com/WeChatCV/NovaEdit)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02802)
