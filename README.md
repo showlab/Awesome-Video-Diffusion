@@ -2293,7 +2293,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/knightyxp/VideoCoF.svg?style=social&label=Star)](https://github.com/knightyxp/VideoCoF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.07469)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://videocof.github.io/)
-  [![Dataset](https://img.shields.io/badge/Dataset-blue)](https://huggingface.co/datasets/XiangpengYang/VideoCoF-50k)
+  [![Dataset](https://img.shields.io/badge/Dataset-e97451)](https://huggingface.co/datasets/XiangpengYang/VideoCoF-50k)
 
 + [MotionV2V: Editing Motion in a Video](https://arxiv.org/abs/2511.20640) (Nov., 2025)
   [![Star](https://img.shields.io/github/stars/RyannDaGreat/MotionV2V.svg?style=social&label=Star)](https://github.com/RyannDaGreat/MotionV2V)
