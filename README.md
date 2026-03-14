@@ -3180,6 +3180,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### 3D
 
++ [Monocular Normal Estimation via Shading Sequence Estimation](https://arxiv.org/abs/2602.09929) (Feb., 2026)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.09929)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xinhua694.github.io/RoSE.github.io/)
+
 + [WorldExplorer: Towards Generating Fully Navigable 3D Scenes](https://arxiv.org/abs/2506.01799) (Jun., 2025)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01799)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://the-world-explorer.github.io/)
