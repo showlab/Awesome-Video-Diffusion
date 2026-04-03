@@ -158,6 +158,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   
 ### Evaluation Benchmarks and Metrics
 
++ [LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference](https://arxiv.org/abs/2510.11512) (Oct., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11512)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yuanjianhao508.github.io/LikePhys/)
+
 + [Stable Cinemetrics: Structured Taxonomy and Evaluation for Professional Video Generation](https://arxiv.org/abs/2509.26555) (Sep., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.26555)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://stable-cinemetrics.github.io/)
@@ -3414,6 +3418,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://abolfazl-sh.github.io/Scene_co-pilot_site/)
 
 ### Open-World Model
+
++ [Inference-time Physics Alignment of Video Generative Models with Latent World Models](https://arxiv.org/abs/2601.10553) (Jan., 2026)  
+  [![Star](https://img.shields.io/github/stars/facebookresearch/WMReward.svg?style=social&label=Star)](https://github.com/facebookresearch/WMReward)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.10553)
 
 + [Vid2World: Crafting Video Diffusion Models to Interactive World Models](https://arxiv.org/abs/2505.14357) (May., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.14357)
