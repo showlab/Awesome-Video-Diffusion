@@ -20,6 +20,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 </p>
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for video diffusion workflow orchestration, automated generation pipeline management, and multi-agent coordination. MIT licensed.
 ## Table of Contents <!-- omit in toc -->
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
