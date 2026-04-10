@@ -20,6 +20,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 </p>
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=showlab_Awesome-Video-Diffusion) - Follow developers on GitHub and get a feed of what they star and build.
 ## Table of Contents <!-- omit in toc -->
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
