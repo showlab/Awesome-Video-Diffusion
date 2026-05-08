@@ -421,6 +421,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-Video.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-Video)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06782)
 
++ [Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search](https://arxiv.org/abs/2501.19252) (Jan., 2025)  
+  [![Star](https://img.shields.io/github/stars/shim0114/T2V-Diffusion-Search.svg?style=social&label=Star)](https://github.com/shim0114/T2V-Diffusion-Search)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.19252)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/t2v-dlbs)
+
 + [RepVideo: Rethinking Cross-Layer Representation for Video Generation](https://arxiv.org/pdf/2501.08994) (Jan., 2025)  
   [![Star](https://img.shields.io/github/stars/Vchitect/RepVideo.svg?style=social&label=Star)](https://github.com/Vchitect/RepVideo)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.08994)
