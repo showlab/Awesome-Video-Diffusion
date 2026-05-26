@@ -310,6 +310,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/thu-ml/RIFLEx.svg?style=social&label=Star)](https://github.com/thu-ml/RIFLEx)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.20123)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://thu-ml.github.io/UltraViCo.github.io/)
+
++ [VISTA: A Test-Time Self-Improving Video Generation Agent](https://arxiv.org/abs/2510.15831) (Oct., 2025 | CVPR 2026)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.15831)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://g-vista.github.io/)
   
 + [UniVideo: Unified Understanding, Generation, and Editing for Videos](https://arxiv.org/abs/2510.08377) (Oct., 2025)  
   [![Star](https://img.shields.io/github/stars/KlingAIResearch/UniVideo.svg?style=social&label=Star)](https://github.com/KlingAIResearch/UniVideo)
@@ -1952,6 +1956,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.00458)
 
 ### Long Video / Film Generation
+
++ [A²RD: Agentic Autoregressive Diffusion for Long Video Consistency](https://arxiv.org/abs/2605.06924) (May., 2026)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.06924)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://dxlong2000.github.io/AARD/)
 
 + [Stable Video Infinity: Infinite-Length Video Generation with Error Recycling](https://arxiv.org/abs/2510.09212) (Oct., 2025)    
   [![Star](https://img.shields.io/github/stars/vita-epfl/Stable-Video-Infinity.svg?style=social&label=Star)](https://github.com/vita-epfl/Stable-Video-Infinity) 
