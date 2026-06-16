@@ -51,6 +51,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Code-rendered Video Generation](#code-rendered-video-generation)
 
 ### Open-source Toolboxes and Foundation Models 
+
++ [NanoI2V](https://github.com/Shubham2376G/NanoI2V)  
+  [![Star](https://img.shields.io/github/stars/Shubham2376G/NanoI2V.svg?style=social&label=Star)](https://github.com/Shubham2376G/NanoI2V)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://shubham2376g.github.io/NanoI2V/)  
+  A step-by-step teaching series for building an Image-to-Video model from scratch in PyTorch, covering 3D VAEs, DiT, Flow Matching, RoPE, and conditioning.
+
 + [Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379)  
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Helios)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.04379)
