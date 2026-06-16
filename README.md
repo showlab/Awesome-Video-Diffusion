@@ -285,6 +285,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Shortodella](https://shortodella.com/)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://shortodella.com/)
 
++ [Seedream AI Studio](https://seedream4.video/)  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://seedream4.video/)
+
 ### Video Generation
 + [Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379) (Mar., 2026)  
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Helios)
