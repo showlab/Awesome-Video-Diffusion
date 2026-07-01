@@ -294,6 +294,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Seedream AI Studio](https://seedream4.video/)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://seedream4.video/)
 
++ [Riffkit](https://riffkit.ai/)  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://riffkit.ai/)
+  [![GitHub](https://img.shields.io/badge/GitHub-riffkit%2Fskill-181717?logo=github)](https://github.com/riffkit/skill)
+
 ### Video Generation
 + [Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379) (Mar., 2026)  
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Helios)
