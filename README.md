@@ -1206,6 +1206,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09481)
 
 ### Efficient Video Generation
++ [Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models](https://arxiv.org/abs/2608.18484) (Aug., 2026)  
+  [![Star](https://img.shields.io/github/stars/PardisTaghavi/SparsePR.svg?style=social&label=Star)](https://github.com/PardisTaghavi/SparsePR)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.18484)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pardistaghavi.github.io/SparsePR-website/)
+
 + [SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](https://arxiv.org/abs/2502.18137) (Feb., 2025)   
   [![Star](https://img.shields.io/github/stars/thu-ml/SpargeAttn)](https://github.com/thu-ml/SpargeAttn)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.18137)
