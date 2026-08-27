@@ -273,6 +273,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Toschi_ReLight_My_NeRF_A_Dataset_for_Novel_View_Synthesis_and_CVPR_2023_paper.html)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://eyecan-ai.github.io/rene/) 
 
++ [AIVideoAdherenceGate: Post-Render Semantic and Motion Health Gate for AI Video](https://github.com/madebysaira/AIVideoAdherenceGate) (Aug., 2026)  
+  [![Star](https://img.shields.io/github/stars/madebysaira/AIVideoAdherenceGate.svg?style=social&label=Star)](https://github.com/madebysaira/AIVideoAdherenceGate)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/madebysaira/AIVideoAdherenceGate) 
+
 ### Commercial Product
 
 + [Veo 2](https://sora.com/) ([Google](https://deepmind.google/technologies/veo/veo-2/))  
