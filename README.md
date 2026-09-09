@@ -1265,6 +1265,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [ActionSplice: In-Flight Action Editing for Interactive World Models](https://arxiv.org/abs/2609.08230) (Sep., 2026)
+  [![Star](https://img.shields.io/github/stars/PardisTaghavi/ActionSplice.svg?style=social&label=Star)](https://github.com/PardisTaghavi/ActionSplice)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08230)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pardistaghavi.github.io/actionsplice-website/)
+
 + [PhyCo: Learning Controllable Physical Priors for Generative Motion](https://phyco-video.github.io/) (CVPR 2026)
   [![Star](https://img.shields.io/github/stars/nnsriram97/phyco.svg?style=social&label=Star)](https://github.com/nnsriram97/phyco)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.28169)
