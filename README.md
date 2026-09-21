@@ -2913,6 +2913,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [CaDM: Codec-aware Diffusion Modeling for Neural-enhanced Video Streaming](https://arxiv.org/abs/2211.08428) (Nov., 2022)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.08428)
 
++ [AIVideoDiagrams: 14 SVG Diagram Types for AI Video Production](https://github.com/madebysaira/AIVideoDiagrams) (Aug., 2026)  
+  [![Star](https://img.shields.io/github/stars/madebysaira/AIVideoDiagrams.svg?style=social&label=Star)](https://github.com/madebysaira/AIVideoDiagrams)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/madebysaira/AIVideoDiagrams) 
+
 ### Audio Synthesis for Video
 
 + [AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation](https://arxiv.org/pdf/2406.07686) (Feb., 2025)
@@ -3463,6 +3467,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [What Matters in Detecting AI-Generated Videos like Sora?](https://arxiv.org/abs/2406.19568) (Jun., 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19568)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://justin-crchang.github.io/3DCNNDetection.github.io/)
+
++ [AIVideoQualityGate: Offline ffprobe/ffmpeg Quality Gate for AI Video Renders](https://github.com/madebysaira/AIVideoQualityGate) (Aug., 2026)  
+  [![Star](https://img.shields.io/github/stars/madebysaira/AIVideoQualityGate.svg?style=social&label=Star)](https://github.com/madebysaira/AIVideoQualityGate)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/madebysaira/AIVideoQualityGate) 
 
 ### Rendering with Virtual Engine
 
