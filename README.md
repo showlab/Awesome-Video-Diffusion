@@ -3631,6 +3631,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Neural Cell Video Synthesis via Optical-Flow Diffusion](https://arxiv.org/abs/2212.03250) (Dec., 2022)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.03250)
 
++ [MiniMax H3 1K prompt index](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) - Curated 1K prompt dataset for prompt-driven video generation (H3), with structure guide and 10 reusable prompts.
 
 ### Other Applications
 
