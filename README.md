@@ -3183,6 +3183,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Policy Learning
 
++ [DriveVA: Video Action Models are Zero-Shot Drivers](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) (ECCV 2026)
+  [![Star](https://img.shields.io/github/stars/xiaomi-mlab/DriveVA.svg?style=social&label=Star)](https://github.com/xiaomi-mlab/DriveVA)
+
 + [Object-Centric Image to Video Generation with Language Guidance](https://arxiv.org/abs/2502.11655) (Feb, 2025)   
   [![Star](https://img.shields.io/github/stars/angelvillar96/TextOCVP.svg?style=social&label=Star)](https://github.com/angelvillar96/TextOCVP)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11655)
