@@ -1265,6 +1265,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [LIFT: Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation](https://arxiv.org/abs/2609.38146) (Sep., 2026)
+  [![Star](https://img.shields.io/github/stars/jsxzs/LIFT.svg?style=social&label=Star)](https://github.com/jsxzs/LIFT)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.38146)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jsxzs.github.io/LIFT)
+
 + [ActionSplice: In-Flight Action Editing for Interactive World Models](https://arxiv.org/abs/2609.08230) (Sep., 2026)
   [![Star](https://img.shields.io/github/stars/PardisTaghavi/ActionSplice.svg?style=social&label=Star)](https://github.com/PardisTaghavi/ActionSplice)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08230)
