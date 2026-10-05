@@ -2000,6 +2000,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Long Video / Film Generation
 
++ [Honeycomb: Constant-Size Scene Memory Representation for Video World Models](https://arxiv.org/abs/2609.37690) (Sep., 2026)  
+  [![Star](https://img.shields.io/github/stars/kaichen-z/HoneyComb.svg?style=social&label=Star)](https://github.com/kaichen-z/HoneyComb)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.37690)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jackswl.github.io/honeycomb/)
+
 + [A²RD: Agentic Autoregressive Diffusion for Long Video Consistency](https://arxiv.org/abs/2605.06924) (May., 2026)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.06924)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dxlong2000.github.io/AARD/)
