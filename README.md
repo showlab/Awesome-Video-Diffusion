@@ -306,6 +306,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [SEELE TV](https://seele.tv/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://seele.tv/)
 
++ [pitchboom.io](https://pitchboom.io)  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pitchboom.io)
+
 ### Video Generation
 + [Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379) (Mar., 2026)  
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Helios)
