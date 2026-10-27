@@ -305,6 +305,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 + [SEELE TV](https://seele.tv/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://seele.tv/)
++ [GrokVideo Studio](https://grokvideogenerator.dev)  
+  Independent AI text-to-video generator with a free trial (not affiliated with xAI or X).
++ [PromptImage](https://promptimage.cloud)  
+  Freemium AI image and video studio with a prompt library and multi-model generation.
+
 
 + [pitchboom.io](https://pitchboom.io)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pitchboom.io)
