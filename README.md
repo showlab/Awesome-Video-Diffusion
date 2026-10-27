@@ -2469,7 +2469,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.02684)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://lingtengqiu.github.io/2024/AniGS/)
 
-+ [StableV2V: Stablizing Shape Consistency in Video-to-Video Editing](https://arxiv.org/pdf/2411.11045) (Nov, 2024)  
++ [StableV2V: Stablizing Shape Consistency in Video-to-Video Editing](https://arxiv.org/pdf/2411.11045) (TCSVT 2025)  
   [![Star](https://img.shields.io/github/stars/AlonzoLeeeooo/StableV2V.svg?style=social&label=Star)](https://github.com/AlonzoLeeeooo/StableV2V) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.11045)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://alonzoleeeooo.github.io/StableV2V/)
