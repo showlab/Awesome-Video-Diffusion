@@ -52,6 +52,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-source Toolboxes and Foundation Models 
 
++ [Phosphene: local AI video, image and music studio for Apple Silicon (LTX-2.5, MiniMax H3 via MLX)](https://github.com/mrbizarro/Phosphene)  
+  [![Star](https://img.shields.io/github/stars/mrbizarro/Phosphene.svg?style=social&label=Star)](https://github.com/mrbizarro/Phosphene)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://phosphene.video)  
+  Free MIT Mac app. Runs LTX-2.5 and MiniMax H3 locally through MLX (video with sound), plus image generation and songs from lyrics. 16 GB minimum.
 + [Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter)  
   [![Star](https://img.shields.io/github/stars/WayneJin0918/Omni-Rewriter.svg?style=social&label=Star)](https://github.com/WayneJin0918/Omni-Rewriter)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://waynejin0918.github.io/Omni-Rewriter/)  
