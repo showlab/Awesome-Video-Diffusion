@@ -2908,6 +2908,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Video Enhancement and Restoration
 
++ [Motion-aware generative frame interpolation](https://link.springer.com/article/10.1007/s11432-025-4920-3) (SCIS 2026)
+  [![Star](https://img.shields.io/github/stars/MCG-NJU/MoG-VFI.svg?style=social&label=Star)](https://github.com/MCG-NJU/MoG-VFI)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03699)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mcg-nju.github.io/MoG_Web/)
+
 + [Enhance-A-Video: Better Generated Video for Free](https://arxiv.org/abs/2502.07508) (Feb., 2025)   
   [![Star](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/Enhance-A-Video.svg?style=social&label=Star)](https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07508)
