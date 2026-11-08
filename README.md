@@ -314,6 +314,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [pitchboom.io](https://pitchboom.io)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pitchboom.io)
 
++ [Ideoy](https://ideoy.ai/)  
+  Remake viral meme videos from one selfie (~30s).  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ideoy.ai/)
+
 ### Video Generation
 + [Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379) (Mar., 2026)  
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Helios)
