@@ -3499,6 +3499,10 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-World Model
 
++ [FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation](https://arxiv.org/abs/2610.34564) (NeurIPS 2026)  
+  [![Star](https://img.shields.io/github/stars/wangyz1999/flockworld.svg?style=social&label=Star)](https://github.com/wangyz1999/flockworld)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.34564)
+
 + [Inference-time Physics Alignment of Video Generative Models with Latent World Models](https://arxiv.org/abs/2601.10553) (Jan., 2026)  
   [![Star](https://img.shields.io/github/stars/facebookresearch/WMReward.svg?style=social&label=Star)](https://github.com/facebookresearch/WMReward)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.10553)
