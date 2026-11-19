@@ -2008,6 +2008,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Long Video / Film Generation
 
++ [Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion](https://arxiv.org/abs/2611.02822) (Nov., 2026 | NeurIPS 2026)  
+  [![Star](https://img.shields.io/github/stars/Dijkstra14/Disen-Forcing.svg?style=social&label=Star)](https://github.com/Dijkstra14/Disen-Forcing)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2611.02822)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://disen-forcing.github.io/)
+
 + [Honeycomb: Constant-Size Scene Memory Representation for Video World Models](https://arxiv.org/abs/2609.37690) (Sep., 2026)  
   [![Star](https://img.shields.io/github/stars/kaichen-z/HoneyComb.svg?style=social&label=Star)](https://github.com/kaichen-z/HoneyComb)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.37690)
